@@ -679,7 +679,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13206,
         "fields": {
             "priority": 0,
-            "description": "He’s back. The prodigal son has returned and he’s as unruly as ever. Potato and Army scream to every corner about a Piefdom that was stolen, about NewGens flooding the server with their filth, about So Called “Pief” Thiag and his handlers Homer and Lawberg. He can’t win this time right?  ",
+            "description": "He’s back. The prodigal son has returned and he’s as unruly as ever. Potato and Army scream to every corner about a Piefdom that was stolen, about NewGens flooding the server with their filth, about So Called “Pief” Thiag and his handlers Homer and Lawberg. He can’t win this time right? ",
             "likelihood": 1
         }
     },
@@ -2154,7 +2154,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13223,
         "fields": {
             "question": 13199,
-            "description": "We’re never going to win the California Vote, and Homer is not going to let me get Oregon. Let Orwell have fun out there while I take the lion share.  "
+            "description": "We’re never going to win the California Vote, and Homer is not going to let me get Oregon. Let Orwell have fun out there while I take the lion share. "
         }
     },
     {
@@ -2250,7 +2250,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13274,
         "fields": {
             "question": 13204,
-            "description": "put description here"
+            "description": "We can’t sack him after all the resignations but we can condemn him, call him the radical that he is. Better that than dealing with a Fascist. "
         }
     },
     {
@@ -2258,7 +2258,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13275,
         "fields": {
             "question": 13204,
-            "description": "put description here"
+            "description": " Ignore him. It worked for Okie and it'll work for us. Let him have his base and we’ll win the rest"
         }
     },
     {
@@ -2266,7 +2266,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13276,
         "fields": {
             "question": 13204,
-            "description": "put description here"
+            "description": " Lawberg, I want him gone. Now. "
         }
     },
     {
@@ -2298,7 +2298,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13290,
         "fields": {
             "question": 13205,
-            "description": "File a Suit. Get him off, just get him out of here. Hell talk to Rocke. Maybe we’ve gotta end this Pope thing."
+            "description": "File a Suit. Get him off, just get him out of here. Hell talk to Rocky. Maybe we’ve gotta end this Pope thing."
         }
     },
     {
@@ -11082,6 +11082,36 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 77,
             "global_multiplier": 0.005
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13465,
+        "fields": {
+            "answer": 13276,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13469,
+        "fields": {
+            "answer": 13275,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13471,
+        "fields": {
+            "answer": 13274,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.03
+        }
     }
 ]
 
@@ -11841,7 +11871,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13220,
         "fields": {
             "answer": 13213,
-            "issue": "27",
+            "issue": 27,
             "issue_score": 0.5,
             "issue_importance": 4
         }
@@ -11851,7 +11881,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13233,
         "fields": {
             "answer": 13224,
-            "issue": "27",
+            "issue": 27,
             "issue_score": 0.5,
             "issue_importance": 4
         }
@@ -11861,7 +11891,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13260,
         "fields": {
             "answer": 13252,
-            "issue": "27",
+            "issue": 27,
             "issue_score": -0.5,
             "issue_importance": 4
         }
@@ -11871,7 +11901,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13282,
         "fields": {
             "answer": 13277,
-            "issue": "27",
+            "issue": 27,
             "issue_score": 0.5,
             "issue_importance": 4
         }
@@ -11891,7 +11921,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13364,
         "fields": {
             "answer": 13358,
-            "issue": "27",
+            "issue": 27,
             "issue_score": 0.1,
             "issue_importance": 1
         }
@@ -11961,7 +11991,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 13421,
         "fields": {
             "answer": 13409,
-            "issue": "27",
+            "issue": 27,
             "issue_score": -0.1,
             "issue_importance": 3
         }
@@ -12034,6 +12064,26 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 31,
             "issue_score": 0.5,
             "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13466,
+        "fields": {
+            "answer": 13276,
+            "issue": 29,
+            "issue_score": -0.1,
+            "issue_importance": 3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13472,
+        "fields": {
+            "answer": 13274,
+            "issue": "27",
+            "issue_score": 0.2,
+            "issue_importance": 3
         }
     }
 ]
@@ -12671,7 +12721,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 12473,
             "candidate": 77,
-            "answer_feedback": "With stability remaining, Libra and Rocke come out and lend you a hand telling voters to keep up the peace. Even Raya tells her supporters to rank you first. Only Bobby holds out telling folks to vote for the minor candidates and to vote for change. "
+            "answer_feedback": "With stability remaining, Libra and Rocky come out and lend you a hand telling voters to keep up the peace. Even Raya tells her supporters to rank you first. Only Bobby holds out telling folks to vote for the minor candidates and to vote for change. "
         }
     },
     {
@@ -13598,7 +13648,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13066,
             "candidate": 77,
-            "answer_feedback": "While the backlash of your meddling is fierce, you get what you want and Forgotten resigns from the Court. When you try and appoint one of your lackeys to replace Forgotten, Rocke blocks you citing the looming election. "
+            "answer_feedback": "While the backlash of your meddling is fierce, you get what you want and Forgotten resigns from the Court. When you try and appoint one of your lackeys to replace Forgotten, Rocky blocks you citing the looming election. "
         }
     },
     {
@@ -13724,7 +13774,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13136,
             "candidate": 77,
-            "answer_feedback": "Rocke descends from the Ivory Tower of #privy-council to tell the people again that Mayors will never be an official thing and that he backs you 100%. Home calls out at Staff intervention against fun but his complaints fall on deaf ears. "
+            "answer_feedback": "Rocky descends from the Ivory Tower of #privy-council to tell the people again that Mayors will never be an official thing and that he backs you 100%. Home calls out at Staff intervention against fun but his complaints fall on deaf ears. "
         }
     },
     {
@@ -13922,7 +13972,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13214,
             "candidate": 77,
-            "answer_feedback": "The most recent Deepstaters for Prosperity puts you behind Kostas and Joe. We can’t afford to ignore this threat lest seize the Piefdom in your stead.  "
+            "answer_feedback": "The most recent Deepstaters for Prosperity puts you behind Kostas and Joe. We can’t afford to ignore this threat lest seize the Piefdom in your stead. "
         }
     },
     {
@@ -13994,7 +14044,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13253,
             "candidate": 77,
-            "answer_feedback": "Meow’s Third is sure to be less successful than ever but his base, your base, still remains adamant. It's Meow and Bark for the Future!   "
+            "answer_feedback": "Meow’s Third is sure to be less successful than ever but his base, your base, still remains adamant. It's Meow and Bark for the Future! "
         }
     },
     {
@@ -14039,7 +14089,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13278,
             "candidate": 77,
-            "answer_feedback": " Calls of Competency are all abound. People saying LP isn’t ready for the role but despite your experience they also say your time is up. Its time for a changing of the guard. Someone New.  "
+            "answer_feedback": " Calls of Competency are all abound. People saying LP isn’t ready for the role but despite your experience they also say your time is up. Its time for a changing of the guard. Someone New. "
         }
     },
     {
@@ -14057,7 +14107,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13290,
             "candidate": 77,
-            "answer_feedback": "The Courts understand where you are coming from but the popular support is just too much. Lawberg v Pope Kronk I is never brought to a vote and the case will linger on until after the election. Rocke however is more receptive and hints at the end of the Palpacy."
+            "answer_feedback": "The Courts understand where you are coming from but the popular support is just too much. Lawberg v Pope Kronk I is never brought to a vote and the case will linger on until after the election. Rocky however is more receptive and hints at the end of the Palpacy."
         }
     },
     {
@@ -14102,7 +14152,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13303,
             "candidate": 77,
-            "answer_feedback": "No Dice. To his supporters, Potato is the knight in shining armor willing to do whatever it takes. To his detractors your silence only proves your complacency in a Toxic Piefdom.  "
+            "answer_feedback": "No Dice. To his supporters, Potato is the knight in shining armor willing to do whatever it takes. To his detractors your silence only proves your complacency in a Toxic Piefdom. "
         }
     },
     {
@@ -14273,7 +14323,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13389,
             "candidate": 77,
-            "answer_feedback": "With stability remaining, Libra and Rocke come out and lend you a hand telling voters to keep up the peace. Even Raya tells her supporters to rank you first. Only Bobby holds out telling folks to vote for the minor candidates and to vote for change. "
+            "answer_feedback": "With stability remaining, Libra and Rocky come out and lend you a hand telling voters to keep up the peace. Even Raya tells her supporters to rank you first. Only Bobby holds out telling folks to vote for the minor candidates and to vote for change. "
         }
     },
     {
@@ -14400,6 +14450,33 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 13457,
             "candidate": 77,
             "answer_feedback": "You put your feet up as you watch Its-Da-News. When Waffles says you have no chance of victory you laugh to yourself and sip on your soda. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13467,
+        "fields": {
+            "answer": 13276,
+            "candidate": 77,
+            "answer_feedback": "Calls on him to withdraw are abound and he denies them every single time. He’s in it to win it after all, even if the Deepstate wants him gone. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13468,
+        "fields": {
+            "answer": 13275,
+            "candidate": 77,
+            "answer_feedback": "Maybe this is for the best. Darkstar isn’t going to get anymore popular and you aren’t going to take his supporters. Let him scream in the dark. It's better that way. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13470,
+        "fields": {
+            "answer": 13274,
+            "candidate": 77,
+            "answer_feedback": "That’s why your supporters detest him after all, but it's also why his supporters love him. Mack calls him literally Hitler and that has its expected detractors and supporters."
         }
     }
 ]
@@ -14798,40 +14875,40 @@ function Hamsshift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.55;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(727);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(728);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(729);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(731);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(732);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(733);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(735);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(736);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Hawaii7
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(737);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(738);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(739);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
@@ -14840,25 +14917,25 @@ function Hamsshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.85;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(742);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(743);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(744);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(745);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(746);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(747);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(748);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
@@ -14867,43 +14944,43 @@ function Hamsshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(750);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(751);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(752);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(753);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(754);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(755);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(756);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(757);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(758);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(759);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(760);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(761);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(762);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(763);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
@@ -14912,43 +14989,43 @@ function Hamsshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(765);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(766);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(767);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(768);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(769);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(771);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(772);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(773);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(774);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(775);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(776);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.9;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(777);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = .95;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
 }
 function OhasShift() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(263);
@@ -15311,7 +15388,7 @@ function Gonkshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(733);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.6;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(734);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
@@ -15347,13 +15424,13 @@ function Gonkshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.7;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(745);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.35;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(746);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(747);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.7;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.1;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(748);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.3;
@@ -16227,7 +16304,7 @@ function Potatoshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
@@ -16389,7 +16466,7 @@ function Dysonshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.95;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.95;
@@ -16542,7 +16619,7 @@ function Frankoshift() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.3;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.3;
@@ -16614,157 +16691,157 @@ function Romeshift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.2;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function LameGonkShift() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12756);
@@ -16779,157 +16856,157 @@ function LameGonkShift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.7;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
 campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.3;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.3;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
 campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
 campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
 campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function KronkShift() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12756);
@@ -16944,157 +17021,157 @@ function KronkShift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
 campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.9;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function KronkDeathShift() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12756);
@@ -17109,157 +17186,157 @@ function KronkDeathShift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
-campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 //LARPers
 function Joeswitch() {
@@ -17440,157 +17517,157 @@ function LameOrwellswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.5;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(779);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(780);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(781);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(782);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(783);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(784);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(785);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(786);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(787);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(788);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(789);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(790);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(791);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(792);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(793);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(794);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(795);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(796);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(797);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(798);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(799);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(800);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(801);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(802);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(803);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(804);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(805);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.2;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(806);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(807);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(808);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(809);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(810);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(811);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(812);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(813);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(814);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(815);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(816);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(817);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(818);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(819);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(820);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(821);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(822);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(823);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(824);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(825);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(826);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(827);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function SenatorCringeswitch() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(268);
@@ -17770,157 +17847,157 @@ function MeowSwitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(779);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(780);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(781);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(782);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(783);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(784);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(785);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(786);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(787);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(788);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(789);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(790);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(791);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(792);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(793);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(794);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(795);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(796);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(797);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(798);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(799);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(800);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(801);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(802);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(803);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(804);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(805);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(806);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(807);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(808);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(809);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(810);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(811);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(812);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(813);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(814);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(815);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(816);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(817);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(818);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(819);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(820);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(821);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(822);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(823);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(824);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(825);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(826);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(827);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function MeowDeathSwitch() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(268);
@@ -17935,157 +18012,157 @@ function MeowDeathSwitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(779);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(780);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(781);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(782);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(783);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(784);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(785);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(786);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(787);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(788);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(789);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(790);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(791);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(792);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(793);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(794);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(795);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(796);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(797);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(798);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(799);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(800);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(801);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(802);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(803);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(804);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(805);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(806);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(807);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(808);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(809);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(810);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(811);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(812);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(813);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(814);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(815);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(816);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(817);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(818);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(819);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(820);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(821);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(822);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(823);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(824);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(825);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(826);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(827);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function MinuteManswitch() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(268);
@@ -18268,25 +18345,25 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(779);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(780);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(781);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.5;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(782);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(783);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(784);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(785);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(786);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.5;
@@ -18295,19 +18372,19 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.2;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(788);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(789);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(790);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(791);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(792);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(793);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
@@ -18319,19 +18396,19 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(796);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(797);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.7;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(798);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(799);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(800);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(801);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.4;
@@ -18340,52 +18417,52 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.6;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(803);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(804);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(805);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(806);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(807);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(808);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(809);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(810);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.7;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(811);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(812);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(813);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(814);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(815);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(816);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(817);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.7;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(818);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(819);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.9;
@@ -18394,16 +18471,16 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 4.7;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(821);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(822);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(823);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.6;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(824);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(825);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
@@ -18412,10 +18489,10 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(827);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
 function LPswitch() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(268);
@@ -18750,26 +18827,25 @@ if (e.noCounter == 4) {
         LARP -= 1;
     }
     if(ans == 12399 || ans == 12554 || ans == 12563 || ans == 12543 ){
-        LARP += 1;
         Theme +=1;
     }
     if(ans == 12397 ){
-        LARP += 2;        
+        LARP += 1;        
         Theme +=3;
     }    
     if(ans == 12401 || ans == 12556 || ans == 12565 || ans == 12543 ){
         Theme +=2;
     }
     if(ans == 12552 ){
-        LARP += 2;        
+        LARP += 1;        
         Theme +=4;
     }
     if(ans == 12561 ){
-        LARP += 2;        
+        LARP += 1;        
         Theme +=5;
     }  
     if(ans == 12570 ){
-        LARP += 3;        
+        LARP += 2;        
         Theme +=6;
         Trans -=1;
     }  
@@ -18864,13 +18940,12 @@ if (e.noCounter == 6) {
     }
         if(ans == 12653 || ans == 12657 || ans == 12662 || ans == 12666 || ans == 12669 || ans == 12671 || ans == 12675 || ans == 12678 || ans == 12680 || ans == 12684 ){
         Popeuser = "Pope Gonk I";
-        LARP += 1;
         Trans -= 1;
         Pope += 3;        
     }
         if(ans == 12419 || ans == 12655 || ans == 12682 || ans == 12700 ){
         Popeuser = "Pope Maryland I";
-        LARP += 2;
+        LARP += 1;
         Pope += 2;
     }
         if(ans == 12673 ){
@@ -18913,7 +18988,7 @@ if (e.noCounter == 8) {
     Homershift();
     Opp += 1;
  }
-else if( Trans <= 1 && LARP <= 2 ){
+else if( Trans <= 1 && LARP <= 2 && LM <= 2 ){
     campaignTrail_temp.questions_json[8] = tunnel(13027);
     switcheroo22(); 
     Kostasshift(); 
@@ -19040,7 +19115,14 @@ if (e.noCounter == 10){
         switcheroo47();
         Darkstarswitch();
         LARPer += 7;
-    }    
+    }
+    else{
+        campaignTrail_temp.questions_json[10] = tunnel(13204);        
+        switcheroo47();
+        Darkstarswitch();
+        LARPer += 7;  
+
+    }     
 }
     if(ans == 13251 ){
         LM += 3 
@@ -19284,7 +19366,7 @@ if (quickstats[0] < 3) {
 return "<h3>You didn't even win a state?</h3><p>Very sad!</p><p>It seems like your opponent has won in a landslide, and has the political leverage to enact their agenda. Sorry!</p>"
 } 
 // Hams Beats You
-if (Opp == 1 && OppEV > 270) {
+if (Opp == 1 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19301,7 +19383,7 @@ return "<h3>Well Shucks! You have lost the election to Hams!</h3><p>This is poss
 
 
 // Kostas Beats You
-else if (Opp == 2 && OppEV > 270) {
+else if (Opp == 2 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19317,7 +19399,7 @@ return "<h3>Well Shucks! You have lost the election to Kostas!</h3><p>This is po
 } 
 
 // Ohas Beats You
-else if (Opp == 3 && OppEV > 270) {
+else if (Opp == 3 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19333,7 +19415,7 @@ return "<h3>Well Shucks! You have lost the election to Ohas!</h3><p>This is poss
 } 
 
 // Poopy beats you
-else if (Opp == 4 && OppEV > 270) {
+else if (Opp == 4 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19349,7 +19431,7 @@ return "<h3>Well Shucks! You have lost the election to Poopyfart!</h3><p>This is
 } 
 
 // Gonk beats you
-else if (Opp == 5 && OppEV > 270) {
+else if (Opp == 5 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19365,7 +19447,7 @@ return "<h3>Well Shucks! You have lost the election to Gonkefeller!</h3><p>This 
 }  
 
 // Orwell Beats You
-else if (Opp == 6 && OppEV > 270) {
+else if (Opp == 6 && OppEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19381,7 +19463,7 @@ return "<h3>Well Shucks! You have lost the election to Orwell!</h3><p>This is po
 } 
 
 // Beat Hams
-else if (Opp == 1 && ThiagEV > 270) {
+else if (Opp == 1 && ThiagEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19397,7 +19479,7 @@ return "<h3>Congratulations! You have beat Hams!</h3><p>This is possibly expecte
 }  
 
 // Beat Kostas
-else if (Opp == 2 && ThiagEV > 270) {
+else if (Opp == 2 && ThiagEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19413,7 +19495,7 @@ return "<h3>Congratulations! You have beat Kostas!</h3><p>This is possibly expec
 } 
 
 // Beat Ohas
-else if (Opp == 3 && ThiagEV > 270) {
+else if (Opp == 3 && ThiagEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19429,7 +19511,7 @@ return "<h3>ConCongratulations! You have beat Ohas!</h3><p>This is possibly expe
 } 
 
 // Beat Poopyfart
-else if (Opp == 4 && ThiagEV > 270) {
+else if (Opp == 4 && ThiagEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19445,7 +19527,7 @@ return "<h3>Congratulations! You have beat Poopyfart!</h3><p>This is possibly ex
 } 
 
 // Beat Gonk
-else if (Opp == 5 && ThiagEV > 270) {
+else if (Opp == 5 && ThiagEV >= 270) {
   //If you want to enable replacing the image based upon your performance, copy from here....
     if (used != true) {
         setInterval(function () {
@@ -19959,6 +20041,8 @@ if (!element) {
 	controlElement.id = 'controlElement';
 	document.body.appendChild(controlElement);
 }
+
+
 
 
 
