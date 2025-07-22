@@ -28,7 +28,7 @@ campaignTrail_temp.achievements = {
     },
         "Goon Alert" : {
     "image" : "https://i.imgur.com/sv3RJzn.png",
-    "description" : "Face Kostas and His Chain.",
+    "description" : "Beat The Gooner and His Chain.",
     "cannotBeCheated" : true
     },
         "End Times" : {
