@@ -19877,7 +19877,7 @@ if (Opp == 1 && OppEV >= 270) {
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         " <b> Ｓｉｍｐｓｏｎｗａｖｅ １９９５ </b>",
+         "Ｓｉｍｐｓｏｎｗａｖｅ １９９５",
          "FrankJavCee",
          "https://i1.sndcdn.com/artworks-000160030683-jmbytu-t500x500.jpg",
          "https://audio.jukehost.co.uk/gr7hQVKMETB4pISiUGJyLptLhjiKUkwY"
@@ -20543,7 +20543,7 @@ else if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV) {
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         " <b> Ｓｉｍｐｓｏｎｗａｖｅ １９９５ </b>",
+         "Ｓｉｍｐｓｏｎｗａｖｅ １９９５",
          "FrankJavCee",
          "https://i1.sndcdn.com/artworks-000160030683-jmbytu-t500x500.jpg",
          "https://audio.jukehost.co.uk/gr7hQVKMETB4pISiUGJyLptLhjiKUkwY"
