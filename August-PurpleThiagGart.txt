@@ -20402,7 +20402,7 @@ else{
         PopeKronkShift();
         Gonk += 1;
     }
-    else if (HS == 5 ){ 
+    else if (HS == 10 ){ 
         campaignTrail_temp.questions_json[9] = tunnel(13206);        
         switcheroo32();
         Potatoshift();
