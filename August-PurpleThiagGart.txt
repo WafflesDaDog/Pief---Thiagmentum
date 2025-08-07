@@ -952,6 +952,249 @@ campaignTrail_temp.questions_json = [
             "description": "It's Chaos. Your focus on Kostas's more radical tendencies has only further polarized this election. His supporters talk about you muling or rigging the election and now you face the man himself in #pief-general. You've gotta show your fighter not a quitter Thiag, Now!",
             "likelihood": 1
         }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13718,
+        "fields": {
+            "priority": 0,
+            "description": "Despite his low Polling Performance, Homer has decided to stay citing the abysmal failure of your administration. Besides him stands St. Reed, who’s been an avid Homerite since Parliament and has tried to keep this election a positive one. Keep up the fight Thiag, and I’m sure you can destroy the Yellow Menace.",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13730,
+        "fields": {
+            "priority": 0,
+            "description": "It's debate night and you and Lawberg have been planning. You're not going to debate. Say what you will about Homer, but he’d mop the floor with you. Instead your Vice-Pief, Lawberg, he’s the one. You’ve gotta pick a tack and asap. ",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13742,
+        "fields": {
+            "priority": 0,
+            "description": "It's time. #ThiagHQ waits as votes start coming in. You aren’t sure how to feel but Lawberg is telling you that you’ll win in a landslide. It's Homer so you aren’t too worried but anything could happen in these last few hours. You’ve got just enough juice to seal the deal but how will you do it?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13756,
+        "fields": {
+            "priority": -2,
+            "description": "The dice has been rolled and midnight has finally arrived, Libra has declared an Early Election in July on the 28th. The people stand waiting, ready for your announcement of your campaign. What will you tell the people? ",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13770,
+        "fields": {
+            "priority": -2,
+            "description": "The dice has been rolled and midnight has finally arrived, Libra has declared an Early Election in July on the 28th. The people stand waiting, ready for your announcement of your campaign. What will you tell the people? ",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13823,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Established his Campaign Against Kostas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13826,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Locks in to beat Kostas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13829,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Established his Campaign Against Hams",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13832,
+        "fields": {
+            "priority": -2,
+            "description": "Gart locks in to beat Hams",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13835,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Established his Campaign Against Ohas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13838,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Locks in to beat Ohas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13841,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Established his Campaign Against Poopyfart",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13844,
+        "fields": {
+            "priority": -2,
+            "description": "Gart locks in to beat Poopyfart",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13847,
+        "fields": {
+            "priority": -2,
+            "description": "Gart Established his Campaign Against Gonkefeller",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13850,
+        "fields": {
+            "priority": -2,
+            "description": "Gart beats Gonk?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13853,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Kostas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13856,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Kostas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13859,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Hams",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13862,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Ohas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13865,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Poopyfart",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13868,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Gonkefeller",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13871,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg Established his Campaign Against Homer",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13874,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Hams",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13877,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Ohas",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13880,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Poopyfart",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13883,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Gonkefeller",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13886,
+        "fields": {
+            "priority": -2,
+            "description": "Lawberg bombs Homer",
+            "likelihood": 1
+        }
     }
 ]
 
@@ -2441,7 +2684,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13264,
         "fields": {
             "question": 13202,
-            "description": "Screw this, we can't let him take our base right from under us. Ready #ThiagHQ, we go to war!"
+            "description": "Screw this, we can't let him take our base right from under us. He's crazy and won't do anything as Pief! Ready #ThiagHQ, we go to war!"
         }
     },
     {
@@ -3186,6 +3429,294 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 13680,
             "description": "It's all about MAGA. He's a crazy man who loves Trump and loves that rapist Cuomo. If I lived in New York I'd be a Mamdani supporter all the way. All this Greek knows is how to be a fascist. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13719,
+        "fields": {
+            "question": 13718,
+            "description": "Look, I'm sure we can divide and conquer here. Get Lawberg to reach out to St. Reed and promise him a court spot if he drops off the ticket."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13724,
+        "fields": {
+            "question": 13718,
+            "description": "Homer’s still the focus and he’ll keep going low even if St. Reed won’t. Get Lawberg to pester him. Call him a ScottishBozo. If they go low, we’ll go lower."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13731,
+        "fields": {
+            "question": 13730,
+            "description": " Lawberg knows better than anyone else. You’ve gotta fight fire with fire. Let him deal with the Scottish Bozo anyway he knows how"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13736,
+        "fields": {
+            "question": 13730,
+            "description": "We’ve got the best record in the history of the Deepstate. No reason to make things any more complex than they need to be. Keeping winning with Thiag/Lawberg or Lose with Homer/Reed"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13743,
+        "fields": {
+            "question": 13742,
+            "description": "A Big Rally, the biggest one the server has ever seen! Voice Chat is our home base and when we put it together with Lawberg and Kienna speaking, the People will make the right call."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13748,
+        "fields": {
+            "question": 13742,
+            "description": "Look I know we don’t need it but we’ve gotta be safe. Get Zim out there and get the vote tally to start going up!"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13754,
+        "fields": {
+            "question": 13718,
+            "description": "St. Reed is just some Gonk who isn’t even involved in Pief LARP. I don’t remember him doing anything to anyone in any election. We’ve gotta have experience not Gonkiness. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13755,
+        "fields": {
+            "question": 13718,
+            "description": "How many times has Homer run again, I think it's too many. He ran in May, In June, and every election in July. Remember to vote Thiag because you can vote for Homer anytime."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13757,
+        "fields": {
+            "question": 13756,
+            "description": "Look, I know everyone is very excited for this next election, but man, everything has just gotten me so tired. I just can't. <b> I will announce my intention to not run in this election </b>"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13771,
+        "fields": {
+            "question": 13770,
+            "description": "Look, I know everyone is very excited for this next election, but man, everything has just gotten me so tired. I just can't. <b> I will announce my intention to not run in this election </b>"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13793,
+        "fields": {
+            "question": 13730,
+            "description": "Homer ain’t that popular with the other servers. What’s he made, like a mod and then just a bunch of Reddit Teasers? Lawberg is running what will be the best mod of all time and the people are excited for it. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13794,
+        "fields": {
+            "question": 13730,
+            "description": "Let Lawberg be Lawberg. I trust his instincts 100% and I’m sure they’ll be enough to win big."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13810,
+        "fields": {
+            "question": 13742,
+            "description": "Lawberg’s telling me to rest and wait and you know I’m with him. There ain’t anything to be worried about when we are dealing with a Washed Gonk"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13811,
+        "fields": {
+            "question": 13742,
+            "description": "We need a flood. The biggest flood #pief-general has ever seen!. Show the people who’s put in the legwork with our posters and our supporters."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13824,
+        "fields": {
+            "question": 13823,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13827,
+        "fields": {
+            "question": 13826,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13830,
+        "fields": {
+            "question": 13829,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13833,
+        "fields": {
+            "question": 13832,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13836,
+        "fields": {
+            "question": 13835,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13839,
+        "fields": {
+            "question": 13838,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13842,
+        "fields": {
+            "question": 13841,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13845,
+        "fields": {
+            "question": 13844,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13848,
+        "fields": {
+            "question": 13847,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13851,
+        "fields": {
+            "question": 13850,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13854,
+        "fields": {
+            "question": 13853,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13857,
+        "fields": {
+            "question": 13856,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13860,
+        "fields": {
+            "question": 13859,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13863,
+        "fields": {
+            "question": 13862,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13866,
+        "fields": {
+            "question": 13865,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13869,
+        "fields": {
+            "question": 13868,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13872,
+        "fields": {
+            "question": 13871,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13875,
+        "fields": {
+            "question": 13874,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13878,
+        "fields": {
+            "question": 13877,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13881,
+        "fields": {
+            "question": 13880,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13884,
+        "fields": {
+            "question": 13883,
+            "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13887,
+        "fields": {
+            "question": 13886,
+            "description": "You'll get more soon trust"
         }
     }
 ]
@@ -12427,6 +12958,316 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 78,
             "global_multiplier": 0.01
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13759,
+        "fields": {
+            "answer": 13757,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13773,
+        "fields": {
+            "answer": 13771,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13776,
+        "fields": {
+            "answer": 13719,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.0005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13778,
+        "fields": {
+            "answer": 13719,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13779,
+        "fields": {
+            "answer": 13719,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13780,
+        "fields": {
+            "answer": 13724,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13781,
+        "fields": {
+            "answer": 13724,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13782,
+        "fields": {
+            "answer": 13724,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13783,
+        "fields": {
+            "answer": 13724,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13784,
+        "fields": {
+            "answer": 13754,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13785,
+        "fields": {
+            "answer": 13754,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13786,
+        "fields": {
+            "answer": 13754,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13787,
+        "fields": {
+            "answer": 13754,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13789,
+        "fields": {
+            "answer": 13755,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13790,
+        "fields": {
+            "answer": 13755,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13791,
+        "fields": {
+            "answer": 13755,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13792,
+        "fields": {
+            "answer": 13755,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13795,
+        "fields": {
+            "answer": 13731,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13796,
+        "fields": {
+            "answer": 13731,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13797,
+        "fields": {
+            "answer": 13731,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13798,
+        "fields": {
+            "answer": 13731,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13799,
+        "fields": {
+            "answer": 13736,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13800,
+        "fields": {
+            "answer": 13736,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13806,
+        "fields": {
+            "answer": 13794,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13807,
+        "fields": {
+            "answer": 13794,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13808,
+        "fields": {
+            "answer": 13794,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13814,
+        "fields": {
+            "answer": 13743,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13815,
+        "fields": {
+            "answer": 13743,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13817,
+        "fields": {
+            "answer": 13748,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13820,
+        "fields": {
+            "answer": 13811,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.003
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13821,
+        "fields": {
+            "answer": 13811,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.006
+        }
     }
 ]
 
@@ -13619,6 +14460,86 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 29,
             "issue_score": 0.5,
             "issue_importance": 5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13788,
+        "fields": {
+            "answer": 13719,
+            "issue": 31,
+            "issue_score": 0.2,
+            "issue_importance": 3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13801,
+        "fields": {
+            "answer": 13736,
+            "issue": 31,
+            "issue_score": 0.03,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13803,
+        "fields": {
+            "answer": 13793,
+            "issue": 30,
+            "issue_score": 0.1,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13804,
+        "fields": {
+            "answer": 13793,
+            "issue": 31,
+            "issue_score": 0.2,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13809,
+        "fields": {
+            "answer": 13794,
+            "issue": 31,
+            "issue_score": 0.6,
+            "issue_importance": 5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13816,
+        "fields": {
+            "answer": 13743,
+            "issue": 31,
+            "issue_score": -0.1,
+            "issue_importance": 2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13818,
+        "fields": {
+            "answer": 13748,
+            "issue": 31,
+            "issue_score": 1,
+            "issue_importance": 7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13819,
+        "fields": {
+            "answer": 13810,
+            "issue": 31,
+            "issue_score": 0.5,
+            "issue_importance": 4
         }
     }
 ]
@@ -16537,6 +17458,339 @@ campaignTrail_temp.answer_feedback_json = [
             "candidate": 77,
             "answer_feedback": "\"Trump's the greatest President America's ever had and is why I want to go live there and not Greece. I'd be our most MAGA Pief and not a Loser like you Thiag.\" Best keep up the fight. Exit polls show voters are uncomfortable with how much Kostas loves Trump. Hopefully those who love Democracy will keep you around and not vote for this nut. "
         }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13720,
+        "fields": {
+            "answer": 13719,
+            "candidate": 77,
+            "answer_feedback": "Reed, while interested, doesn't want to betray Homer in such a way. In a show of good faith he doesn’t leak Lawberg’s DMs to Homer or #pief-general. Looks like there won’t be too much blow back."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13725,
+        "fields": {
+            "answer": 13724,
+            "candidate": 77,
+            "answer_feedback": "The staff steps in and lockdown #pief-general. You, Lawberg, and Homer are given hour-long mutes while Reed is able to keep posting about how good a Homer Piefdom will be. Not good."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13732,
+        "fields": {
+            "answer": 13731,
+            "candidate": 77,
+            "answer_feedback": "Lawberg goes off the rails and attacks Homer for everything he is worth. When they both get muted for the rest of the election no one is really surprised. Still polls show that you both lost voters after this latest crashout."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13737,
+        "fields": {
+            "answer": 13736,
+            "candidate": 77,
+            "answer_feedback": "I’m sure you’ve heard it before Thiag, but what exactly have you done during this term? Sure you went to war more than a handful of times in the first one but anything you’ve done so far has been lackluster to say the least."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13744,
+        "fields": {
+            "answer": 13743,
+            "candidate": 77,
+            "answer_feedback": "You start it right as Ballot’s start opening up and despite smaller attendance, those who were in attendance are more than happy to vote for you. The only bad press you get from it is when Gart announces his support for Homer during the rally. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13749,
+        "fields": {
+            "answer": 13748,
+            "candidate": 77,
+            "answer_feedback": "The Votes start going up with a clear edge for your campaign and despite calls from Homer, RDS, and Okie you know you’ve got this election in the bag."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13758,
+        "fields": {
+            "answer": 13757,
+            "candidate": 77,
+            "answer_feedback": "The people, and especially your supporters are caught off guard by the announcement. Everyone was excited for your next run but now It's Gart taking the stage. <i>Godspeed Thiag, Godspeed. </i> "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13772,
+        "fields": {
+            "answer": 13771,
+            "candidate": 77,
+            "answer_feedback": "The people, and especially your supporters are caught off guard by the announcement. Everyone was excited for your next run but now It's Lawberg taking the stage. <i>Godspeed Thiag, Godspeed. </i> "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13774,
+        "fields": {
+            "answer": 13754,
+            "candidate": 77,
+            "answer_feedback": "Reed’s a saint when it comes to Pief Politics. The way they carry themselves just makes any attacks look bad on you. Eva comes out of the wilderness and gives an endorsement to Homer and Raya threatens to resign if this sort of Toxicity continues. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13775,
+        "fields": {
+            "answer": 13755,
+            "candidate": 77,
+            "answer_feedback": "The biggest thing weighing down Homer is the fact that he’s ran just so many times. It doesn’t matter what shade of yellow paint he’s wearing, he’s still making his fourth run on the Deepstate Alone and people take note. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13802,
+        "fields": {
+            "answer": 13793,
+            "candidate": 77,
+            "answer_feedback": "I hate to say it but Homer is popular with the average Maincord Gonk. And he’s at least 1 for 1 compared to the mess that has been Madam President. If you brought this up in September when Lawberg finally puts it out then this would be a different story…."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13805,
+        "fields": {
+            "answer": 13794,
+            "candidate": 77,
+            "answer_feedback": "Homer throws a couple of barbs at Lawberg and call it Waffles not paying attention or Eva being biased, but they don’t stop Lawberg’s following crashout. When Libra mutes Lawberg and removes his access to #pief-general all you can do is complain in their Dms."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13812,
+        "fields": {
+            "answer": 13810,
+            "candidate": 77,
+            "answer_feedback": " Fair Enough Thiag. Hopefully your majority is big enough to win. Even if it isn't, the Guaraná soda makes up for any lost votes. Yummers."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13813,
+        "fields": {
+            "answer": 13811,
+            "candidate": 77,
+            "answer_feedback": "You’ve made more than enough posters to flood #pief-general with your propaganda, but Homer isn’t a slouch in this department. For every Pro-Thiag picture posted Homer and Reed respond with two more. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13822,
+        "fields": {
+            "answer": 13409,
+            "candidate": 77,
+            "answer_feedback": "One of the more controversial bits of your administration. Most of the people are split down the middle if they want to keep the office changes permanent and even The Dukes are silent to back you up."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13825,
+        "fields": {
+            "answer": 13824,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13828,
+        "fields": {
+            "answer": 13827,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13831,
+        "fields": {
+            "answer": 13830,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13834,
+        "fields": {
+            "answer": 13833,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13837,
+        "fields": {
+            "answer": 13836,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13840,
+        "fields": {
+            "answer": 13839,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13843,
+        "fields": {
+            "answer": 13842,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13846,
+        "fields": {
+            "answer": 13845,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13849,
+        "fields": {
+            "answer": 13848,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13852,
+        "fields": {
+            "answer": 13851,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13855,
+        "fields": {
+            "answer": 13854,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13858,
+        "fields": {
+            "answer": 13857,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13861,
+        "fields": {
+            "answer": 13860,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13864,
+        "fields": {
+            "answer": 13863,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13867,
+        "fields": {
+            "answer": 13866,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13870,
+        "fields": {
+            "answer": 13869,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13873,
+        "fields": {
+            "answer": 13872,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13876,
+        "fields": {
+            "answer": 13875,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13879,
+        "fields": {
+            "answer": 13878,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13882,
+        "fields": {
+            "answer": 13881,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13885,
+        "fields": {
+            "answer": 13884,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13888,
+        "fields": {
+            "answer": 13887,
+            "candidate": 77,
+            "answer_feedback": "Soonish*"
+        }
     }
 ]
 
@@ -16563,12 +17817,15 @@ var Popeuser = ' Pope Tuah I ';
 var Gonk = 0;
 var LARPer = 0
 var VP = 0;
+var Thiag = 0;
 var SecretEnding = 0;
 var MAGA = 0;
+var DOH = 0;
 var songChange = 0;
 e.noCounter = 0
 
-e = campaignTrail_temp
+e = campaignTrail_temp;
+
 
 
 campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/yHUwzSR.png';
@@ -16608,11 +17865,27 @@ function updateQuestionBanner() {
         img.width = 280; // Adjust the width as needed
         img.height = 105; // Adjust the height as needed
     }
-    else if (e.VPisCandidate == 1)
+   
+   { 
+    if (e.VPisCandidate == 1)
         img.src = 'https://i.imgur.com/KuFHQ0h.png';
         img.width = 280; // Adjust the width as needed
         img.height = 105; // Adjust the height as needed    
     questionBanner.replaceWith(img);
+   }
+
+   { 
+    if (e.VPisCandidate == 2)
+        img.src = 'https://i.imgur.com/tskgfc2.png';
+        img.width = 280; // Adjust the width as needed
+        img.height = 105; // Adjust the height as needed    
+    questionBanner.replaceWith(img);
+   }
+    if (e.VPisCandidate == 3)
+        img.src = 'https://i.imgur.com/e59MT3P.png';
+        img.width = 280; // Adjust the width as needed
+        img.height = 105; // Adjust the height as needed    
+    questionBanner.replaceWith(img);    
 }
 
 function tunnel(new_q){
@@ -16821,6 +18094,18 @@ function switcheroo90() {
     e.candidate_json[id].fields.first_name = ""
     e.candidate_json[id].fields.last_name = "Thiag"
     e.candidate_json[id].fields.color_hex = "#5900C6"     
+}
+function switcheroo91() {
+    var id = e.candidate_json.map(p=>p.pk).indexOf(77)
+    e.candidate_json[id].fields.first_name = ""
+    e.candidate_json[id].fields.last_name = "Gart F. Jonkler"
+    e.candidate_json[id].fields.color_hex = "#7669F4"     
+}
+function switcheroo92() {
+    var id = e.candidate_json.map(p=>p.pk).indexOf(77)
+    e.candidate_json[id].fields.first_name = ""
+    e.candidate_json[id].fields.last_name = "Lawberg"
+    e.candidate_json[id].fields.color_hex = "#3A00C6"     
 }
 // Opps Shift
 function Homershift() {
@@ -18321,157 +19606,157 @@ function WafflesShift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(727);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(728);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //Arizona
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(729);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(730);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 50;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(731);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Colorado
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(732);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(733);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(734);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(735);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(736);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(737);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Idaho
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(738);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2; 
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(739);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(740);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(741);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(742);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(743);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(744);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(745);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(746);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(747);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(748);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(749);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(750);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(751);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(752);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Nebraska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(753);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Nevada
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(754);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(755);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(756);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //NewMexico
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(757);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //NewYork
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(758);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(759);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(760);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(761);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(762);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Oregon
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(763);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(764);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(765);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(766);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(767);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(768);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(769);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Utah
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 100;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(771);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(772);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(773);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(774);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(775);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(776);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(777);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 7;
 }
 function Kostasshift() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(263);
@@ -20134,7 +21419,7 @@ function Joeswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.1;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.000245;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.00045;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -20299,7 +21584,7 @@ function MackSwitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.7;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.4;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.00045;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -20464,7 +21749,7 @@ function LameOrwellswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.6;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.245;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.5;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -20629,7 +21914,7 @@ function SenatorCringeswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -20794,7 +22079,7 @@ function MeowSwitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -20959,7 +22244,7 @@ function MeowDeathSwitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21124,7 +22409,7 @@ function MinuteManswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.245;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.6;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21289,7 +22574,7 @@ function Darkstarswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.8;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21454,7 +22739,7 @@ function LPswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.245;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.8;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21619,7 +22904,7 @@ function NoLARPshift() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21784,7 +23069,7 @@ function MAGAThiagswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
-    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(271);
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(272);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.8;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
@@ -21940,9 +23225,546 @@ function MAGAThiagswitch() {
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.0;
 }
+function Gartshift() {
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(258);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.4;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(259);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.45;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(260);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.00485;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(261);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(262);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.4;
+    //Alabama
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(676);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Alaska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(677);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Arizona
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(678);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Arkansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(679);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //California
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(680);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Colorado
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(681);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Connecticut
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(682);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Delaware
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(683);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Florida
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(684);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Georgia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(685);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Hawaii
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(686);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Idaho
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(687);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1; 
+    //Illinois
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(688);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Indiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(689);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Iowa
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(690);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Kansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(691);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Kentucky
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(692);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Louisiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(693);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Maine
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(694);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Maryland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(695);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Massachusetts
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(696);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Michigan
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(697);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Minnesota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(698);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Mississippi
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(699);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Missouri
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(700);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Montana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(701);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Nebraska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(702);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Nevada
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(703);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NewHampshire
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(704);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NewJersey
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(705);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NewMexico
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(706);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NewYork
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(707);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NorthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(708);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //NorthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(709);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Ohio
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(710);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Oklahoma
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(711);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Oregon
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(712);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Pennsylvania
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(713);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //RhodeIsland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(714);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //SouthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(715);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //SouthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(716);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Tennessee
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(717);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Texas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(718);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Utah
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(719);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Vermont
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(720);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Virginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(721);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Washington
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(722);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //WashingtonDC
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(723);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //WestVirginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(724);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Wisconsin
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(725);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+    //Wyoming
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(726);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
+}
+function Lawbergshift() {
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(258);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(259);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.65;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(260);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(261);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(262);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.7;
+    //Alabama
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(676);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Alaska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(677);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Arizona
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(678);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Arkansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(679);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //California
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(680);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Colorado
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(681);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Connecticut
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(682);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Delaware
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(683);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Florida
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(684);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Georgia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(685);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Hawaii
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(686);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Idaho
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(687);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1; 
+    //Illinois
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(688);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Indiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(689);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Iowa
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(690);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Kansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(691);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Kentucky
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(692);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Louisiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(693);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Maine
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(694);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Maryland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(695);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Massachusetts
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(696);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Michigan
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(697);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Minnesota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(698);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Mississippi
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(699);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Missouri
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(700);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Montana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(701);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Nebraska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(702);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Nevada
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(703);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NewHampshire
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(704);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NewJersey
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(705);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NewMexico
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(706);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NewYork
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(707);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NorthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(708);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //NorthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(709);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Ohio
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(710);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Oklahoma
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(711);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Oregon
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(712);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Pennsylvania
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(713);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //RhodeIsland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(714);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //SouthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(715);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //SouthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(716);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Tennessee
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(717);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Texas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(718);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Utah
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(719);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Vermont
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(720);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Virginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(721);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Washington
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(722);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //WashingtonDC
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(723);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //WestVirginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(724);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Wisconsin
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(725);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+    //Wyoming
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(726);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
+}
 cyoAdventure = function(a) {
-    ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length-1];
     e.noCounter += 1
+ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1];
+
+// #pief-general shit
+if (campaignTrail_temp.question_number == 2 && LM == 0) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.mango;
+}
+if (campaignTrail_temp.question_number == 2 && LM == 1) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.meow;
+}
+if (campaignTrail_temp.question_number == 2 && LM == 2) {
+    delete nominees.mango;
+    delete nominees.meow;
+}
+if (campaignTrail_temp.question_number == 2 && HS == 2) {
+    delete nominees.law;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 3 && HS == 3) {
+    delete nominees.doh;
+}
+if (campaignTrail_temp.question_number == 4 && LM == 2) {
+    delete nominees.poopy;
+    delete nominees.rascism;
+}
+if (campaignTrail_temp.question_number == 4 && LM == 3) {
+    delete nominees.greek;
+    delete nominees.lp;
+}
+if (campaignTrail_temp.question_number == 4 && (e.player_answers.includes(12392) || e.player_answers.includes(12511) || e.player_answers.includes(12520) || e.player_answers.includes(12529) || e.player_answers.includes(12538) || e.player_answers.includes(12547)) ) {
+    delete nominees.free;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 0) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.roblox;
+    delete nominees.lameorwell;
+    delete nominees.meow;
+    delete nominees.mango;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 1) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.roblox;
+    delete nominees.femboy;
+    delete nominees.meow;
+    delete nominees.mango;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 2) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.femboy;
+    delete nominees.lameorwell;
+    delete nominees.meow;
+    delete nominees.mango;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 3) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.roblox;
+    delete nominees.lameorwell;
+    delete nominees.femboy;
+    delete nominees.mango;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 4) {
+    delete nominees.lp;
+    delete nominees.rascism;
+    delete nominees.roblox;
+    delete nominees.lameorwell;
+    delete nominees.femboy;
+    delete nominees.meow;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 5) {
+    delete nominees.mango;
+    delete nominees.rascism;
+    delete nominees.roblox;
+    delete nominees.lameorwell;
+    delete nominees.femboy;
+    delete nominees.meow;
+}
+if (campaignTrail_temp.question_number == 5 && Theme == 5) {
+    delete nominees.mango;
+    delete nominees.lp;
+    delete nominees.roblox;
+    delete nominees.lameorwell;
+    delete nominees.femboy;
+    delete nominees.meow;
+}
+if (campaignTrail_temp.question_number == 7 && Pope == 3) {
+    delete nominees.lamegonker;
+    delete nominees.gonker;
+}
+if (campaignTrail_temp.question_number == 7 && Pope == 4) {
+    delete nominees.doh;
+}
+if (campaignTrail_temp.question_number == 8 && (e.player_answers.includes(12424) || e.player_answers.includes(12426)) ) {
+    delete nominees.free;
+    delete nominees.dyson;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 1) {
+    delete nominees.greek;
+    delete nominees.law;
+    delete nominees.poopy;
+    delete nominees.gonker;
+    delete nominees.orwell;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 2) {
+    delete nominees.doh;
+    delete nominees.law;
+    delete nominees.poopy;
+    delete nominees.gonker;
+    delete nominees.orwell;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 3) {
+    delete nominees.doh;
+    delete nominees.greek;
+    delete nominees.poopy;
+    delete nominees.gonker;
+    delete nominees.orwell;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 4) {
+    delete nominees.doh;
+    delete nominees.greek;
+    delete nominees.law;
+    delete nominees.gonker;
+    delete nominees.orwell;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 5) {
+    delete nominees.doh;
+    delete nominees.greek;
+    delete nominees.law;
+    delete nominees.poopy;
+    delete nominees.orwell;
+}
+if (campaignTrail_temp.question_number == 9 && Opp == 6) {
+    delete nominees.doh;
+    delete nominees.greek;
+    delete nominees.law;
+    delete nominees.poopy;
+    delete nominees.gonker;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 1) {
+    delete nominees.lame1984;
+    delete nominees.gonk;
+    delete nominees.free;
+    delete nominees.dyson;
+    delete nominees.justice;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 2) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.free;
+    delete nominees.dyson;
+    delete nominees.justice;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 3) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.free;
+    delete nominees.gonk;
+    delete nominees.justice;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 4) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.dyson;
+    delete nominees.gonk;
+    delete nominees.justice;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 5) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.dyson;
+    delete nominees.gonk;
+    delete nominees.free;
+    delete nominees.lamegonker;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 6) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.dyson;
+    delete nominees.gonk;
+    delete nominees.free;
+    delete nominees.justice;
+    delete nominees.kronk;
+}
+if (campaignTrail_temp.question_number == 10 && Gonk == 7) {
+    delete nominees.lame1984;
+    delete nominees.pope;
+    delete nominees.dyson;
+    delete nominees.gonk;
+    delete nominees.free;
+    delete nominees.justice;
+    delete nominees.lamegonker;
+}
 
 //Q1
 
@@ -22006,6 +23828,7 @@ if (e.noCounter == 2) {
 
     if(ans == 12383 ){
         Trans -= 1;
+        DOH += 1;
     console.log("I stole it");
     }
 
@@ -22262,19 +24085,19 @@ if (e.noCounter == 6) {
 
 //Q9
 if (e.noCounter == 8) {
- if( LM == 10 && HS == 3 && Pope == 3){
+ if( LM == 2 && HS == 3 && Pope == 3){
     campaignTrail_temp.questions_json[8] = tunnel(13646); 
     switcheroo30();
     NoOneShift();
     Opp += 9;
  }
-else if( Trans <= -5 && (e.player_answers.includes(12424)) && (e.player_answers.includes(12633)) ){
+else if( Trans <= 0 && (e.player_answers.includes(12424)) && (e.player_answers.includes(12633)) ){
     campaignTrail_temp.questions_json[8] = tunnel(13613); 
     switcheroo27();
     MangoShift();
     Opp += 8;
  }
-else if( Trans <= -5 && LM == 0 && e.player_answers.includes(12428) && (e.player_answers.includes(12392) || e.player_answers.includes(12511) || e.player_answers.includes(12520) || e.player_answers.includes(12529) || e.player_answers.includes(12538) || e.player_answers.includes(12547))){
+else if( Trans <= 1 && LM == 0 && e.player_answers.includes(12428) && (e.player_answers.includes(12392) || e.player_answers.includes(12511) || e.player_answers.includes(12520) || e.player_answers.includes(12529) || e.player_answers.includes(12538) || e.player_answers.includes(12547))){
     campaignTrail_temp.questions_json[8] = tunnel(13631);
     switcheroo29(); 
     BobbyShift(); 
@@ -22317,10 +24140,50 @@ else{
     Opp += 6;
  }
 }
+   if (ans == 13290 ){
+        Trans += 1;
+    }
+    if (ans == 13291 ){
+        LARP -= 1;
+    }
+    if (ans == 13314 ){
+        Trans += 1;
+    }
+    if (ans == 13302 ){
+        LARP -= 1;
+    }
+    if (ans == 13323 ){
+        Trans -= 1;
+    }
+    if (ans == 13325 ){
+        LARP += 1;
+    }
+    if (ans == 13333 ){
+        Trans -= 2;
+    }
+    if (ans == 13335 ){
+        Trans += 1;
+    }
+    if (ans == 13346 ){
+        Trans -= 1;
+    }
+    if (ans == 13363 ){
+        Trans -= 2;
+    }
+    if (ans == 13363 ){
+        LARP -= 1;
+    }
+    if (ans == 13356 ){
+        LARP -= 1;
+    }
 if(ans == 13035 ){        
-    MAGA += 1
+    MAGA += 1;
     console.log("Yiphee");
-    }  
+    }
+if(ans == 13394 ){        
+    DOH += 1;
+    console.log("Yiphee");
+    }    
 
 //Q10
     //Gonks
@@ -22378,7 +24241,42 @@ if(ans == 13035 ){
         switcheroo38();
         console.log("Yiphee");
     }
-
+    if (ans == 13290 ){
+        Trans += 1;
+    }
+    if (ans == 13291 ){
+        LARP -= 1;
+    }
+    if (ans == 13314 ){
+        Trans += 1;
+    }
+    if (ans == 13302 ){
+        LARP -= 1;
+    }
+    if (ans == 13323 ){
+        Trans -= 1;
+    }
+    if (ans == 13325 ){
+        LARP += 1;
+    }
+    if (ans == 13333 ){
+        Trans -= 2;
+    }
+    if (ans == 13335 ){
+        Trans += 1;
+    }
+    if (ans == 13346 ){
+        Trans -= 1;
+    }
+    if (ans == 13363 ){
+        Trans -= 2;
+    }
+    if (ans == 13363 ){
+        LARP -= 1;
+    }
+    if (ans == 13356 ){
+        LARP -= 1;
+    }
 //Q11
 if (e.noCounter == 10){
     if (Opp == 9 ){
@@ -22454,6 +24352,31 @@ if (e.noCounter == 10){
         switcheroo48();
         console.log("Yiphee");
     }
+    if (ans == 13212 ){
+        Trans -= 1;
+    }
+    if (ans == 13213 ){
+        LARP -= 1;
+    }
+    if (ans == 13223 ){
+        Trans -= 1;
+    }
+    if (ans == 13251 ){
+        Trans -= 1;
+    }
+    if (ans == 13252 ){
+        LARP += 1;
+    }
+    if (ans == 13264 ){
+        LARP -= 1;
+    }
+    if (ans == 13274 ){
+        Trans -= 1;
+    }
+    if (ans == 13276 ){
+        Trans -= 2;
+    }
+
 //Q12
 if (e.noCounter == 11){
  if( Opp == 1 ){
@@ -22487,8 +24410,12 @@ if (e.noCounter == 11){
  }
 }
 if(ans == 13045 ){        
-        MAGA += 1
+        MAGA += 1;
         console.log("Yiphee");
+    }
+if(ans == 13407 ){        
+    DOH += 1;
+    console.log("Yiphee");
     }  
 //Q13
 if (e.noCounter == 12) {
@@ -22511,7 +24438,11 @@ if(ans == 13495 || ans == 13506 ){
 }
 //Q14
 if (e.noCounter == 13) {
- if( Opp == 1 ){
+
+    if( Opp == 1 && DOH == 3 && VP == 1 ){
+    campaignTrail_temp.questions_json[13] = tunnel(13718); 
+ }
+ else if( Opp == 1 ){
     campaignTrail_temp.questions_json[13] = tunnel(13138); 
     Hamsshift();
     switcheroo21();
@@ -22545,19 +24476,90 @@ if (e.noCounter == 13) {
 if(ans == 13064 ){        
         MAGA += 1
         console.log("Yiphee");
-    }  
+    }
+if(ans == 13719 || ans == 13724 || ans == 13754 || ans == 13755 ){        
+    SecretEnding += 1;
+        console.log("Yiphee");
+    }      
 //Q15
 if (e.noCounter == 14) {
-    campaignTrail_temp.questions_json[14] = tunnel(13380);
+if( VP <= 0 && Trans <= -2 && Int <= 0){
+    campaignTrail_temp.questions_json[14] = tunnel(13756); 
+ }
+else if( VP <= 1 && Trans <= -2 && Int >= 2 ){
+    campaignTrail_temp.questions_json[14] = tunnel(13770); 
+ }
+else {
+     campaignTrail_temp.questions_json[14] = tunnel(13380);    
 }
+
+}
+if(ans == 13757 ){
+                var id = e.candidate_json.map(p=>p.pk).indexOf(77)
+            campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/ShqLJNk.png';
+            campaignTrail_temp.running_mate_last_name="Kienna"
+            campaignTrail_temp.running_mate_image_url="https://i.imgur.com/UN3KTxB.png"
+			e.VPisCandidate += 2;
+			VP += 2;
+            Thiag += 1;
+            switcheroo91();
+            Gartshift();
+}
+if(ans == 13771 ){
+                    var id = e.candidate_json.map(p=>p.pk).indexOf(77)
+            campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/Y8Wbd3q.png';
+            campaignTrail_temp.running_mate_last_name="Big Cheese"
+            campaignTrail_temp.running_mate_image_url="https://i.imgur.com/Pqwf5Mq.png"
+			e.VPisCandidate += 2;
+			VP += 2;
+            Thiag += 2;
+            switcheroo92();
+            Lawbergshift();
+            }
 //Q16
 if (e.noCounter == 15) {
- if( Opp == 1 ){
+if ( Opp == 1 && DOH == 3 && VP == 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13730); 
+ }
+else if( Opp == 1 && DOH == 3 && Thiag == 2){
+    campaignTrail_temp.questions_json[15] = tunnel(13871); 
+ }
+else if( Opp == 1 && Thiag >= 2  ){
+    campaignTrail_temp.questions_json[15] = tunnel(13859); 
+ }
+else if( Opp == 1 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13829); 
+ } 
+else if( Opp == 1 ){
     campaignTrail_temp.questions_json[15] = tunnel(13141); 
  }
- else if( Opp == 2 && MAGA == 3 && Trans <= 0 ){
+ else if( Opp == 2 && MAGA == 3 && Trans <= 0 && Thiag == 0){
     campaignTrail_temp.questions_json[15] = tunnel(13680); 
- } 
+ }
+else if( Opp == 2 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13853); 
+ }
+  else if( Opp == 3 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13862); 
+ }
+  else if( Opp == 4 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13865); 
+ }
+  else if( Opp == 5 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13868); 
+ }
+ else if( Opp == 2 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13823); 
+ }
+  else if( Opp == 3 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13835); 
+ }
+  else if( Opp == 4 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13841); 
+ }
+  else if( Opp == 5 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(13847); 
+ }  
  else if( Opp == 2 ){
     campaignTrail_temp.questions_json[15] = tunnel(13030); 
  }
@@ -22585,8 +24587,44 @@ if (e.noCounter == 15) {
 }
 //Q17
 if (e.noCounter == 16) {
- if( Opp == 2 && MAGA == 3 && Trans <= 0 ){
+ if( Opp == 2 && MAGA == 3 && Trans <= 0 && Thiag <= 0){
     campaignTrail_temp.questions_json[16] = tunnel(13667); 
+ }
+else if( Opp == 1 && DOH == 3 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13886); 
+ }    
+ else if( Opp == 1 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13874); 
+ }
+ else if( Opp == 2 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13856); 
+ }
+  else if( Opp == 3 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13877); 
+ }
+  else if( Opp == 4 && Thiag >= 2){
+    campaignTrail_temp.questions_json[16] = tunnel(13880); 
+ }
+  else if( Opp == 5 && Thiag >= 2){
+    campaignTrail_temp.questions_json[16] = tunnel(13883); 
+ }
+  else if( Opp == 1 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13832); 
+ }
+ else if( Opp == 2 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13826); 
+ }
+  else if( Opp == 3 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13838); 
+ }
+  else if( Opp == 4 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13844); 
+ }
+  else if( Opp == 5 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13850); 
+ }
+ else if( Opp == 1 && DOH == 3 && VP == 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(13742); 
  }    
  else if( Opp == 1 ){
     campaignTrail_temp.questions_json[16] = tunnel(13144); 
@@ -22625,9 +24663,12 @@ if(ans == 13671 ){
 vpTable = {
     "Thiagitolito!" : "Gart F. Jonkler",
     "Thiag" : "Lawberg",
+    "Gart F. Jonkler" : "Kienna",
+    "Lawberg" : "Big Cheese",
 
     "Kostas" : "Forgottenpassword",
     "Steamed Hams" : "Homer",
+    "Homer" : "Saint Reed",
     "Ohas" : "Watergate",
     "Poopyfart" : "Palebluedot",
     "Mr. Gonkefeller" : "RDS",
@@ -22644,7 +24685,7 @@ vpTable = {
     "Someone" : "Moe4Real",
     "Dyson" : "Waffles Da Dog",
     "Franko" : "Mr. Gonkefeller",
-    "Glory4Rome" : "Carlack",    
+    "Glory Of Rome" : "Carlack",    
     "Mr. Gonkefeller" : "Superboy",
     "Kronk" : "Waffles Da Dog",
 
@@ -22658,7 +24699,7 @@ vpTable = {
     "George Orwell" : "Twinky",
     "Senator Cringe" : "Goldie",
     "President Meow" : "Senator Bark",       
-    "Minute Man." : "Crayfish",
+    "Minute Man" : "Crayfish",
     "LP" : "Juno",
     "Darkstar" : "Floppy",
 
@@ -22939,17 +24980,17 @@ used=false
     e.executable = []
 // Page 1    
 // Hams Endings
-    if (Opp == 1 && OppEV >= 270) { 
+    if (Opp == 1 && OppEV >= 270 && SecretEnding <= 0) { 
       e.pages.push(`<h2>Hurricane Homer</h2>
                   <p>The results come in slowly, Libra's making it go slow, and excitement builds. Your move over to #Thiag-HQ, check in on the team. Lawberg is worried. Gart, quiet. Waffles, gone from the group chat.</p><p>Then you move to #Pief-General, a riot. Posters for Hams, For RDS in July, for Homer in June. Claims about July being rectified. Stopping a Stolen Election.</p><p>In the final round, you find yourself against SteamedHams. The former Pope, the Homer candidate. You can't lose, you beat Homer and his tricks last time, and you'll do it again.</p><p>Right...?</p><p><b>Right???</p></b><p> And then you get a ping.</p><p> its in #election commission. Libra.</p><p><b>Congratulations to our new Pief, Steamedhams!</b></p><p>Your heart drops, you lost.</p><p>It's over.</p><p>You're done for, all the good times are gone. All the fun, all you've fought for—it wasn't enough. You DM Lawberg, he's planning a run next month and wants your support.</p><p>Another Ping, From Him, In #annoucments.</p><p><b>”Thank you for electing me, people. The good times are well on their way.</p><p>Muling Ends Now. Wars End Now. The fight against the church ends now!</p><p>We are restoring the Holy Spirit, the Deepstater Spirit and today was that first step!</b></p><p>You have no idea what that means. You have put so much effort into this, you have worked so hard, just for a spiteful yellow man to take it all away from you.</p><p>Oh well. </p> <p>You say you need a break from the pief, away from the deepstate.</p><p>some time after the defeat to just chill.</p><p>But you'll come back eventually, you think to yourself. For now you boot up Deltarune."</p>
       `)
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         "Ｓｉｍｐｓｏｎｗａｖｅ １９９５",
-         "FrankJavCee",
-         "https://i1.sndcdn.com/artworks-000160030683-jmbytu-t500x500.jpg",
-         "https://audio.jukehost.co.uk/gr7hQVKMETB4pISiUGJyLptLhjiKUkwY"
+         "Midnight Ride",
+         "Girl Milk",
+         "https://vaporwave.wiki/images/thumb/8/8d/MidnightRide-Cover.png/350px-MidnightRide-Cover.png",
+         "https://audio.jukehost.co.uk/rdxEjagb9QouG3NgKSUeSG7MOWoItboi"
        );
        playlist.addSong(song);
      changePlaylist(playlist);
@@ -22961,7 +25002,7 @@ used=false
 
     }
 
-    if (Opp == 1 && ThiagEV >= 270) { 
+    if (Opp == 1 && ThiagEV >= 270 && SecretEnding <= 0) { 
       e.pages.push(`<h2>You Killed Hams!</h2>
       <p>Yiphee!</p>
       `)
@@ -22982,7 +25023,7 @@ used=false
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/f9MXPpb.png'})])
 
     }
-    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding <= 0) { 
       e.pages.push(`<h2>You Killed Hams!</h2>
     <p>Yiphee!</p>
 
@@ -23004,9 +25045,30 @@ used=false
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/f9MXPpb.png'})])
 
     }
-    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) { 
       e.pages.push(`<h2>Hurricane Homer</h2>
                   <p>The results come in slowly, Libra's making it go slow, and excitement builds. Your move over to #Thiag-HQ, check in on the team. Lawberg is worried. Gart, quiet. Waffles, gone from the group chat.</p><p>Then you move to #Pief-General, a riot. Posters for Hams, For RDS in July, for Homer in June. Claims about July being rectified. Stopping a Stolen Election.</p><p>In the final round, you find yourself against SteamedHams. The former Pope, the Homer candidate. You can't lose, you beat Homer and his tricks last time, and you'll do it again.</p><p>Right...?</p><p><b>Right???</p></b><p> And then you get a ping.</p><p> its in #election commission. Libra.</p><p><b>Congratulations to our new Pief, Steamedhams!</b></p><p>Your heart drops, you lost.</p><p>It's over.</p><p>You're done for, all the good times are gone. All the fun, all you've fought for—it wasn't enough. You DM Lawberg, he's planning a run next month and wants your support.</p><p>Another Ping, From Him, In #annoucments.</p><p><b>”Thank you for electing me, people. The good times are well on their way.</p><p>Muling Ends Now. Wars End Now. The fight against the church ends now!</p><p>We are restoring the Holy Spirit, the Deepstater Spirit and today was that first step!</b></p><p>You have no idea what that means. You have put so much effort into this, you have worked so hard, just for a spiteful yellow man to take it all away from you.</p><p>Oh well. </p> <p>You say you need a break from the pief, away from the deepstate.</p><p>some time after the defeat to just chill.</p><p>But you'll come back eventually, you think to yourself. For now you boot up Deltarune."</p>
+      `)
+ if (used != true) {
+     const playlist = new Playlist();
+       const song = new Song(
+         "Midnight Ride",
+         "Girl Milk",
+         "https://vaporwave.wiki/images/thumb/8/8d/MidnightRide-Cover.png/350px-MidnightRide-Cover.png",
+         "https://audio.jukehost.co.uk/rdxEjagb9QouG3NgKSUeSG7MOWoItboi"
+       );
+       playlist.addSong(song);
+     changePlaylist(playlist);
+     
+     used = true;
+ }
+      //e.image = ""
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/L043BNe.png'})])
+
+    }
+    if (Opp == 1 && OppEV >= 270 && SecretEnding >= 1) { 
+      e.pages.push(`<h2>ALL HAIL KING HOMER</h2>
+
       `)
  if (used != true) {
      const playlist = new Playlist();
@@ -23022,9 +25084,75 @@ used=false
      used = true;
  }
       //e.image = ""
-      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/L043BNe.png'})])
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/je80Bm0.png'})])
 
     }
+
+    if (Opp == 1 && ThiagEV >= 270 && SecretEnding >= 1) { 
+      e.pages.push(`<h2>Who Killed Mr. Simpson?</h2>
+      <p>Yiphee!</p>
+      `)
+ if (used != true) {
+     const playlist = new Playlist();
+       const song = new Song(
+         "Decay",
+         "HOME",
+         "https://i.scdn.co/image/ab67616d0000b273f421e4ca838fe19d8cdf934a",
+         "https://audio.jukehost.co.uk/PxkHVcqIrZXGLO3QZCxZVdWNXukQpFKW"
+       );
+       playlist.addSong(song);
+     changePlaylist(playlist);
+     
+     used = true;
+ }
+      //e.image = ""
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/1Rt5VS6.png'})])
+
+    }
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding >= 1) { 
+      e.pages.push(`<h2>Who Killed Mr. Simpson?</h2>
+    <p>Yiphee!</p>
+
+      `)
+ if (used != true) {
+     const playlist = new Playlist();
+       const song = new Song(
+         "Decay",
+         "HOME",
+         "https://i.scdn.co/image/ab67616d0000b273f421e4ca838fe19d8cdf934a",
+         "https://audio.jukehost.co.uk/PxkHVcqIrZXGLO3QZCxZVdWNXukQpFKW"
+       );
+       playlist.addSong(song);
+     changePlaylist(playlist);
+     
+     used = true;
+ }
+      //e.image = ""
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/1Rt5VS6.png'})])
+
+    }
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding >= 1) { 
+      e.pages.push(`<h2>ALL HAIL KING HOMER</h2>
+
+      `)
+ if (used != true) {
+     const playlist = new Playlist();
+       const song = new Song(
+         "Ｓｉｍｐｓｏｎｗａｖｅ １９９５",
+         "FrankJavCee",
+         "https://i1.sndcdn.com/artworks-000160030683-jmbytu-t500x500.jpg",
+         "https://audio.jukehost.co.uk/gr7hQVKMETB4pISiUGJyLptLhjiKUkwY"
+       );
+       playlist.addSong(song);
+     changePlaylist(playlist);
+     
+     used = true;
+ }
+      //e.image = ""
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/je80Bm0.png'})])
+
+    }
+        
 // Kostas
     if (Opp == 2 && OppEV >= 270 && e.player_answers.includes(13671)) { 
       e.pages.push(`<h2>The Lion Unleashed</h2>
@@ -23508,11 +25636,11 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
                   `)
  if (used != true) {
      const playlist = new Playlist();
-       const song = new Song(
-         "Femen",
-         "Crystal Castles",
-         "https://i1.sndcdn.com/artworks-000213207991-wxouhs-t500x500.jpg",
-         "https://audio.jukehost.co.uk/E5exfBkEuoSGhTmPnotXhFlYgmr3OZgv"
+      const song = new Song(
+         "Two Time",
+         "Jack Stauber",
+         "https://images.genius.com/507b2e239e5a1074e60328c9a1358554.1000x1000x1.jpg",
+         "https://audio.jukehost.co.uk/IRljz0lSefkDCfgpQIjeBUfjhwk2jxUV"
        );
        playlist.addSong(song);
      changePlaylist(playlist);
@@ -23531,10 +25659,10 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         "Celestica",
-         "Crystal Castles",
-         "https://i1.sndcdn.com/artworks-V3NlbksgKCzObBy9-LaWPng-t500x500.jpg",
-         "https://audio.jukehost.co.uk/flc8Mu8kgL6UT8dtIOzJoJlpcdtFevH9"
+         "Buttercup",
+         "Jack Stauber",
+         "https://images.genius.com/48b5dbcd2d657354dd16262d3bdd83b0.1000x1000x1.jpg",
+         "https://audio.jukehost.co.uk/SsnddpD5DzqmkrP3nDeYg9OJO5Um6jtU"
        );
        playlist.addSong(song);
      changePlaylist(playlist);
@@ -23553,10 +25681,10 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         "Celestica",
-         "Crystal Castles",
-         "https://i1.sndcdn.com/artworks-V3NlbksgKCzObBy9-LaWPng-t500x500.jpg",
-         "https://audio.jukehost.co.uk/flc8Mu8kgL6UT8dtIOzJoJlpcdtFevH9"
+         "Buttercup",
+         "Jack Stauber",
+         "https://images.genius.com/48b5dbcd2d657354dd16262d3bdd83b0.1000x1000x1.jpg",
+         "https://audio.jukehost.co.uk/SsnddpD5DzqmkrP3nDeYg9OJO5Um6jtU"
        );
        playlist.addSong(song);
      changePlaylist(playlist);
@@ -23574,10 +25702,10 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
  if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
-         "Femen",
-         "Crystal Castles",
-         "https://i1.sndcdn.com/artworks-000213207991-wxouhs-t500x500.jpg",
-         "https://audio.jukehost.co.uk/E5exfBkEuoSGhTmPnotXhFlYgmr3OZgv"
+         "Two Time",
+         "Jack Stauber",
+         "https://images.genius.com/507b2e239e5a1074e60328c9a1358554.1000x1000x1.jpg",
+         "https://audio.jukehost.co.uk/IRljz0lSefkDCfgpQIjeBUfjhwk2jxUV"
        );
        playlist.addSong(song);
      changePlaylist(playlist);
@@ -23765,7 +25893,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 // ???
 // Third Parties
     if (LARPer == 1 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV) { 
-      e.pages.push(`<h2>Joe won somehow!</h2>
+      e.pages.push(`<h2>Femanonanon</h2>
 <p>You take a deep breath</p> <p>Results are coming in, <b>very slow</b>. You notice Libra acting rather unusually when asked about progress on the results, and you see Rocky acting in a similar way.</p><p>They know something we don't, Lawberg says in #thiaghq, and you find yourself in agreement. Something must be going on . . . perhaps it was a tie, you think to yourself.</p> <p>I mean what would get them acting so, <i> strange </i></p><p>Results are finally starting to come in, they're still slow. You’ve still got the lead, thank god, but Libra's going through the rounds, cutting of candidates one by one.</p><p>#pief-general gets more and more active as the race draws more attention, and #general goes quiet. Finally, you're at the third round, where Cup o' Joe sees a surprise surge, and a thought crosses your mind: "What if... Joe wins... what if he becomes the next pief of the Deep State."</p><p>No, that was a silly thought, he would never, right?</p> <p><b>What</b></p><p> Joe made it into the final round. No way, people can't be ranking Joe over me, over any serious candidate. I mean, he has more opps than can be counted on two hands. Back in #thiaghq, Gart says that he will leave the server if Joe wins, while others simply doom the prospect of a pief who doesn't engage with the LARP all that much, just a slave of the admins.</p> <p>Now the results come in. <b>WHAT THE HELL, NO, NO, NO</b> you spam in quick succession in #pief-general the gonks are calling it a crashout. Piefgen goes absolutely crazy and is locked down for 5 minutes. Gart leaves the server in the chaos, and as it's unlocked, the craziness continues in a slightly less barbaric fashion. Soon enough, Joe comes out of the woodwork after having not been seen all night and delivers his iconic line,</p><p><b>"Geniuses at work,"</b></p><p>responding to some nobodies spamming in caps lock. There’s no announcement of victory but honestly you don’t care. You can't be bothered with pief right now, not in this state, hopefully it will get better.</p><p><i>But you know it won’t</i><p>
       `)
  if (used != true) {
@@ -23869,8 +25997,15 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
     // Page 2
-    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
+    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) {
       e.pages.push(`<h2>piefdom of SteamedHams</h2>
+                  <p>D'oh</p>
+      `)
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/BPysLV3.png'})])
+
+    }
+    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding >= 1) {
+      e.pages.push(`<h2>The Second Piefdom of Homer</h2>
                   <p>D'oh</p>
       `)
       e.executable.push([1, (() => {e.image = 'https://i.imgur.com/BPysLV3.png'})])
@@ -23878,7 +26013,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
     }
     if (Opp == 2 && OppEV >= 270 && e.player_answers.includes(13671))  {
       e.pages.push(`<h2>The Third Kostas Piefdom</h2>
-                  <h4>From Mock Elections Wiki</h4><p><a href="https://en.wikipedia.org/wiki/JD_Vance">Kostas’s</a> third tenure as Pief began upon his <a href="https://en.wikipedia.org/wiki/JD_Vance">innaugration</a>as the 30th <a href="https://en.wikipedia.org/wiki/JD_Vance">Pief of the Deepstate</a> on August 25th, 2025, and ended upon his removal by <a href="https://en.wikipedia.org/wiki/JD_Vance">Emperor Bobby</a> on <a href="https://en.wikipedia.org/wiki/JD_Vance">August 30th, 2025</a>. Kostas, who previously served as the <a href="https://en.wikipedia.org/wiki/JD_Vance">29th Pief</a>, took office after defeating incumbent Pief <a href="https://en.wikipedia.org/wiki/JD_Vance">ItsAstronomical</a>in the <a href="https://en.wikipedia.org/wiki/JD_Vance">August 24th Snap Election</a>.</p><p>The first day of the Third Kostas Piefdom saw the <a href="https://en.wikipedia.org/wiki/JD_Vance">failed impeachment</a> of Justices <a href="https://en.wikipedia.org/wiki/JD_Vance">Carlack</a>and <a href="https://en.wikipedia.org/wiki/JD_Vance">Palebluedot</a>as well as the failed impeachment of Chief Justice <a href="https://en.wikipedia.org/wiki/JD_Vance">Rome</a>on account of their roles ruling against <a href="https://en.wikipedia.org/wiki/JD_Vance">The Anti-Toxicitiy Council</a>which Kostas tried to implement in his second term. Throughout his first day he would also refuse to appoint anyone as <a href="https://en.wikipedia.org/wiki/JD_Vance">Commander of LARP Forces</a> and <a href="https://en.wikipedia.org/wiki/JD_Vance">Ombudsman</a>, instead delegating their jobs to <a href="https://en.wikipedia.org/wiki/JD_Vance">Vice Pief </a><a href="https://en.wikipedia.org/wiki/JD_Vance">Darkstar</a> and <a href="https://en.wikipedia.org/wiki/JD_Vance">Alderman</a><a href="https://en.wikipedia.org/wiki/JD_Vance"> Superboy</a>. Superboy was also appointed the head of the unconstitutional Anti-Toxicity Council and would be ordered to bar Pief LARPers, such as <a href="https://en.wikipedia.org/wiki/JD_Vance">Average Oklahoman</a>, <a href="https://en.wikipedia.org/wiki/JD_Vance">Homer</a>, and <a href="https://en.wikipedia.org/wiki/JD_Vance">Lawberg</a>, from #pief-general as well as shutting down <a href="https://en.wikipedia.org/wiki/JD_Vance">#its-da-news</a> in favor of <a href="https://en.wikipedia.org/wiki/JD_Vance">#kostas-show</a>. All of these bans would be repealed by <a href="https://en.wikipedia.org/wiki/JD_Vance">The Dukes</a> which resulted in a constitutional stand off.</p><p>In international affairs <a href="https://en.wikipedia.org/wiki/JD_Vance">Consul</a><a href="https://en.wikipedia.org/wiki/JD_Vance">Halligan Elysium</a> would be ordered to cut ties with all servers, save a new partnership with <a href="https://en.wikipedia.org/wiki/JD_Vance">Neocord</a>. While the invites would not be terminated, as Bobby refused to follow Elysium’s order, this significantly increased tensions with other servers which caused <a href="https://en.wikipedia.org/wiki/JD_Vance">Ok Buddy Vidocan</a>  to sever all ties to The Deepstate.</p><p>Kostas would be removed as Pief following increased tensions with the moderation team and would set up a government in exile on a newly created <a href="https://en.wikipedia.org/wiki/JD_Vance">Kostascord</a>, with the backing of Neocord. After multiple bans, crashouts, and raids from <a href="https://en.wikipedia.org/wiki/JD_Vance">Maintct</a> and Neocord during the August 24th Snap Election and the failures of The Third Kostas Administration, Emperor Bobby would decree the end of Pief Politics on The Deepstate. Pief Historians largely look down on Kostas’s time as Pief and blame him for the death of Pief Politics as a whole. Kostas would be the last universally recognized Pief until <a href="https://en.wikipedia.org/wiki/JD_Vance">Parliament 2</a> crashed and burned and Pief Politics was returned to The Deepstate. 
+                  <h4>From Mock Elections Wiki</h4><p><a href="https://en.wikipedia.org/wiki/JD_Vance">Kostas’s</a> third tenure as Pief began upon his <a href="https://en.wikipedia.org/wiki/JD_Vance">innaugration</a>as the 31st <a href="https://en.wikipedia.org/wiki/JD_Vance">Pief of the Deepstate</a> on August 25th, 2025, and ended upon his removal by <a href="https://en.wikipedia.org/wiki/JD_Vance">Emperor Bobby</a> on <a href="https://en.wikipedia.org/wiki/JD_Vance">August 30th, 2025</a>. Kostas, who previously served as the <a href="https://en.wikipedia.org/wiki/JD_Vance">29th Pief</a>, took office after defeating incumbent Pief <a href="https://en.wikipedia.org/wiki/JD_Vance">ItsAstronomical</a>in the <a href="https://en.wikipedia.org/wiki/JD_Vance">August 24th Snap Election</a>.</p><p>The first day of the Third Kostas Piefdom saw the <a href="https://en.wikipedia.org/wiki/JD_Vance">failed impeachment</a> of Justices  <a href="https://en.wikipedia.org/wiki/JD_Vance">Carlack</a>and <a href="https://en.wikipedia.org/wiki/JD_Vance">Palebluedot</a> as well as the failed impeachment of Chief Justice <a href="https://en.wikipedia.org/wiki/JD_Vance">Rome</a>on account of their roles ruling against <a href="https://en.wikipedia.org/wiki/JD_Vance">The Anti-Toxicitiy Council</a> which Kostas tried to implement in his second term. Throughout his first day he would also refuse to appoint anyone as <a href="https://en.wikipedia.org/wiki/JD_Vance">Commander of LARP Forces</a> and <a href="https://en.wikipedia.org/wiki/JD_Vance">Ombudsman</a>, instead delegating their jobs to <a href="https://en.wikipedia.org/wiki/JD_Vance">Vice Pief </a><a href="https://en.wikipedia.org/wiki/JD_Vance">Darkstar</a> and <a href="https://en.wikipedia.org/wiki/JD_Vance">Alderman</a><a href="https://en.wikipedia.org/wiki/JD_Vance"> Superboy</a>. Superboy was also appointed the head of the unconstitutional Anti-Toxicity Council and would be ordered to bar Pief LARPers, such as <a href="https://en.wikipedia.org/wiki/JD_Vance">Average Oklahoman</a>, <a href="https://en.wikipedia.org/wiki/JD_Vance">Homer</a>, and <a href="https://en.wikipedia.org/wiki/JD_Vance">Lawberg</a>, from #pief-general as well as shutting down <a href="https://en.wikipedia.org/wiki/JD_Vance">#its-da-news</a> in favor of <a href="https://en.wikipedia.org/wiki/JD_Vance">#kostas-show</a>. All of these bans would be repealed by <a href="https://en.wikipedia.org/wiki/JD_Vance">The Dukes</a> which resulted in a constitutional stand off.</p><p>In international affairs <a href="https://en.wikipedia.org/wiki/JD_Vance">Consul</a> <a href="https://en.wikipedia.org/wiki/JD_Vance">Halligan Elysium</a> would be ordered to cut ties with all servers, save a new partnership with <a href="https://en.wikipedia.org/wiki/JD_Vance">Neocord</a>. While the invites would not be terminated, as Bobby refused to follow Elysium’s order, this significantly increased tensions with other servers which caused <a href="https://en.wikipedia.org/wiki/JD_Vance">Ok Buddy Vidocan</a>  to sever all ties to The Deepstate.</p><p>Kostas would be removed as Pief following increased tensions with the moderation team and would set up a government in exile on a newly created <a href="https://en.wikipedia.org/wiki/JD_Vance">Kostascord</a>, with the backing of Neocord. After multiple bans, crashouts, and raids from <a href="https://en.wikipedia.org/wiki/JD_Vance">Maintct</a> and Neocord during the August 24th Snap Election and the failures of The Third Kostas Administration, Emperor Bobby would decree the end of Pief Politics on The Deepstate. Pief Historians largely look down on Kostas’s time as Pief and blame him for the death of Pief Politics as a whole. Kostas would be the last universally recognized Pief until <a href="https://en.wikipedia.org/wiki/JD_Vance">Parliament 2</a> crashed and burned and Pief Politics was returned to The Deepstate. 
       `)
       e.executable.push([1, (() => {e.image = 'https://i.imgur.com/5JmrzS0.png'})])
 
@@ -23925,7 +26060,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
              <p>Crashout</p>
 
       `)
-      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/DhTPxCh.png'})])
 
     }
     if (Opp == 6 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
@@ -23933,7 +26068,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
          <p>Terry Jerry totally stole the election</p>
 
       `)
-      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/XX3agPH.png'})])
 
     }
     if (LARPer == 1 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV) {
@@ -23949,7 +26084,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
          <p>Glizzy Overload</p>
 
       `)
-      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/4DfjCkc.png'})])
 
     }
     if (Gonk == 1 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) {
@@ -23965,7 +26100,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
          <p>Moe Shadow Admin</p>
 
       `)
-      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/8mroB6F.png'})])
 
     }
     if (Gonk == 3 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) {
@@ -23973,7 +26108,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
          <p>Does Dyson end Pief?</p>
 
       `)
-      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/6YV0qJF.png'})])
 
     }
     if (VP == 1 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding <= 0 ) {
@@ -24035,7 +26170,13 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
     // Wikibox
-    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
+    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding >= 1) {
+      e.pages.push(`<h2>Someone Else Will Do It</h2>
+           <br><br><center><img src='https://i.imgur.com/YYGr5Bi.gif' width='100%'><br></center><br>
+      `)
+      e.executable.push([3, (() => {e.image = 'https://i.imgur.com/COyLKCP.png'})])
+    }
+    if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) {
       e.pages.push(`<h2>Hams Vs Thiag</h2>
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
@@ -24053,7 +26194,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/XqIxfVB.png'})])
     }
     if (Opp == 2 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) {
-      e.pages.push(`<h2>Pief - Gooners with Honor</h2>
+      e.pages.push(`<h2>Pief - Gooning with Honor</h2>
        <br><br><center><img src='https://i.imgur.com/Aqbv1zd.png' width='100%'><br></center><br>
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/AyEpcJr.png'})])
@@ -24155,6 +26296,154 @@ Go ahead and use this code in your mods - just give me credit. I hope it helps y
 */
 
 e=campaignTrail_temp
+
+const nominees = {
+    greek: {
+      name: 'Kostas',
+      imgURL: 'https://i.imgur.com/naZINNp.png',
+      isActive: true,
+      bioText: '<h5>Former LARPmaster</h5><center><img src="https://i.imgur.com/naZINNp.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center><p>'
+    },
+    doh: {
+      name: 'Homer',
+      imgURL: 'https://i.imgur.com/hZui3ld.png',
+      isActive: true,
+      bioText: '<h5>Perennial Opposition</h5><center><img src="https://i.imgur.com/hZui3ld.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    law: {
+      name: 'Ohas',
+      imgURL: 'https://i.imgur.com/iO446KR.png',
+      isActive: true,
+      bioText: '<h5>Justice of The Supreme Court</h5><center><img src="https://i.imgur.com/iO446KR.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    poopy: {
+      name: 'Poopyfart',
+      imgURL: 'https://i.imgur.com/NVSMgM7.png',
+      isActive: true,
+      bioText: '<h5>Former LARPmaster</h5><center><img src="https://i.imgur.com/NVSMgM7.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    femboy: {
+      name: 'Cup"O"Joe',
+      imgURL: 'https://i.imgur.com/PYUSu8h.png',
+      isActive: true,
+      bioText: '<h5>Former Pen Pusher</h5><center><img src="https://i.imgur.com/PYUSu8h.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    lp: {
+      name: 'LP',
+      imgURL: 'https://i.imgur.com/KQq5tP5.png',
+      isActive: true,
+      bioText: '<h5>The One and Only</h5><center><img src="https://i.imgur.com/KQq5tP5.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    roblox: {
+      name: 'Senator Cringe',
+      imgURL: 'https://i.imgur.com/IHI3Okc.png',
+      isActive: true,
+      bioText: '<h5>Senator of Cringe</h5><center><img src="https://i.imgur.com/IHI3Okc.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    meow: {
+      name: 'President Meow',
+      imgURL: 'https://i.imgur.com/zmrhbLa.png',
+      isActive: true,
+      bioText: '<h5>PRESIDENT MEOW</h5><center><img src="https://i.imgur.com/zmrhbLa.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    mango: {
+      name: 'MinuteMan',
+      imgURL: 'https://i.imgur.com/vfUZo4t.png',
+      isActive: true,
+      bioText: '<h5>Shitposters</h5><center><img src="https://i.imgur.com/vfUZo4t.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    rascism: {
+      name: 'Darkstar',
+      imgURL: 'https://i.imgur.com/uHVZJOX.png',
+      isActive: true,
+      bioText: '<h5>Extremeist</h5><center><img src="https://i.imgur.com/uHVZJOX.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    lameorwell: {
+      name: 'George Orwell',
+      imgURL: 'https://i.imgur.com/wOiSBb3.png',
+      isActive: true,
+      bioText: '<h5>LARPer</h5><center><img src="https://i.imgur.com/wOiSBb3.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    gonk: {
+      name: 'Someone',
+      imgURL: 'https://i.imgur.com/9A2BNdn.png',
+      isActive: false,
+      bioText: '<h5>Who the Fuck is This</h5><center><img src="https://i.imgur.com/9A2BNdn.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    free: {
+      name: 'Franko',
+      imgURL: 'https://i.imgur.com/pA3mHq0.png',
+      isActive: true,
+      bioText: '<h5>Exile</h5><center><img src="https://i.imgur.com/pA3mHq0.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    justice: {
+      name: 'Glory4Rome',
+      imgURL: 'https://i.imgur.com/YiY2X58.png',
+      isActive: true,
+      bioText: '<h5>Chief Justice of The Supreme Court</h5><center><img src="https://i.imgur.com/YiY2X58.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    lamegonker: {
+      name: 'Mr. Gonkefeller',
+      imgURL: 'https://i.imgur.com/eudSwgY.png',
+      isActive: true,
+      bioText: '<h5>Perennial Cannidate</h5><center><img src="https://i.imgur.com/eudSwgY.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    kronk: {
+      name: 'Kronk',
+      imgURL: 'https://i.imgur.com/GVNwPlY.png',
+      isActive: true,
+      bioText: '<h5>Old Sport</h5><center><img src="https://i.imgur.com/GVNwPlY.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    ttnw: {
+      name: 'Mack A. Rony',
+      imgURL: 'https://i.imgur.com/i2g6YQj.png',
+      isActive: false,
+      bioText: '<h5>TTNW Fan</h5><center><img src="https://i.imgur.com/i2g6YQj.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    pope: {
+      name: 'Pope Kronk I',
+      imgURL: 'https://itsastronomical.com/assets/1924/opp/davis.png',
+      isActive: false,
+      bioText: '<h5>The Pope of the Deepstate</h5><center><img src="https://itsastronomical.com/assets/1924/opp/davis.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    dyson: {
+      name: 'Dyson',
+      imgURL: 'https://i.imgur.com/VEnXMCm.png',
+      isActive: false,
+      bioText: '<h5>The Desytroyer</h5><center><img src="https://i.imgur.com/VEnXMCm.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    hams: {
+      name: 'SteamedHams',
+      imgURL: 'https://i.imgur.com/KHmc1Kh.png',
+      isActive: false,
+      bioText: '<h5>Former Pope</h5><center><img src="https://i.imgur.com/KHmc1Kh.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    magagreek: {
+      name: 'Kostas',
+      imgURL: 'https://i.imgur.com/AVUq3lH.png',
+      isActive: false,
+      bioText: '<h5>A Pief Denied his Piefdom</h5><center><img src="https://i.imgur.com/AVUq3lH.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    orwell: {
+      name: 'George Orwell',
+      imgURL: 'https://i.imgur.com/O6mNrl6.png',
+      isActive: false,
+      bioText: '<h5>Legitamize LARPer</h5><center><img src="https://i.imgur.com/O6mNrl6.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    gonker: {
+      name: 'Mr. Gonkefeller',
+      imgURL: 'https://i.imgur.com/riBHLYF.png',
+      isActive: false,
+      bioText: '<h5>Perennial Cannidate</h5><center><img src="https://i.imgur.com/riBHLYF.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },       
+};
+
+// Used for when the nominee is finalized
+function lockInNominee(selectedId) {
+    for (const id in nominees) {
+      nominees[id].isActive = (id === selectedId);
+    }
+}
 
 function addHeadquarterButton() {
     // Check if the button already exists
@@ -24323,11 +26612,185 @@ function openHeadquarter() {
     
 }
 
+function addOpButton() {
+  // Check if the button already exists
+  if (document.getElementById('op_button')) {
+      return;
+  }
+
+  // Find the reference button by its ID
+  const refButton = document.getElementById('view_electoral_map');
+  if (!refButton) {
+      return;
+  }
+
+  // Create a new button element
+  const newButton = document.createElement('button');
+
+  newButton.id = 'op_button';
+
+  newButton.style.marginLeft = '1.5em';
+
+  newButton.innerHTML = '#pief-general';
+
+  // Attach the click event listener
+  newButton.addEventListener('click', openOpButton);
+
+    // Insert the new button next to the Headquarters button
+    const headquarterButton = document.getElementById('headquarter_button');
+    if (headquarterButton) {
+        headquarterButton.insertAdjacentElement('afterend', newButton);
+    } else {
+        refButton.insertAdjacentElement('afterend', newButton);
+    }
+  
+}
+
+function openOpButton() {
+    
+  let questions = document.querySelector(".inner_window_question");
+
+  questions.style.display = 'none';
+
+  const OpButton = document.getElementById('op_button');
+  if (OpButton) {
+    OpButton.remove();
+  }
+
+  // Create and set up the headquarters div
+  let hqDiv = document.createElement('div');
+  hqDiv.id = 'headquarter';
+  hqDiv.style.display = 'flex'; // Set layout to flex to allow columns
+  hqDiv.style.color = 'white';
+  hqDiv.style.backgroundColor = '#000000';
+  hqDiv.style.backgroundImage = 'url(https://i.imgur.com/I2yozMC.png)'; // Set background image. I would recommend using the same file size as the original image, ~959 x 327. Otherwise it will stretch the image. Comment or remove this line of text if you don't want a background image and instead want hqDiv.style.backgroundColor to set your background color
+  hqDiv.style.border = '5px solid black';
+  hqDiv.style.borderRadius = '10px';
+  hqDiv.style.height = '56%';
+  hqDiv.style.flexDirection = 'column';
+  hqDiv.style.alignItems = 'center';
+
+  // Create header div
+  let headerDiv = document.createElement('div');
+  headerDiv.style.display = 'flex';
+  headerDiv.style.justifyContent = 'space-between';
+  headerDiv.style.width = '100%';
+  headerDiv.style.alignItems = 'center';
+
+  // Add back button to the header
+  let backButton = document.createElement('button');
+  backButton.innerText = 'Back';
+  backButton.style.margin = '5px'
+  backButton.style.backgroundColor = 'grey';
+  backButton.onclick = function() {
+      // Hide headquarters and show the original content
+      hqDiv.remove();
+      questions.style.display = '';
+  }
+  headerDiv.appendChild(backButton);
+
+  /* This is a header text that you can add if you want to. It is not necessary. - Astro
+  let headerText = document.createElement('h3');
+  headerText.textContent = 'Chief of Staff - Campaign Info';
+  headerText.style.textAlign = 'center';  // Center the text
+  headerText.style.flexGrow = '1';  // Make h3 take up the maximum space available
+  headerDiv.appendChild(headerText);
+  */
+
+  // Append headerDiv to the main hqDiv
+  hqDiv.appendChild(headerDiv);
+
+  // Create a container div for both columns
+  let columnsDiv = document.createElement('div');
+  columnsDiv.style.display = 'flex';
+  columnsDiv.style.width = '100%';
+
+  // Create inner divs for columns
+  let leftCol = document.createElement('div');
+  leftCol.style.width = '50%';
+  columnsDiv.appendChild(leftCol);
+
+  let rightCol = document.createElement('div');
+  rightCol.style.width = '50%';
+  columnsDiv.appendChild(rightCol);
+
+  // Append columnsDiv to the main hqDiv
+  hqDiv.appendChild(columnsDiv);
+
+
+  questions.parentNode.insertBefore(hqDiv, questions.nextSibling);
+
+  // This is all the unique stuff for the Opposition File. 
+
+// Panel
+
+// Container for both columns
+let demPanel = document.createElement('div');
+demPanel.style.display = 'flex';
+demPanel.style.width = '95%';
+demPanel.style.height = '300px';
+demPanel.style.marginTop = '1em';
+hqDiv.appendChild(demPanel);
+
+// Right column, which shows all the possible "nominees" in a grid. It's not the prettiest grid but whateverrrrrrrrrrr
+let nomineeGrid = document.createElement('div');
+nomineeGrid.style.display = 'grid';
+nomineeGrid.style.gridTemplateColumns = "repeat(auto-fill, minmax(70px, 1fr))";
+nomineeGrid.style.rowGap = "4px";   // Smaller vertical gap
+nomineeGrid.style.columnGap = "12px"; // Keep horizontal gap 
+nomineeGrid.style.width = '520px';
+nomineeGrid.style.height = '220px';
+nomineeGrid.style.border = '2px solid black';
+nomineeGrid.style.padding = '4px';
+nomineeGrid.style.backgroundColor = '#000000';
+demPanel.appendChild(nomineeGrid);
+
+// Right Column, which lets you read about the candidates
+let bioViewer = document.createElement('div');
+bioViewer.style.width = '420px';
+bioViewer.style.marginLeft = '20px';
+bioViewer.style.backgroundColor = '#000000';
+bioViewer.style.border = '2px solid black';
+bioViewer.style.padding = '12px';
+bioViewer.style.color = '#DEEFDD';
+bioViewer.style.height = '250px'; 
+bioViewer.style.overflowY = 'auto';
+bioViewer.style.scrollbarWidth = 'thin';
+bioViewer.style.overflowX = 'hidden';    
+bioViewer.style.color = '#DEEFDD';
+bioViewer.innerHTML = "<h3> <p><b> Welcome to the Loonie Bin! </b> >>> </p><p> Click on a file and take a look at the crazies in Pief-General >>> </h3><center><img src='https://i.imgur.com/Kt4m6r1.png' style='width: 85px; height: 85px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;'></center><p>Click on a file and take a look at who you could face >>> </p>"; // You can change this as needed, obviously
+demPanel.appendChild(bioViewer);
+
+// Add nominee portrait box
+for (const [id, nominee] of Object.entries(nominees)) {
+    if (!nominee.isActive) continue;
+    let box = document.createElement('img');
+    box.src = nominee.imgURL;
+    box.style.width = '75px';
+    box.style.height = '75px';
+    box.style.display = 'block';
+    box.style.margin = '0';
+    box.style.cursor = 'pointer';
+    box.style.border = '3px solid white';
+    box.style.borderRadius = '2px';
+    box.title = nominee.name;
+    box.style.objectFit = 'cover';
+    box.onclick = () => {
+      bioViewer.innerHTML = `<h3>${nominee.name}</h3>${nominee.bioText}`;
+    };
+  
+    nomineeGrid.appendChild(box);
+}
+
+  
+}
+
 function handleMutations(mutationsList, observer) {
     if (observerRunning) return;
     observerRunning = true;
 
-    addHeadquarterButton()
+    addHeadquarterButton();
+    addOpButton();
 
     observer.observe(document.documentElement, { childList: true, subtree: true });
     observerRunning = false;
@@ -24353,10 +26816,10 @@ const electionObserver = new MutationObserver((mutations, electionObserverInstan
             if (electionElement) {
                 const electionPlaylist = new Playlist();
                 const electionSong = new Song(
-                    "Deal Gone wrong",
-                    "Toby Fox",
-                    "https://i1.sndcdn.com/artworks-D9FOwG4A7gag-0-t500x500.png",
-                    "https://audio.jukehost.co.uk/B0TzAha4j6zXaZT9hWRT1YENTOGjaPIH"
+                    "Femen",
+                    "Crystal Castles",
+                    "https://i1.sndcdn.com/artworks-000213207991-wxouhs-t500x500.jpg",
+                     "https://audio.jukehost.co.uk/E5exfBkEuoSGhTmPnotXhFlYgmr3OZgv"
                 );
                 electionPlaylist.addSong(electionSong);
                 changePlaylist(electionPlaylist);
@@ -24367,7 +26830,13 @@ const electionObserver = new MutationObserver((mutations, electionObserverInstan
     }
 });
 
+
 electionObserver.observe(document.body, { childList: true, subtree: true });
+
+
+
+
+
 
 
 
