@@ -265,10 +265,10 @@ HistPVP=["100%","0%","0%","0%"];
   
   
     const song1 = new Song(
-      "Battle Against a True Hero",
-      "Tobby Fox",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Undertale_Soundtrack_2015.svg/1200px-Undertale_Soundtrack_2015.svg.png",
-      "https://audio.jukehost.co.uk/NAVPNDwDU9CrKJBvXPLdYBHyED4bkU61"
+      "Vanished",
+      "Crystal Castles",
+      "https://upload.wikimedia.org/wikipedia/en/d/d7/Crystalcastles_vanished.jpg",
+      "https://audio.jukehost.co.uk/32RRKkrO1lxRBcy3B0KPtHqgLQVLRVth"
     );
     
     const song2 = new Song(
