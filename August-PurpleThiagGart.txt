@@ -418,7 +418,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13132,
         "fields": {
             "priority": -2,
-            "description": "Orwell is selected ",
+            "description": "You get a DM from Lawberg going over this next campaign. Homer’s taking a break from Pief, Poopy’s still yelling in the background, and Gonk’s never going to be a threat. And then you see him. George Orwell, the biggest shitposter this side of the server. With the opposition faltering, he’s made sure to fill in the vacuum. You won’t lose to him, you just can’t. ",
             "likelihood": 1
         }
     },
@@ -571,7 +571,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13186,
         "fields": {
             "priority": -2,
-            "description": "Orwell gets TerryJerry on Board ",
+            "description": "Orwell’s campaign, to say the very least, is one giant nothing burger. He’ll yell about a LARP Revolution. About restoring the good old days of Pief in 1 week not three months. Then there’s his announcement of TerryJerry as Vice-Pief. Maybe its shore up the few votes Jerry has, or maybe it's just the lack of substance of his campaign but you’ve got a buffet to choose from so how will you attack?  ",
             "likelihood": 1
         }
     },
@@ -580,7 +580,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13189,
         "fields": {
             "priority": -2,
-            "description": "Orwell shitposts",
+            "description": "For the past week now Orwell has done nothing but rant and rave. He’s gone after the so-called “slop” candidates. He’s attacked you as a Brazilian Nationalist hoping to force the server to speak in Portuguese. He’s even called for a 6 Hour slow mode in #pief-general to restore sanity. All of it is so soaked in irony that part of you doesn’t even feel like it's worth talking about, but you won’t do that right?",
             "likelihood": 1
         }
     },
@@ -589,7 +589,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13192,
         "fields": {
             "priority": -2,
-            "description": "Orwell debates you",
+            "description": "Despite an election that frankly doesn’t feel real, the debate is finally here. Orwell, You, and a slurry of minor candidates. You aren’t sure what to make of it. Hell Orwell could just skip for all you know. But alas you must be ready to win, what’s the plan going into this thing? ",
             "likelihood": 1
         }
     },
@@ -598,7 +598,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13195,
         "fields": {
             "priority": -2,
-            "description": "Terry Jerry Rigs the election",
+            "description": "The Votes are coming in and #thiag-hq already has started celebrating your reelection to a third term. Yet there’s something bothering you. Libra’s already said that turnout is 150% of what it was back on the 12th, and it's only Noon. There’s something fishy going on here, you just can’t put your finger on it. ",
             "likelihood": 1
         }
     },
@@ -616,7 +616,7 @@ campaignTrail_temp.questions_json = [
         "pk": 13199,
         "fields": {
             "priority": 0,
-            "description": "While you know how to LARP, you’ve never really been a LARPer yourself. But Pief is all but LARP and although your focus is to the developing opposition, building off of RDS’s failed run, your lackluster Dark Deepstate theme, that’s already been replaced by a Halo theme, see Orwell taking up the cross of LARPism. He’s not a serious candidate, sure, but he could ruin your numbers out West. ",
+            "description": "While you know how to LARP, you’ve never really been a LARPer yourself. But Pief is all but LARP and although your focus is to the developing opposition, building off of RDS’s failed run, your lackluster Dark Deepstate theme, that’s already been replaced by a Halo theme, sees Orwell taking up the cross of LARPism. He’s not a serious candidate, sure, but he could ruin your numbers out West. ",
             "likelihood": 1
         }
     },
@@ -1193,6 +1193,15 @@ campaignTrail_temp.questions_json = [
         "fields": {
             "priority": -2,
             "description": "Lawberg bombs Homer",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 13889,
+        "fields": {
+            "priority": 0,
+            "description": "With the Resurrection of President Meow, many gonks are uniting behind Senator Bark to restore honesty to the deepstate. While not the focus of this campaign, his promises to reveal the Meow Files and lock up those who are guilty. You’ve gotta put the dog down but how? ",
             "likelihood": 1
         }
     }
@@ -2412,7 +2421,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13133,
         "fields": {
             "question": 13132,
-            "description": "You'll get more soon trust"
+            "description": "Who says I need to campaign at all at this point you know? I’ll eat my hat if George Orwell somehow pulls off a victory over me."
         }
     },
     {
@@ -2548,7 +2557,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13187,
         "fields": {
             "question": 13186,
-            "description": "You'll get more soon trust"
+            "description": "I mean it's TerryJerry. This is just crazy man. Get Okie to speak to him, hell Lawberg too. Guy would be the worst Vief in our History. "
         }
     },
     {
@@ -2556,7 +2565,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13190,
         "fields": {
             "question": 13189,
-            "description": "You'll get more soon trust"
+            "description": " A Brazilian Nationalist what the fuck does that mean. Seriously what is Orwell talking about. Yeah I’m Brazilian but I’m not gonna turn this server into Brazilian 1984."
         }
     },
     {
@@ -2564,7 +2573,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13193,
         "fields": {
             "question": 13192,
-            "description": "You'll get more soon trust"
+            "description": "Why even go to these. I mean they’re always so chaotic. No one changes their minds and like if Orwell won’t be showing then why even go."
         }
     },
     {
@@ -2572,7 +2581,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13196,
         "fields": {
             "question": 13195,
-            "description": "You'll get more soon trust"
+            "description": "It’s TerryJerry it has to be TerryJerry. He’s muling, hell, he could even be buying votes. Just some of the worst stuff possible you know. Call him out now"
         }
     },
     {
@@ -3468,7 +3477,7 @@ campaignTrail_temp.answers_json = [
         "pk": 13743,
         "fields": {
             "question": 13742,
-            "description": "A Big Rally, the biggest one the server has ever seen! Voice Chat is our home base and when we put it together with Lawberg and Kienna speaking, the People will make the right call."
+            "description": "A Big Rally, the biggest one the server has ever seen! Voice Chat is our home base and when we put it together with Lawberg and Keinna speaking, the People will make the right call."
         }
     },
     {
@@ -3717,6 +3726,150 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 13886,
             "description": "You'll get more soon trust"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13890,
+        "fields": {
+            "question": 13889,
+            "description": "<b><i>Get Him</b></i>"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13894,
+        "fields": {
+            "question": 13889,
+            "description": "Fine if they really want to see it, we’ll put them out. Publish them. Every last chat log about what happened to Meow. See if I care. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13897,
+        "fields": {
+            "question": 13889,
+            "description": "Alright, I love Meow more than most but let’s be clear. Bark’s full of a shit. I did not order the death of Meow. It was an accident okay. I don’t know how he’s back but I didn’t kill him. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13909,
+        "fields": {
+            "question": 13132,
+            "description": "So it looks like the rest of them are taking the election off. Good enough for me. Reach out to like Kostas and Ohas, see if they’d be willing to give me an endorsement over the loon standing against me"
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13910,
+        "fields": {
+            "question": 13132,
+            "description": "Last time was by the skin of our teeth but this time it’ll be a real victory. Bigger than Oklahoman. Put out the platform and do it fast. Show them what we’ve been doing for the Deepstate."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13911,
+        "fields": {
+            "question": 13132,
+            "description": "Alright so he thinks he can out LARP us. I should doubt it. You know, give a call to Mack. I’m sure there’s some reddit post he’d love to smack around. Show them what’s what, you know? "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13933,
+        "fields": {
+            "question": 13186,
+            "description": "TerryJerry wanted to buy votes in May. Like I’m being serious here, what the actual hell. Whatever Jerry is up to it can’t be above the board. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13934,
+        "fields": {
+            "question": 13186,
+            "description": "Guys an Irish Nut. I mean I wouldn’t be surprised if he wanted to put a car bomb under Kier Starmer. Just crazy folks. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13935,
+        "fields": {
+            "question": 13186,
+            "description": "TerryJerry speaks for himself. Focus on brass tax. Focus on our future economic reforms. Our outreach to YAPms. Don’t worry about the wacko’s running against us."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13946,
+        "fields": {
+            "question": 13189,
+            "description": "Look I know Orwell ain’t that fast but its a good thing we have so many candidates running this time around. I mean I want to be challenged but frankly he isn’t a challenger. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13947,
+        "fields": {
+            "question": 13189,
+            "description": "6 hour timeout. What are you talking about man? Everyone already hates this 5 second waiting period but 6 hours is just nuts. Just nuts."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13948,
+        "fields": {
+            "question": 13189,
+            "description": "1. WOW. 2. What is he talking about? 3. Honestly let’s just let him crashout and we’ll be us. Not much more we need to do."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13964,
+        "fields": {
+            "question": 13192,
+            "description": "Orwell stands for nothing, and I mean nothing. He’ll say one thing today and he’ll say the other tomorrow. We gotta ask him if he even believes in anything at all. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13965,
+        "fields": {
+            "question": 13192,
+            "description": "Who do you trust to keep the Deepstate safe? The Crazy LARPer who I’m debating or me, a Pief who has results. Who yes has made mistakes, but has righted those wrongs. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13966,
+        "fields": {
+            "question": 13192,
+            "description": "Ignore him. Orwell just wants the attention. Let’s focus on the future, not the past. Economic Reforms, LARP College. It's not just a pipedream. It’ll be real. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13986,
+        "fields": {
+            "question": 13195,
+            "description": "If we can’t say for certain we need to find out fast. Get Underscore and Okie to look into this. They love a little mudracking. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13987,
+        "fields": {
+            "question": 13195,
+            "description": "Turnout’s high, but that’s honestly a good thing. I think we can really win the mandate we were always supposed to, you know? Posters and Rallies. It's as simple as that. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 13988,
+        "fields": {
+            "question": 13195,
+            "description": "Orwell can’t win. The Deepstate won’t elect him to anything so let’s sit back and get Lawberg to draw up a few plans going forward. Maincord’s had it too easy for too long."
         }
     }
 ]
@@ -10661,16 +10814,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 12995,
-        "fields": {
-            "answer": 12673,
-            "candidate": 77,
-            "affected_candidate": 79,
-            "global_multiplier": 0.1
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 12996,
         "fields": {
             "answer": 12682,
@@ -13268,6 +13411,486 @@ campaignTrail_temp.answer_score_global_json = [
             "affected_candidate": 78,
             "global_multiplier": 0.006
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13893,
+        "fields": {
+            "answer": 13890,
+            "candidate": 77,
+            "affected_candidate": 76,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13899,
+        "fields": {
+            "answer": 13897,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13900,
+        "fields": {
+            "answer": 13897,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13903,
+        "fields": {
+            "answer": 13894,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13904,
+        "fields": {
+            "answer": 13894,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13906,
+        "fields": {
+            "answer": 13894,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13907,
+        "fields": {
+            "answer": 13133,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.0095
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13913,
+        "fields": {
+            "answer": 13909,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13914,
+        "fields": {
+            "answer": 13909,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13915,
+        "fields": {
+            "answer": 13909,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13916,
+        "fields": {
+            "answer": 13909,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13919,
+        "fields": {
+            "answer": 13910,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13920,
+        "fields": {
+            "answer": 13910,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13923,
+        "fields": {
+            "answer": 13911,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13925,
+        "fields": {
+            "answer": 13187,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13926,
+        "fields": {
+            "answer": 13187,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13927,
+        "fields": {
+            "answer": 13187,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13928,
+        "fields": {
+            "answer": 13187,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13937,
+        "fields": {
+            "answer": 13933,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.06
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13939,
+        "fields": {
+            "answer": 13934,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13940,
+        "fields": {
+            "answer": 13934,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13942,
+        "fields": {
+            "answer": 13935,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": -0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13943,
+        "fields": {
+            "answer": 13935,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13944,
+        "fields": {
+            "answer": 13935,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.03
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13949,
+        "fields": {
+            "answer": 13190,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.08
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13951,
+        "fields": {
+            "answer": 13190,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13952,
+        "fields": {
+            "answer": 13190,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13955,
+        "fields": {
+            "answer": 13946,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.09
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13956,
+        "fields": {
+            "answer": 13946,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13957,
+        "fields": {
+            "answer": 13946,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": -0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13958,
+        "fields": {
+            "answer": 13946,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": -0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13962,
+        "fields": {
+            "answer": 13948,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.09
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13963,
+        "fields": {
+            "answer": 13193,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.09
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13967,
+        "fields": {
+            "answer": 13193,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.02
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13968,
+        "fields": {
+            "answer": 13193,
+            "candidate": 77,
+            "affected_candidate": 79,
+            "global_multiplier": 0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13969,
+        "fields": {
+            "answer": 13193,
+            "candidate": 77,
+            "affected_candidate": 12704,
+            "global_multiplier": 0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13972,
+        "fields": {
+            "answer": 13964,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.08
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13973,
+        "fields": {
+            "answer": 13964,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": -0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13975,
+        "fields": {
+            "answer": 13965,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.08
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13976,
+        "fields": {
+            "answer": 13965,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13979,
+        "fields": {
+            "answer": 13966,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.09
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13983,
+        "fields": {
+            "answer": 13196,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.07
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13984,
+        "fields": {
+            "answer": 13196,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13990,
+        "fields": {
+            "answer": 13986,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.05
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13995,
+        "fields": {
+            "answer": 13987,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 13996,
+        "fields": {
+            "answer": 13987,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "global_multiplier": 0.005
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 14001,
+        "fields": {
+            "answer": 13988,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 14002,
+        "fields": {
+            "answer": 13947,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "global_multiplier": 0.08
+        }
     }
 ]
 
@@ -14541,6 +15164,166 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue_score": 0.5,
             "issue_importance": 4
         }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13896,
+        "fields": {
+            "answer": 13894,
+            "issue": 31,
+            "issue_score": -1,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13901,
+        "fields": {
+            "answer": 13890,
+            "issue": 31,
+            "issue_score": -1,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13902,
+        "fields": {
+            "answer": 13890,
+            "issue": 31,
+            "issue_score": -1,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13905,
+        "fields": {
+            "answer": 12673,
+            "issue": 31,
+            "issue_score": -1,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13908,
+        "fields": {
+            "answer": 13133,
+            "issue": 31,
+            "issue_score": 0.6,
+            "issue_importance": 5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13917,
+        "fields": {
+            "answer": 13909,
+            "issue": 31,
+            "issue_score": -0.2,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13921,
+        "fields": {
+            "answer": 13910,
+            "issue": 31,
+            "issue_score": -0.1,
+            "issue_importance": 2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13924,
+        "fields": {
+            "answer": 13911,
+            "issue": 30,
+            "issue_score": 1,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13941,
+        "fields": {
+            "answer": 13934,
+            "issue": 31,
+            "issue_score": 1,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13953,
+        "fields": {
+            "answer": 13190,
+            "issue": 28,
+            "issue_score": 0.5,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13959,
+        "fields": {
+            "answer": 13946,
+            "issue": 29,
+            "issue_score": 0.6,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13970,
+        "fields": {
+            "answer": 13193,
+            "issue": 31,
+            "issue_score": 0.5,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13977,
+        "fields": {
+            "answer": 13965,
+            "issue": 31,
+            "issue_score": -0.4,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13981,
+        "fields": {
+            "answer": 13966,
+            "issue": 31,
+            "issue_score": -0.9,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 13993,
+        "fields": {
+            "answer": 13986,
+            "issue": 31,
+            "issue_score": -1,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 14003,
+        "fields": {
+            "answer": 13947,
+            "issue": 28,
+            "issue_score": -0.3,
+            "issue_importance": 4
+        }
     }
 ]
 
@@ -14961,6 +15744,105 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 77,
             "affected_candidate": 77,
             "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13930,
+        "fields": {
+            "answer": 13187,
+            "state": 216,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13931,
+        "fields": {
+            "answer": 13187,
+            "state": 212,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "state_multiplier": -0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13932,
+        "fields": {
+            "answer": 13187,
+            "state": 212,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": -0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13982,
+        "fields": {
+            "answer": 13934,
+            "state": 201,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": -0.9
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13992,
+        "fields": {
+            "answer": 13986,
+            "state": 216,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": 0.5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13997,
+        "fields": {
+            "answer": 13987,
+            "state": 198,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13998,
+        "fields": {
+            "answer": 13987,
+            "state": 200,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 13999,
+        "fields": {
+            "answer": 13987,
+            "state": 213,
+            "candidate": 77,
+            "affected_candidate": 77,
+            "state_multiplier": 0.1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 14004,
+        "fields": {
+            "answer": 13947,
+            "state": 212,
+            "candidate": 77,
+            "affected_candidate": 78,
+            "state_multiplier": 0.3
         }
     }
 ]
@@ -16331,7 +17213,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13133,
             "candidate": 77,
-            "answer_feedback": "Soonish*"
+            "answer_feedback": "You might not be wrong. Orwell is a clown but like all clowns, people like to watch. While he rants you stand by the side lines, not campaigning but ruling. The only issue comes when your own Vief comments “based” to one of his insane proposals. "
         }
     },
     {
@@ -16484,7 +17366,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13187,
             "candidate": 77,
-            "answer_feedback": "Soonish*"
+            "answer_feedback": "Okie quickly endorses you and starts stumping for you all across the Server. His speeches are full of fire and brimstone, of a server in anarchy, of a Piefdom shut down due to toxicity. While you aren’t sure if this will lower the temperature, you're sure this is getting you votes."
         }
     },
     {
@@ -16493,7 +17375,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13190,
             "candidate": 77,
-            "answer_feedback": "Soonish*"
+            "answer_feedback": "What is Blud on? Like honestly what does that even mean. I mean yes you do want to expand the Piefdom. And yes you do want an Anti-Toxcitiy Council. And yes you are Brazilian, but that’s just an insane idea. "
         }
     },
     {
@@ -16502,7 +17384,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13193,
             "candidate": 77,
-            "answer_feedback": "Soonish*"
+            "answer_feedback": "Thiag… Why are you skipping debates? This isn’t May. You aren't Oklahoman who can just skate by on pure vibes. The people want answers. They want to believe in the New Thiag, not see him remain overconfident. Without you there Orwell does surprisingly good and for once looks sane. "
         }
     },
     {
@@ -16511,7 +17393,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 13196,
             "candidate": 77,
-            "answer_feedback": "Soonish*"
+            "answer_feedback": "You ping @lpnewsletter and its pandemonium. Orwell and TerryJerry deny all wrong doing. They claim they didn’t do anything wrong. Nothing at all. Those who haven’t voted yet, and the mods think otherwise. While it's too late to do anything, this is a serious stain on his record. "
         }
     },
     {
@@ -17791,6 +18673,168 @@ campaignTrail_temp.answer_feedback_json = [
             "candidate": 77,
             "answer_feedback": "Soonish*"
         }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13891,
+        "fields": {
+            "answer": 13890,
+            "candidate": 77,
+            "answer_feedback": "The order is put in. Carlack Bans Senator Bark. He is sent to El Meowador and presumed dead. You get reports from your allies in the moderator team that Bobby is making a shit show over it but Libra and Rocky back his removal. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13895,
+        "fields": {
+            "answer": 13894,
+            "candidate": 77,
+            "answer_feedback": "Why did you put the files Thiag? I mean really. When #its-da-news gets their hands on it they rightfully freak out. Reports of you ordering Meow’s death, that Meow was somehow in on it. That Bark was right all along. When the Senator is asked to comment he just responds with his classic “Woof Woof”."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13898,
+        "fields": {
+            "answer": 13897,
+            "candidate": 77,
+            "answer_feedback": "This is about all you can say at this point. Pope Meow I does excommunicate you and Bark won’t shut up about how you want him dead. The people seem to believe him more than they believe you. You tell Lawberg to start deleting chats in #pief-admin-thiag mentioning Meow just to be safe. \n\t"
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13912,
+        "fields": {
+            "answer": 13909,
+            "candidate": 77,
+            "answer_feedback": "Seeing who you're up against, both agreed to give you a public endorsement. You even bring Kostas into #thiag-hq to help you out on the LARP front. While Orwell busies himself with what crazy theory he’s come up with today, you’ll be putting in work, building a real movement. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13918,
+        "fields": {
+            "answer": 13910,
+            "candidate": 77,
+            "answer_feedback": "The platform is rushed, sure. And when you propose an Anti-Toxcity council #pief-general erupts in riots. Despite Orwell saying you are literally going to create 1984, you know he will never actually put out a platform. He doesn’t want to put in the work. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13922,
+        "fields": {
+            "answer": 13911,
+            "candidate": 77,
+            "answer_feedback": "Mack posts a lazy flowchart onto Reddit to rake in that karma and you declare Operation Reddit Storm 3. Okie calls you lazy, but the people love. I mean are these people really going to believe this flow chart is made in good taste? "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13936,
+        "fields": {
+            "answer": 13933,
+            "candidate": 77,
+            "answer_feedback": "Hit ‘em where it hurts. The fact that TerryJerry was willing to give out Discord Nitro to people who voted for Lawberg, and therefore ironically you, in May is highly questionable at best. Although the Dukes officially come out and say they don’t care, you know the message is clear. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13938,
+        "fields": {
+            "answer": 13934,
+            "candidate": 77,
+            "answer_feedback": "Cad atá á rá agat? Téigh díreach go hIfreann, a dhuine uasail."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13945,
+        "fields": {
+            "answer": 13935,
+            "candidate": 77,
+            "answer_feedback": "While normally silence is how you should deal with Orwell, this just ain’t the time chief. TerryJerry is something you have to address and people are starting to think maybe he had something to do with your muling… "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13954,
+        "fields": {
+            "answer": 13946,
+            "candidate": 77,
+            "answer_feedback": " More Candidates are good that are correct but sometimes there is such a thing as too much. 5 different NewGens have announced their plans to run for Pief. Now they’ll most likely get two votes max, but the point still remains. #pief-general is getting flooded with a mass of low effort messages and no one is really sure what to do."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13960,
+        "fields": {
+            "answer": 13947,
+            "candidate": 77,
+            "answer_feedback": "To say Rocky’s decision to have it at all is an understatement. At least one person a day is complaining about it, asking for its removal. 6 Hours is just way way too much. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13961,
+        "fields": {
+            "answer": 13948,
+            "candidate": 77,
+            "answer_feedback": "Yeah the people aren’t too happy with these ideas, most of all the Dukes. They at least want someone reasonable in charge of the going-ons in the Piefdom and that Person right now is you. But despite all the hate, Orwell’s support isn’t going down.  "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13971,
+        "fields": {
+            "answer": 13964,
+            "candidate": 77,
+            "answer_feedback": "Orwell is well, crazy. You bring up his many flip flops. Be it on NewGens, on YAPms, and especially on muling with TerryJerry now advising him. The after polls show you’ve won and you just hope and pray that tomorrow the results go for you."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13974,
+        "fields": {
+            "answer": 13965,
+            "candidate": 77,
+            "answer_feedback": "You have done quite well to repair your image in the community. People feel that you aren’t the arrogant muller who stole the election only a couple of weeks ago. Orwell on the other hand has done nothing to improve his image. He’s still crazy. Still wild. Still too out there for most folk. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13978,
+        "fields": {
+            "answer": 13966,
+            "candidate": 77,
+            "answer_feedback": "You lay out a vision of the future. A Deepstate of prosperity, one that eclipses Maincord. It feels good to finally give hope to the masses after the past few months. Is it true, honestly no. But there is nothing better than a sweet lie. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13989,
+        "fields": {
+            "answer": 13986,
+            "candidate": 77,
+            "answer_feedback": "The duo are able to find four or five votes that are just plain and simple muling. Libra puts out an announcement throwing out these ballots but that’s about all he can do. There’s just too many votes. Too many ballots cast to do a thing."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 13994,
+        "fields": {
+            "answer": 13987,
+            "candidate": 77,
+            "answer_feedback": "Your supporters drum up momentum in #pief-general but everyone who sees them says they’ve already voted. Weird huh? "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 14000,
+        "fields": {
+            "answer": 13988,
+            "candidate": 77,
+            "answer_feedback": "Pride before the fall some say. To rest on your laurels may not be the wisest thing with turnout this high. Lawberg tells you, to the victor goes the spoils and you wait for Libra to call the election…"
+        }
     }
 ]
 
@@ -17815,7 +18859,16 @@ var LMuser = ' President Meow ';
 var HSuser = ' Xalas ';
 var Popeuser = ' Pope Tuah I ';
 var Gonk = 0;
-var LARPer = 0
+var LARPer = 0;
+var Kronkmentum = false;
+var Mack = false;
+var who = false;
+var monday = false;
+var fallout = false;
+var romney = false;
+var hamed = false;
+var qanon = false;
+var bark = false;
 var VP = 0;
 var Thiag = 0;
 var SecretEnding = 0;
@@ -17943,19 +18996,19 @@ function switcheroo26() {
 }
 function switcheroo27() {
     var id = e.candidate_json.map(p=>p.pk).indexOf(78)
-    e.candidate_json[id].fields.first_name = "???"
+    e.candidate_json[id].fields.first_name = ""
     e.candidate_json[id].fields.last_name = "???"
     e.candidate_json[id].fields.color_hex = "#ADD8E6" 
 }
 function switcheroo28() {
     var id = e.candidate_json.map(p=>p.pk).indexOf(78)
-    e.candidate_json[id].fields.first_name = "???"
+    e.candidate_json[id].fields.first_name = ""
     e.candidate_json[id].fields.last_name = "???"
     e.candidate_json[id].fields.color_hex = "#1A1A1A" 
 }
 function switcheroo29() {
     var id = e.candidate_json.map(p=>p.pk).indexOf(78)
-    e.candidate_json[id].fields.first_name = "???"
+    e.candidate_json[id].fields.first_name = ""
     e.candidate_json[id].fields.last_name = "???"
     e.candidate_json[id].fields.color_hex = "#CCBA63" 
 }
@@ -18087,6 +19140,18 @@ function switcheroo51() {
     e.candidate_json[id].fields.first_name = ""
     e.candidate_json[id].fields.last_name = "<i>Darkstar</i>"
     e.candidate_json[id].fields.color_hex = "#445B47" 
+}
+function switcheroo52() {
+    var id = e.candidate_json.map(p=>p.pk).indexOf(12704)
+    e.candidate_json[id].fields.first_name = "Senator"
+    e.candidate_json[id].fields.last_name = "Bark"
+    e.candidate_json[id].fields.color_hex = "#560031" 
+}
+function switcheroo53() {
+    var id = e.candidate_json.map(p=>p.pk).indexOf(12704)
+    e.candidate_json[id].fields.first_name = "Senator"
+    e.candidate_json[id].fields.last_name = "Bark†"
+    e.candidate_json[id].fields.color_hex = "#560031" 
 }
 // ThiagSwitches
 function switcheroo90() {
@@ -22730,6 +23795,336 @@ function Darkstarswitch() {
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
 }
+function barkswitch() {
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12756);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12757);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12758);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12759);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12760);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
+    //Alabama
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Alaska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Arizona
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Arkansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //California
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Colorado
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Connecticut
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Delaware
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Florida
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Georgia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 5;
+    //Hawaii
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Idaho
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 5; 
+    //Illinois
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Indiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Iowa
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Kansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Kentucky
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Louisiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Maine
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Maryland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Massachusetts
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Michigan
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Minnesota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Mississippi
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Missouri
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Montana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Nebraska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Nevada
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //NewHampshire
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //NewJersey
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //NewMexico
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //NewYork
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 5;
+    //NorthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //NorthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Ohio
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Oklahoma
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Oregon
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Pennsylvania
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //RhodeIsland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //SouthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //SouthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Tennessee
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Texas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Utah
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Vermont
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Virginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Washington
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //WashingtonDC
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //WestVirginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Wisconsin
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+    //Wyoming
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 3;
+}
+function BarkDeathSwitch() {
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12756);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12757);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12758);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12759);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
+    var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(12760);
+    campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -1;
+    //Alabama
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12705);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Alaska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12706);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Arizona
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12707);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Arkansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12708);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //California
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12709);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Colorado
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12710);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Connecticut
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12711);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Delaware
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12712);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Florida
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12713);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Georgia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12714);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Hawaii
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12715);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Idaho
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12716);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0; 
+    //Illinois
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12717);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Indiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12718);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Iowa
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12719);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Kansas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12720);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Kentucky
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12721);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Louisiana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12722);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Maine
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12723);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Maryland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12724);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Massachusetts
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12725);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Michigan
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12726);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Minnesota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12727);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Mississippi
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12728);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Missouri
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12729);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Montana
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12730);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Nebraska
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12731);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Nevada
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12732);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NewHampshire
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12733);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NewJersey
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12734);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NewMexico
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12735);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NewYork
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12736);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NorthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12737);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //NorthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12738);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Ohio
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12739);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Oklahoma
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12740);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Oregon
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12741);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Pennsylvania
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12742);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //RhodeIsland
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12743);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //SouthCarolina
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12744);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //SouthDakota
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12745);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Tennessee
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12746);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Texas
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12747);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Utah
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12748);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Vermont
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12749);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Virginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12750);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Washington
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12751);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //WashingtonDC
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12752);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //WestVirginia
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12753);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Wisconsin
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12754);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+    //Wyoming
+    var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(12755);
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0;
+}
 function LPswitch() {
     var id = campaignTrail_temp.candidate_issue_score_json.map(p => p.pk).indexOf(268);
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = -0.8;
@@ -22743,7 +24138,7 @@ function LPswitch() {
     campaignTrail_temp.candidate_issue_score_json[id].fields.issue_score = 0.8;
     //Alabama
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(778);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Alaska
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(779);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22752,7 +24147,7 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Arkansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(781);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //California
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(782);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22761,16 +24156,16 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Connecticut
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(784);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Delaware
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(785);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Florida
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(786);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Georgia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(787);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Hawaii
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(788);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22779,43 +24174,43 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5; 
     //Illinois
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(790);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Indiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(791);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Iowa
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(792);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Kansas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(793);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Kentucky
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(794);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Louisiana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(795);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Maine
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(796);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Maryland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(797);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Massachusetts
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(798);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Michigan
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(799);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Minnesota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(800);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Mississippi
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(801);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Missouri
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(802);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Montana
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(803);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22827,7 +24222,7 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //NewHampshire
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(806);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NewJersey
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(807);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.5;
@@ -22839,13 +24234,13 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.1;
     //NorthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(810);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //NorthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(811);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Ohio
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(812);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Oklahoma
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(813);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22854,19 +24249,19 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Pennsylvania
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(815);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //RhodeIsland
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(816);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //SouthCarolina
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(817);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //SouthDakota
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(818);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Tennessee
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(819);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Texas
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(820);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -22875,22 +24270,22 @@ function LPswitch() {
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //Vermont
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(822);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Virginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(823);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Washington
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(824);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
     //WashingtonDC
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(825);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //WestVirginia
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(826);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Wisconsin
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(827);
-    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.15;
+    campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1;
     //Wyoming
     var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(828);
     campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.5;
@@ -23579,8 +24974,11 @@ if (campaignTrail_temp.question_number == 2 && HS == 2) {
     delete nominees.lamegonker;
     delete nominees.kronk;
 }
-if (campaignTrail_temp.question_number == 3 && HS == 3) {
+if (campaignTrail_temp.question_number == 4 && HS == 3) {
     delete nominees.doh;
+}
+if (campaignTrail_temp.question_number == 3 && HS >= 3 && HS <= 1) {
+    delete nominees.justice;
 }
 if (campaignTrail_temp.question_number == 4 && LM == 2) {
     delete nominees.poopy;
@@ -23666,6 +25064,7 @@ if (campaignTrail_temp.question_number == 9 && Opp == 1) {
     delete nominees.poopy;
     delete nominees.gonker;
     delete nominees.orwell;
+    delete nominees.ttnw;
 }
 if (campaignTrail_temp.question_number == 9 && Opp == 2) {
     delete nominees.doh;
@@ -23673,6 +25072,8 @@ if (campaignTrail_temp.question_number == 9 && Opp == 2) {
     delete nominees.poopy;
     delete nominees.gonker;
     delete nominees.orwell;
+    delete nominees.ttnw;
+
 }
 if (campaignTrail_temp.question_number == 9 && Opp == 3) {
     delete nominees.doh;
@@ -23680,6 +25081,8 @@ if (campaignTrail_temp.question_number == 9 && Opp == 3) {
     delete nominees.poopy;
     delete nominees.gonker;
     delete nominees.orwell;
+    delete nominees.ttnw;
+
 }
 if (campaignTrail_temp.question_number == 9 && Opp == 4) {
     delete nominees.doh;
@@ -23687,6 +25090,8 @@ if (campaignTrail_temp.question_number == 9 && Opp == 4) {
     delete nominees.law;
     delete nominees.gonker;
     delete nominees.orwell;
+    delete nominees.ttnw;
+
 }
 if (campaignTrail_temp.question_number == 9 && Opp == 5) {
     delete nominees.doh;
@@ -23694,6 +25099,8 @@ if (campaignTrail_temp.question_number == 9 && Opp == 5) {
     delete nominees.law;
     delete nominees.poopy;
     delete nominees.orwell;
+    delete nominees.ttnw;
+
 }
 if (campaignTrail_temp.question_number == 9 && Opp == 6) {
     delete nominees.doh;
@@ -23703,7 +25110,6 @@ if (campaignTrail_temp.question_number == 9 && Opp == 6) {
     delete nominees.gonker;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 1) {
-    delete nominees.lame1984;
     delete nominees.gonk;
     delete nominees.free;
     delete nominees.dyson;
@@ -23712,7 +25118,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 1) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 2) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.free;
     delete nominees.dyson;
@@ -23721,7 +25126,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 2) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 3) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.free;
     delete nominees.gonk;
@@ -23730,7 +25134,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 3) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 4) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.dyson;
     delete nominees.gonk;
@@ -23739,7 +25142,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 4) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 5) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.dyson;
     delete nominees.gonk;
@@ -23748,7 +25150,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 5) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 6) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.dyson;
     delete nominees.gonk;
@@ -23757,7 +25158,6 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 6) {
     delete nominees.kronk;
 }
 if (campaignTrail_temp.question_number == 10 && Gonk == 7) {
-    delete nominees.lame1984;
     delete nominees.pope;
     delete nominees.dyson;
     delete nominees.gonk;
@@ -23788,12 +25188,16 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 7) {
     if(ans == 12370 ){
         LM += 1;
         LMuser = "MinuteMan";
+            delete nominees.meow;
+        delete nominees.lp;
     console.log("New Larpmaster");
     }
 
     if(ans == 12372 ){
         LM += 2;
         LMuser = "Poopyfart";
+                delete nominees.meow;
+        delete nominees.mango;
     console.log("New Larpmaster");
     }
 
@@ -23804,6 +25208,8 @@ if (campaignTrail_temp.question_number == 10 && Gonk == 7) {
 
     if(ans == 12374 ){
         LARP += 2;
+        delete nominees.lp;
+        delete nominees.mango;
     console.log("More LARP");
     }
 
@@ -23819,6 +25225,8 @@ if (e.noCounter == 2) {
         HS += 1;
         HSuser = "RDS";
     console.log("New Home");
+        delete nominees.gonk;
+        delete nominees.justice;
     }
 
     if(ans == 12381 || ans == 12500 ){
@@ -23830,11 +25238,16 @@ if (e.noCounter == 2) {
         Trans -= 1;
         DOH += 1;
     console.log("I stole it");
+        delete nominees.justice;
+
     }
 
     if(ans == 12502 ){
         HS += 3;
         HSuser = "Homer";
+        delete nominees.gonk;
+        delete nominees.justice;
+
     console.log("New Home");
     }
 
@@ -23846,7 +25259,10 @@ if (e.noCounter == 2) {
     if(ans == 12385 || ans == 12504 ){
         HS += 2;
         HSuser = "Ohas";
+        delete nominees.law;
     console.log("New Home");
+            delete nominees.gonk;
+
     }
 
     if(ans == 12385 || ans == 12504 ){
@@ -23877,6 +25293,9 @@ if (e.noCounter == 3) {
         if(ans == 12507 || ans == 12511 || ans == 12516 || ans == 12520 || ans == 12543 || ans == 12547 ){
         LM += 1;
         LMuser = "Kostas";
+        delete nominees.lp;
+        delete nominees.greek;
+
     }
     
         if(ans == 12511 || ans == 12529 ){
@@ -23910,7 +25329,13 @@ if (e.noCounter == 3) {
     }  
     if(ans == 12511 || ans == 12516 || ans == 12520 ){
         Trans -= 3;
-    }  
+    }
+    if(ans == 12392 || ans == 12511 || ans == 12520 || ans == 12529 || ans == 12538 || ans == 12547 ){
+    nominees.dyson.isActive = true;
+            delete nominees.free;
+
+
+    }      
 
 //Q5
 
@@ -23928,29 +25353,55 @@ if (e.noCounter == 4) {
 
     if(ans == 12403 || ans == 12558 || ans == 12567 || ans == 12543 ){
         LARP -= 1;
-    }
+        delete nominees.meow;
+        delete nominees.lp;
+        delete nominees.roblox;
+        delete nominees.mango;
+            }
     if(ans == 12399 || ans == 12554 || ans == 12563 || ans == 12543 ){
         Theme +=1;
+    nominees.ttnw.isActive = true;
+        delete nominees.meow;
+        delete nominees.lp;
+        delete nominees.roblox;
+        delete nominees.mango;
+        delete nominees.femboy;
+
     }
     if(ans == 12397 ){
         LARP += 1;        
         Theme +=3;
+        delete nominees.femboy;
+        delete nominees.roblox;
     }    
     if(ans == 12401 || ans == 12556 || ans == 12565 || ans == 12543 ){
         Theme +=2;
+        delete nominees.meow;
+        delete nominees.lp;
+        delete nominees.mango;
+        delete nominees.femboy;
+
     }
     if(ans == 12552 ){
         LARP += 1;        
         Theme +=4;
+            delete nominees.femboy;
+        delete nominees.roblox;
     }
     if(ans == 12561 ){
         LARP += 1;        
         Theme +=5;
+            delete nominees.femboy;
+        delete nominees.roblox;
     }  
     if(ans == 12570 ){
         LARP += 2;        
         Theme +=6;
         Trans -=1;
+            delete nominees.femboy;
+        delete nominees.roblox;
+    nominees.rascism.isActive = true;
+
     }  
 
 //Q6
@@ -24040,11 +25491,13 @@ if (e.noCounter == 6) {
         Popeuser = "Pope Homer I";
         Trans -= 1;
         Pope += 4;
+        delete nominees.doh;
     }
         if(ans == 12653 || ans == 12657 || ans == 12662 || ans == 12666 || ans == 12669 || ans == 12671 || ans == 12675 || ans == 12678 || ans == 12680 || ans == 12684 ){
         Popeuser = "Pope Gonk I";
         Trans -= 1;
-        Pope += 3;        
+        Pope += 3;
+        delete nominees.gonker;
     }
         if(ans == 12419 || ans == 12655 || ans == 12682 || ans == 12700 ){
         Popeuser = "Pope Maryland I";
@@ -24056,12 +25509,27 @@ if (e.noCounter == 6) {
         LARP += 3;
         Trans -= 1;
         Pope += 5;
+    //nominees.bark.isActive = true;
+     //   delete nominees.kronk;
+       // delete nominees.gonk;
+        //delete nominees.justice;
+        //delete nominees.free;
+        //delete nominees.dyson;        
+
     }
         if(ans == 12693 || ans == 12702 ){
         Popeuser = "Pope Kronk I";
         LARP +=2;
         Trans -= 1;
         Pope += 6;
+    nominees.pope.isActive = true;
+        delete nominees.kronk;
+        delete nominees.gonk;
+        delete nominees.justice;
+        delete nominees.free;
+        delete nominees.dyson;
+
+
     }     
         if(ans == 12417 || ans == 12644 || ans == 12653 || ans == 12657 || ans == 12662 || ans == 12666 || ans == 12675 || ans == 12671 || ans == 12680 || ans == 12684 || ans == 12689 || ans == 12698){
         Trans +=1;
@@ -24085,19 +25553,19 @@ if (e.noCounter == 6) {
 
 //Q9
 if (e.noCounter == 8) {
- if( LM == 2 && HS == 3 && Pope == 3){
+ if( LM == 10 && HS == 3 && Pope == 3){
     campaignTrail_temp.questions_json[8] = tunnel(13646); 
     switcheroo30();
     NoOneShift();
     Opp += 9;
  }
-else if( Trans <= 0 && (e.player_answers.includes(12424)) && (e.player_answers.includes(12633)) ){
+else if( Trans <= -10 && (e.player_answers.includes(12424)) && (e.player_answers.includes(12633)) ){
     campaignTrail_temp.questions_json[8] = tunnel(13613); 
     switcheroo27();
     MangoShift();
     Opp += 8;
  }
-else if( Trans <= 1 && LM == 0 && e.player_answers.includes(12428) && (e.player_answers.includes(12392) || e.player_answers.includes(12511) || e.player_answers.includes(12520) || e.player_answers.includes(12529) || e.player_answers.includes(12538) || e.player_answers.includes(12547))){
+else if( Trans <= -10 && LM == 0 && e.player_answers.includes(12428) && (e.player_answers.includes(12392) || e.player_answers.includes(12511) || e.player_answers.includes(12520) || e.player_answers.includes(12529) || e.player_answers.includes(12538) || e.player_answers.includes(12547))){
     campaignTrail_temp.questions_json[8] = tunnel(13631);
     switcheroo29(); 
     BobbyShift(); 
@@ -24198,7 +25666,14 @@ if(ans == 13394 ){
         switcheroo31();
         PopeKronkShift();
         Gonk += 1;
+
     }
+    //else if (Pope == 5 ){
+      //  campaignTrail_temp.questions_json[9] = tunnel(13889);         
+       // switcheroo52();
+        //barkswitch();
+        // Gonk += 8;
+    //}    
     else if (HS == 0 && Trans >= 3 ){ 
         campaignTrail_temp.questions_json[9] = tunnel(13206);        
         switcheroo32();
@@ -24240,6 +25715,15 @@ if(ans == 13394 ){
         KronkDeathShift();
         switcheroo38();
         console.log("Yiphee");
+        delete nominees.kronk;
+
+    }
+    if(ans == 13890 ){
+        BarkDeathSwitch();
+        switcheroo53();
+        console.log("Yiphee");
+        delete nominees.bark;
+
     }
     if (ans == 13290 ){
         Trans += 1;
@@ -24277,6 +25761,10 @@ if(ans == 13394 ){
     if (ans == 13356 ){
         LARP -= 1;
     }
+    if (ans == 13356 ){
+        LARP -= 1;
+    }
+
 //Q11
 if (e.noCounter == 10){
     if (Opp == 9 ){
@@ -24351,6 +25839,8 @@ if (e.noCounter == 10){
         MeowDeathSwitch();
         switcheroo48();
         console.log("Yiphee");
+    delete nominees.meow;
+
     }
     if (ans == 13212 ){
         Trans -= 1;
@@ -24446,7 +25936,6 @@ if (e.noCounter == 13) {
     campaignTrail_temp.questions_json[13] = tunnel(13138); 
     Hamsshift();
     switcheroo21();
-
  }
  else if( Opp == 2 ){
     campaignTrail_temp.questions_json[13] = tunnel(13029); 
@@ -24480,7 +25969,11 @@ if(ans == 13064 ){
 if(ans == 13719 || ans == 13724 || ans == 13754 || ans == 13755 ){        
     SecretEnding += 1;
         console.log("Yiphee");
-    }      
+    }
+if (ans == 13139 || ans == 13422 || ans == 13423 || ans == 13424){
+delete nominees.doh;
+ nominees.hams.isActive = true;
+}      
 //Q15
 if (e.noCounter == 14) {
 if( VP <= 0 && Trans <= -2 && Int <= 0){
@@ -24497,7 +25990,7 @@ else {
 if(ans == 13757 ){
                 var id = e.candidate_json.map(p=>p.pk).indexOf(77)
             campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/ShqLJNk.png';
-            campaignTrail_temp.running_mate_last_name="Kienna"
+            campaignTrail_temp.running_mate_last_name="Keinna"
             campaignTrail_temp.running_mate_image_url="https://i.imgur.com/UN3KTxB.png"
 			e.VPisCandidate += 2;
 			VP += 2;
@@ -24548,6 +26041,9 @@ else if( Opp == 2 && Thiag >= 2 ){
   else if( Opp == 5 && Thiag >= 2 ){
     campaignTrail_temp.questions_json[15] = tunnel(13868); 
  }
+  else if( Opp == 6 && Thiag >= 2 ){
+    campaignTrail_temp.questions_json[15] = tunnel(14011); 
+ }
  else if( Opp == 2 && Thiag >= 1 ){
     campaignTrail_temp.questions_json[15] = tunnel(13823); 
  }
@@ -24559,6 +26055,9 @@ else if( Opp == 2 && Thiag >= 2 ){
  }
   else if( Opp == 5 && Thiag >= 1 ){
     campaignTrail_temp.questions_json[15] = tunnel(13847); 
+ }
+   else if( Opp == 6 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[15] = tunnel(14005); 
  }  
  else if( Opp == 2 ){
     campaignTrail_temp.questions_json[15] = tunnel(13030); 
@@ -24585,6 +26084,10 @@ else if( Opp == 2 && Thiag >= 2 ){
     campaignTrail_temp.questions_json[15] = tunnel(13661);
  }
 }
+if (ans == 13681 || ans == 13685 || ans == 13689 || ans == 13694){
+delete nominees.greek;
+ nominees.magagreek.isActive = true;
+}   
 //Q17
 if (e.noCounter == 16) {
  if( Opp == 2 && MAGA == 3 && Trans <= 0 && Thiag <= 0){
@@ -24608,6 +26111,9 @@ else if( Opp == 1 && DOH == 3 && Thiag >= 2 ){
   else if( Opp == 5 && Thiag >= 2){
     campaignTrail_temp.questions_json[16] = tunnel(13883); 
  }
+   else if( Opp == 6 && Thiag >= 2){
+    campaignTrail_temp.questions_json[16] = tunnel(14014); 
+ }
   else if( Opp == 1 && Thiag >= 1 ){
     campaignTrail_temp.questions_json[16] = tunnel(13832); 
  }
@@ -24622,6 +26128,9 @@ else if( Opp == 1 && DOH == 3 && Thiag >= 2 ){
  }
   else if( Opp == 5 && Thiag >= 1 ){
     campaignTrail_temp.questions_json[16] = tunnel(13850); 
+ }
+  else if( Opp == 6 && Thiag >= 1 ){
+    campaignTrail_temp.questions_json[16] = tunnel(14008); 
  }
  else if( Opp == 1 && DOH == 3 && VP == 1 ){
     campaignTrail_temp.questions_json[16] = tunnel(13742); 
@@ -24663,7 +26172,7 @@ if(ans == 13671 ){
 vpTable = {
     "Thiagitolito!" : "Gart F. Jonkler",
     "Thiag" : "Lawberg",
-    "Gart F. Jonkler" : "Kienna",
+    "Gart F. Jonkler" : "Keinna",
     "Lawberg" : "Big Cheese",
 
     "Kostas" : "Forgottenpassword",
@@ -24980,7 +26489,7 @@ used=false
     e.executable = []
 // Page 1    
 // Hams Endings
-    if (Opp == 1 && OppEV >= 270 && SecretEnding <= 0) { 
+    if (Opp == 1 && OppEV >= 270 && SecretEnding <= 0 && Thiag <= 0) { 
       e.pages.push(`<h2>Hurricane Homer</h2>
                   <p>The results come in slowly, Libra's making it go slow, and excitement builds. Your move over to #Thiag-HQ, check in on the team. Lawberg is worried. Gart, quiet. Waffles, gone from the group chat.</p><p>Then you move to #Pief-General, a riot. Posters for Hams, For RDS in July, for Homer in June. Claims about July being rectified. Stopping a Stolen Election.</p><p>In the final round, you find yourself against SteamedHams. The former Pope, the Homer candidate. You can't lose, you beat Homer and his tricks last time, and you'll do it again.</p><p>Right...?</p><p><b>Right???</p></b><p> And then you get a ping.</p><p> its in #election commission. Libra.</p><p><b>Congratulations to our new Pief, Steamedhams!</b></p><p>Your heart drops, you lost.</p><p>It's over.</p><p>You're done for, all the good times are gone. All the fun, all you've fought for—it wasn't enough. You DM Lawberg, he's planning a run next month and wants your support.</p><p>Another Ping, From Him, In #annoucments.</p><p><b>”Thank you for electing me, people. The good times are well on their way.</p><p>Muling Ends Now. Wars End Now. The fight against the church ends now!</p><p>We are restoring the Holy Spirit, the Deepstater Spirit and today was that first step!</b></p><p>You have no idea what that means. You have put so much effort into this, you have worked so hard, just for a spiteful yellow man to take it all away from you.</p><p>Oh well. </p> <p>You say you need a break from the pief, away from the deepstate.</p><p>some time after the defeat to just chill.</p><p>But you'll come back eventually, you think to yourself. For now you boot up Deltarune."</p>
       `)
@@ -25002,7 +26511,7 @@ used=false
 
     }
 
-    if (Opp == 1 && ThiagEV >= 270 && SecretEnding <= 0) { 
+    if (Opp == 1 && ThiagEV >= 270 && SecretEnding <= 0 && Thiag <= 0)  { 
       e.pages.push(`<h2>You Killed Hams!</h2>
       <p>Yiphee!</p>
       `)
@@ -25045,7 +26554,7 @@ used=false
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/f9MXPpb.png'})])
 
     }
-    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) { 
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0 && Thiag <= 0) { 
       e.pages.push(`<h2>Hurricane Homer</h2>
                   <p>The results come in slowly, Libra's making it go slow, and excitement builds. Your move over to #Thiag-HQ, check in on the team. Lawberg is worried. Gart, quiet. Waffles, gone from the group chat.</p><p>Then you move to #Pief-General, a riot. Posters for Hams, For RDS in July, for Homer in June. Claims about July being rectified. Stopping a Stolen Election.</p><p>In the final round, you find yourself against SteamedHams. The former Pope, the Homer candidate. You can't lose, you beat Homer and his tricks last time, and you'll do it again.</p><p>Right...?</p><p><b>Right???</p></b><p> And then you get a ping.</p><p> its in #election commission. Libra.</p><p><b>Congratulations to our new Pief, Steamedhams!</b></p><p>Your heart drops, you lost.</p><p>It's over.</p><p>You're done for, all the good times are gone. All the fun, all you've fought for—it wasn't enough. You DM Lawberg, he's planning a run next month and wants your support.</p><p>Another Ping, From Him, In #annoucments.</p><p><b>”Thank you for electing me, people. The good times are well on their way.</p><p>Muling Ends Now. Wars End Now. The fight against the church ends now!</p><p>We are restoring the Holy Spirit, the Deepstater Spirit and today was that first step!</b></p><p>You have no idea what that means. You have put so much effort into this, you have worked so hard, just for a spiteful yellow man to take it all away from you.</p><p>Oh well. </p> <p>You say you need a break from the pief, away from the deepstate.</p><p>some time after the defeat to just chill.</p><p>But you'll come back eventually, you think to yourself. For now you boot up Deltarune."</p>
       `)
@@ -25088,7 +26597,7 @@ used=false
 
     }
 
-    if (Opp == 1 && ThiagEV >= 270 && SecretEnding >= 1) { 
+    if (Opp == 1 && ThiagEV >= 270 && SecretEnding >= 1 && Thiag <= 0) { 
       e.pages.push(`<h2>Who Killed Mr. Simpson?</h2>
       <p>Yiphee!</p>
       `)
@@ -25109,7 +26618,7 @@ used=false
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/1Rt5VS6.png'})])
 
     }
-    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding >= 1) { 
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding >= 1 && Thiag <= 0) { 
       e.pages.push(`<h2>Who Killed Mr. Simpson?</h2>
     <p>Yiphee!</p>
 
@@ -25131,7 +26640,7 @@ used=false
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/1Rt5VS6.png'})])
 
     }
-    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding >= 1) { 
+    if (Opp == 1 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding >= 1 && Thiag <= 0) { 
       e.pages.push(`<h2>ALL HAIL KING HOMER</h2>
 
       `)
@@ -25156,7 +26665,7 @@ used=false
 // Kostas
     if (Opp == 2 && OppEV >= 270 && e.player_answers.includes(13671)) { 
       e.pages.push(`<h2>The Lion Unleashed</h2>
-            <p> This can’t be happening. You tab over to #pief-general. It's quiet, locked down. Carlack has already timeouted Gonkefeller and Lawberg for 6 Hours.</p><p>In #general, the pings. Oh my god the Pings. Kostas, Okie, They keep pinging @everyone, @thiaglito, @lpnewsletter. The chants, they keep chanting.</p><p><b> KOSTAS WINS</p><p>KOSTAS WINS</p><p>KOSTAS WINS</b></p><p> You move to #thiag-hq. The chaos. Lawberg crashing out over Kostas’s plans to ban you, to ban him. Gart and Waffles have already left the sinking ship. Kienna, trying to console you , telling you with the backing of The Dukes, you can’t lose. His lead is going to evaporate. He won’t win in the first round, he can’t.</p><p>He can’t</p><p> Libra DMs you. You click on the dm, but your mouse hesitates. Then the message.</p><p>”Sorry Thiag. There’s nothing we can do. The support is too great.”</p><p> Kostas is going to win.”</p><p>No-No-No this can’t be happening. You move back to #announcements, It’ll be a final stand. You’ll rally your supporters, the people to stop this lunatic from storming the gates. You’ll be the Hero the server needs to banish this fascist.</p><p>An @everyone interrupts your spiral. Not in #general,  Its in #kostas-show. He’s talking</p><p><b>”Folks there’s been a lot of fraud. The Mullers, the radical Left, The NewGens. They want to call us Chuds for liking Trump.”</p><p>”They hate us because we love the Deepstate.”</p><p>”Tomorrow is a bright day. Libra’s going to announce it very very soon folks. We won in the biggest landslide ever, better than Bache, better than Meow, better than Oklahoman and I do love Oklahoman.”</p><p>”Keep Fighting Folks and don’t ever stop. We’ll crush them all and we’ll MAKE THE DEEPSTATE GREAT AGAIN I promise you that!”</b></p><p>You don’t know what to say. You want to fight back, do something, anything. You were supposed to be the greatest Pief ever. You didn’t lose to him</p><p> You couldn’t have lost</p><p> You couldn’t have lost</p><p><i>You couldn’t have lost…</i></p>      `)
+            <p> This can’t be happening. You tab over to #pief-general. It's quiet, locked down. Carlack has already timeouted Gonkefeller and Lawberg for 6 Hours.</p><p>In #general, the pings. Oh my god the Pings. Kostas, Okie, They keep pinging @everyone, @thiaglito, @lpnewsletter. The chants, they keep chanting.</p><p><b> KOSTAS WINS</p><p>KOSTAS WINS</p><p>KOSTAS WINS</b></p><p> You move to #thiag-hq. The chaos. Lawberg crashing out over Kostas’s plans to ban you, to ban him. Gart and Waffles have already left the sinking ship. Keinna, trying to console you , telling you with the backing of The Dukes, you can’t lose. His lead is going to evaporate. He won’t win in the first round, he can’t.</p><p>He can’t</p><p> Libra DMs you. You click on the dm, but your mouse hesitates. Then the message.</p><p>”Sorry Thiag. There’s nothing we can do. The support is too great.”</p><p> Kostas is going to win.”</p><p>No-No-No this can’t be happening. You move back to #announcements, It’ll be a final stand. You’ll rally your supporters, the people to stop this lunatic from storming the gates. You’ll be the Hero the server needs to banish this fascist.</p><p>An @everyone interrupts your spiral. Not in #general,  Its in #kostas-show. He’s talking</p><p><b>”Folks there’s been a lot of fraud. The Mullers, the radical Left, The NewGens. They want to call us Chuds for liking Trump.”</p><p>”They hate us because we love the Deepstate.”</p><p>”Tomorrow is a bright day. Libra’s going to announce it very very soon folks. We won in the biggest landslide ever, better than Bache, better than Meow, better than Oklahoman and I do love Oklahoman.”</p><p>”Keep Fighting Folks and don’t ever stop. We’ll crush them all and we’ll MAKE THE DEEPSTATE GREAT AGAIN I promise you that!”</b></p><p>You don’t know what to say. You want to fight back, do something, anything. You were supposed to be the greatest Pief ever. You didn’t lose to him</p><p> You couldn’t have lost</p><p> You couldn’t have lost</p><p><i>You couldn’t have lost…</i></p>      `)
   if (used != true) {
      const playlist = new Playlist();
        const song = new Song(
@@ -25176,7 +26685,7 @@ used=false
     }
 if (Opp == 2 && OppEV <= 270 && e.player_answers.includes(13671)) { 
       e.pages.push(`<h2>The Lion Put Down</h2>
-      <p> This, This can’t be happening. #pief-general, its chaos, a riot, a shitshow. Rocky’s already tried locking it down, but the bot is down and his supporters they won’t stop chanting.<b></p><p>KOSTAS WINS</p><p>KOSTAS WINS</p><p>KOSTAS WINS</p><p></b>Lawberg’s already been timed out. Same with Oklahoman, but there are just too many. Too many voices. The people, their fear, their hatred, it's overflowing.</p><p>You tab over to #pief-general. Lawberg is crashing out. He’s telling you, the votes are being moved. You added Zim, but Waffles, Gart, even Kienna, they are all gone.</p><p>Then you get a DM.</p><p>Its Libra.</p><p>”Its looking like your going to win Thiag, You don’t have the votes but Kostas doesn’t either but second choices can be changed.”</p><p>”Keep Things Stable. Peaceful. <b>We don’t want to step in…”</b></p><p>You move back to #pief-general and get the victory statement ready, for peace, for the Deepstate for…</p><p>And then an @everyone. It's not in #annoucments but in #kostas-show.</p><p><b>”With the first round over I think it's fair to say that we have won enough votes to declare victory without the fraud, and let me tell you there is too much fraud.”</p><p>”We know Zim, Lawberg, even Thiag, which is so sad so so sad,  they’ve been muling too scared of what we are doing here.”</p><p>”Too scared of our victory.”</p><p>”If those evil admins declare Thiag the victor, let me tell you they will have stolen this great election and ruined our Deepstate.”</p><p>”Don’t give up the fight folks. Fight like Hell and let them hear our voice.”</b></p><p>A response, you’ll need a response fast. #announcements, timeouts of Kostas and all of his supporters.  Stability that’ll be what we need. A unity cabinet to stop the bleeding. To save your term.</p><p>You weather the last election scandal. You’ll weather this one.</p><p><i><b>Right?</i></b></p>
+      <p> This, This can’t be happening. #pief-general, its chaos, a riot, a shitshow. Rocky’s already tried locking it down, but the bot is down and his supporters they won’t stop chanting.<b></p><p>KOSTAS WINS</p><p>KOSTAS WINS</p><p>KOSTAS WINS</p><p></b>Lawberg’s already been timed out. Same with Oklahoman, but there are just too many. Too many voices. The people, their fear, their hatred, it's overflowing.</p><p>You tab over to #pief-general. Lawberg is crashing out. He’s telling you, the votes are being moved. You added Zim, but Waffles, Gart, even Keinna, they are all gone.</p><p>Then you get a DM.</p><p>Its Libra.</p><p>”Its looking like your going to win Thiag, You don’t have the votes but Kostas doesn’t either but second choices can be changed.”</p><p>”Keep Things Stable. Peaceful. <b>We don’t want to step in…”</b></p><p>You move back to #pief-general and get the victory statement ready, for peace, for the Deepstate for…</p><p>And then an @everyone. It's not in #annoucments but in #kostas-show.</p><p><b>”With the first round over I think it's fair to say that we have won enough votes to declare victory without the fraud, and let me tell you there is too much fraud.”</p><p>”We know Zim, Lawberg, even Thiag, which is so sad so so sad,  they’ve been muling too scared of what we are doing here.”</p><p>”Too scared of our victory.”</p><p>”If those evil admins declare Thiag the victor, let me tell you they will have stolen this great election and ruined our Deepstate.”</p><p>”Don’t give up the fight folks. Fight like Hell and let them hear our voice.”</b></p><p>A response, you’ll need a response fast. #announcements, timeouts of Kostas and all of his supporters.  Stability that’ll be what we need. A unity cabinet to stop the bleeding. To save your term.</p><p>You weather the last election scandal. You’ll weather this one.</p><p><i><b>Right?</i></b></p>
       `)
   if (used != true) {
      const playlist = new Playlist();
@@ -25217,7 +26726,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 2 && ThiagEV >= 270 && SecretEnding <= 0) { 
+    if (Opp == 2 && ThiagEV >= 270 && SecretEnding <= 0 && Thiag <= 0) { 
       e.pages.push(`<h2>The Small Dog</h2>
     <p>This. This can’t be happening. You were supposed to win, to make the Deepstate better. We had the best team, the best term, why is Kostas winning votes? Why is this election so close? He can’t win. He can’t beat you.</p><p>You tab over to #its-da-news, and with baited breath you watch as waffles types. And then.</p><p><b>”We here at #its-da-news have to say that this election right now is too close to call. Neither candidate has secured a comfortable majority.”</b></p><p>You pause and then move over to #thiag-hq. Lawberg tells you that he feels good. Gart is silent as always, most likely asleep at this point.</p><p>Then there is a ping.</p><p>Its in #election-commission, from Libra.</p><p><b>”After many rounds, After much tabulation. We can now Declare Thiag has been reelected Pief of the Deepstate.</b></p><p>Your hands leave your keyboard. You aren’t sure what to say. Already your dms are going wild. Okie talking about a position in the new administration. Raya talking about resigning. Bobby telling you to be a responsible, careful pief.</p><p>After you click through the pings and the dms you find one that sticks out. Kostas.</p><p>“Congragulations Mr. Pief.”</p><p> you can feel the desperation, the agony from the other line.</p><p>”You know when I ran, I really thought I could win. That maybe this was my chance after all the joke campaigns.</p><p>”I guess not. Just remember why I ran.”</p><p><i><b>”What you did</b></i></p><p>You tab away. What a loser. And to think you were considering him for LARPmaster before all of this. The people will want you now. You’ll need to go to #annoucments. Make them feel good. Make things feel normal after all of this.</p><p>and you know just how you are going to do that….</p>
       `)
@@ -25260,7 +26769,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/hQvBJZA.png'})])
 
     }
-    if (Opp == 2 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) { 
+    if (Opp == 2 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0 && Thiag <= 0) { 
       e.pages.push(`<h2>The Lion and The Small Dog</h2>
                   <p><p>This. This can’t be happening. You were supposed to win, to make the Deepstate better. We had the best team, the best term, why is Kostas winning votes? Why is he beating<i> You.</i> </p><p>You tab over to #its-da-news. Waffles prances around, glee all over his chat. <b> We can now declare Kostas has won enough votes to be the next Pief of the Deepstate</b>. Shit, Shit, you can’t let this happen. Why has your movement betrayed you? <i>Why?</i> <p>You move over to #pief-general, it's a hurricane. The people are cheering. Change, Change is here. Kostas has won. Okie declares “This has been a great victory for the People. We finally have a Pief who cares about the people.” You scoff. Kostas can’t be Pief. He’s too radical, too conservative. Too far. The admin, yes the admins. <i> they won’t let him win. </i> </p><p>You get a notification in #thiag-hq. It's Lawberg. He tells you it's not over. Him and Zim have a plan. You're not going to concede. You're not going to give them the satisfaction of your defeat. You're one big. You had a majority. He must have muled. Yes he muled. That’s the only way he could have beat you. He can’t have a majority in the first round. <i> He just can’t. </i></p><p>Then you get a DM. Bobby. The Emperor. He tells you it's over. You need to concede. You need to give up. You can’t win. The Votes have been cast. They’ve been tallied. You can’t stop him. You failed. Your term is done. <i> You need to give up. </i></p><p>And then there’s an @everyone. It's Kostas. He stands in #general, Forgotten by his side.</p><p>“I’ve waited a long time to win, but we finally did it. The Thiag Tyranny is <b> OVER </b>”</p><p>“We are going to keep on fighting. We will not stop fighting.”</p><p>“Patriots I need you to stand by your Pief. We are going to save the Deepstate with this mandate.”</p><p>“Stay vigilant. The best is yet to come.” </p><p>You go to #announcements. This can’t be it. It can’t be over. </p><p><i> but you know the truth </i></p>
       `)
@@ -25304,7 +26813,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 3 && ThiagEV >= 270) { 
+    if (Opp == 3 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Ohas!</h2>
       <p>Yiphee!</p>
       `)
@@ -25347,7 +26856,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/ha2OaKe.png'})])
 
     }
-    if (Opp == 3 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 3 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>Ohas Killed You!</h2>
                   <p>Shit</p>
       `)
@@ -25369,7 +26878,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 //Poopyfart
-    if (Opp == 4 && OppEV >= 270) { 
+    if (Opp == 4 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>Road Chip</h2>
                   <p>You weren’t supposed to lose. The numbers were there, the plan was airtight, the team loyal. You had the infrastructure. You had the resume. You built foreign policy from nothing. You kept things intact.</p><p>But when you move to #its-da-news the results come in, all that fades.</p><p><b>“We can now declare Poopyfart has won enough votes to be the next Pief of the Deepstate.”</b></p><p> You stare at the message for too long. Your mouse hovers over #pief-administration-thiag, over #pief-general, over #announcements. You want to do something, anything. But in the blink of an eye your perms are removed and the role is given to him.</p><p>They flood in. Voices you’ve never seen. It’s like the server got turned inside out. And you, the one who held it together, you are now a punchline.</p><p>You type something, delete it. Type again. What’s the point? Every sentence will be twisted. You say your piece. They laugh. They boo. They react with skull emojis.</p><p>He pings @everyone. His font is somehow comic sans, his grammar worse. But the message hits:</p><p><b>“I AM PIEFPFART. THE FUN HAS BEGUN. NO MORE SNAP ELECTIONS. NO MORE FOREIGN STUFF. WERE GONNA MAKE LARP GREAT AGAIN.”</b></p><p> The cheers. The sigma troll face gifs. Minuteman spamming the laughing cat emoji. You close the tab.</p><p>You breathe.</p><p> You knew the risk. You knew the crowd was hungry for spectacle. But deep down, beneath the noise, you feel it. They’ll get tired. They’ll want clarity again. Discipline. Memory. Maybe not today. Maybe not next month. But it’s not over.</p><p> Not for you.</p><p>You’ll be back.</p> 
       `)
@@ -25391,7 +26900,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 4 && ThiagEV >= 270) { 
+    if (Opp == 4 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Poopyfart!</h2>
       <p>Yiphee!</p>
       `)
@@ -25412,7 +26921,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/5W0zguT.png'})])
 
     }
-    if (Opp == 4 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 4 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Poopyfart!</h2>
     <p>Yiphee!</p>
 
@@ -25434,7 +26943,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/5W0zguT.png'})])
 
     }
-    if (Opp == 4 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 4 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>Road Chip</h2>
                   <p>You weren’t supposed to lose. The numbers were there, the plan was airtight, the team loyal. You had the infrastructure. You had the resume. You built foreign policy from nothing. You kept things intact.</p><p>But when you move to #its-da-news the results come in, all that fades.</p><p><b>“We can now declare Poopyfart has won enough votes to be the next Pief of the Deepstate.”</b></p><p> You stare at the message for too long. Your mouse hovers over #pief-administration-thiag, over #pief-general, over #announcements. You want to do something, anything. But in the blink of an eye your perms are removed and the role is given to him.</p><p>They flood in. Voices you’ve never seen. It’s like the server got turned inside out. And you, the one who held it together, you are now a punchline.</p><p>You type something, delete it. Type again. What’s the point? Every sentence will be twisted. You say your piece. They laugh. They boo. They react with skull emojis.</p><p>He pings @everyone. His font is somehow comic sans, his grammar worse. But the message hits:</p><p><b>“I AM PIEFPFART. THE FUN HAS BEGUN. NO MORE SNAP ELECTIONS. NO MORE FOREIGN STUFF. WERE GONNA MAKE LARP GREAT AGAIN.”</b></p><p> The cheers. The sigma troll face gifs. Minuteman spamming the laughing cat emoji. You close the tab.</p><p>You breathe.</p><p> You knew the risk. You knew the crowd was hungry for spectacle. But deep down, beneath the noise, you feel it. They’ll get tired. They’ll want clarity again. Discipline. Memory. Maybe not today. Maybe not next month. But it’s not over.</p><p> Not for you.</p><p>You’ll be back.</p> 
       `)
@@ -25456,7 +26965,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 // Gonkefeller
-    if (Opp == 5 && OppEV >= 270) { 
+    if (Opp == 5 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>Unknown Unknowns</h2>
                   <p>The results are in. You knew winning reelection would be tough, but this. You always said that if you were to lose, it would be against a real heavyweight, someone like Kostas, someone like SteamedHams, or hell, even someone LARPier like LP.</p><p>You go to #pief-general to see if victory is in the cards. The posters for Gonkefeller for RDS, for a comeback against a sin-filled Piefdom.</p><p>You feel tired, heavy. You move to #Thiag-HQ, for something, anything. Lawberg doesn’t respond.</p><p> Then the Ping.</p><p>You know what’s coming when Libra calls the election, but never could you imagine you would lose like this.</p><p>Then another ping</p><p> Its Gonkefeller he’s started speaking in #announcements.</p><p><b>”We did it, we won. RDS thank you. Waffles, Okie, Rocky Thank you. I couldn’t have done this without any of you.</p><p>Those who stand against progress, be warned. The gonks are now in control, be wary."</b></p><p> The night goes on...</p><p>Soon you start seeing an overarching theme, one you hadn't quite noticed before,</p><p> maybe because you weren't paying attention to him, maybe because you simply didn't care. Regardless, you find that he doesn't have anything especially substantive or consistent that he really sticks to, no real plans, just go with the flow.</p><p>While Orwell and the likes still embrace his Piefdom as the night goes on, you find yourself questioning what he would do, what he would change.</p><p><b>You can’t stand it.</b></p><p>Your term was one of momentum, of change. Of action.</p><p> You move back to #pief-general and write</p><p> "Gonkefeller really doesn't have plans. If you have an issue with communication, just watch as it simply makes it so there is nothing to communicate."</p><p>Eventually as your comments spark escalation and more debate, more crashouts #pief-general finds itself locked.</p><p>Oh well.</p><p>Election night was rather disappointing.</p><p><b>but that's his failure, not yours.</b></p>
       `)
@@ -25478,7 +26987,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 5 && ThiagEV >= 270) { 
+    if (Opp == 5 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Gonkefeller!</h2>
       <p>Yiphee!</p>
       `)
@@ -25499,7 +27008,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/9BfEB0S.png'})])
 
     }
-    if (Opp == 5 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 5 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Gonkefeller!</h2>
     <p>Yiphee!</p>
 
@@ -25521,7 +27030,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/9BfEB0S.png'})])
 
     }
-    if (Opp == 5 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 5 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0)  { 
       e.pages.push(`<h2>Unknown Unknowns</h2>
                   <p>The results are in. You knew winning reelection would be tough, but this. You always said that if you were to lose, it would be against a real heavyweight, someone like Kostas, someone like SteamedHams, or hell, even someone LARPier like LP.</p><p>You go to #pief-general to see if victory is in the cards. The posters for Gonkefeller for RDS, for a comeback against a sin-filled Piefdom.</p><p>You feel tired, heavy. You move to #Thiag-HQ, for something, anything. Lawberg doesn’t respond.</p><p> Then the Ping.</p><p>You know what’s coming when Libra calls the election, but never could you imagine you would lose like this.</p><p>Then another ping</p><p> Its Gonkefeller he’s started speaking in #announcements.</p><p><b>”We did it, we won. RDS thank you. Waffles, Okie, Rocky Thank you. I couldn’t have done this without any of you.</p><p>Those who stand against progress, be warned. The gonks are now in control, be wary."</b></p><p> The night goes on...</p><p>Soon you start seeing an overarching theme, one you hadn't quite noticed before,</p><p> maybe because you weren't paying attention to him, maybe because you simply didn't care. Regardless, you find that he doesn't have anything especially substantive or consistent that he really sticks to, no real plans, just go with the flow.</p><p>While Orwell and the likes still embrace his Piefdom as the night goes on, you find yourself questioning what he would do, what he would change.</p><p><b>You can’t stand it.</b></p><p>Your term was one of momentum, of change. Of action.</p><p> You move back to #pief-general and write</p><p> "Gonkefeller really doesn't have plans. If you have an issue with communication, just watch as it simply makes it so there is nothing to communicate."</p><p>Eventually as your comments spark escalation and more debate, more crashouts #pief-general finds itself locked.</p><p>Oh well.</p><p>Election night was rather disappointing.</p><p><b>but that's his failure, not yours.</b></p>
       `)
@@ -25543,7 +27052,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 // Orwell
-    if (Opp == 6 && OppEV >= 270) { 
+    if (Opp == 6 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25565,7 +27074,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 6 && ThiagEV >= 270) { 
+    if (Opp == 6 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
       <p>Yiphee!</p>
       `)
@@ -25608,7 +27117,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 6 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 6 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25630,7 +27139,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 // ???
-    if (Opp == 7 && OppEV >= 270) { 
+    if (Opp == 7 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25652,7 +27161,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 7 && ThiagEV >= 270) { 
+    if (Opp == 7 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
       <p>Yiphee!</p>
       `)
@@ -25673,7 +27182,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 7 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 7 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
     <p>Yiphee!</p>
 
@@ -25695,7 +27204,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 7 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 7 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25717,7 +27226,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 // ???
-    if (Opp == 8 && OppEV >= 270) { 
+    if (Opp == 8 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25739,7 +27248,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 8 && ThiagEV >= 270) { 
+    if (Opp == 8 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
       <p>Yiphee!</p>
       `)
@@ -25760,7 +27269,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 8 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 8 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
     <p>Yiphee!</p>
 
@@ -25782,7 +27291,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 8 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 8 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25804,7 +27313,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 // ???
-    if (Opp == 9 && OppEV >= 270) { 
+    if (Opp == 9 && OppEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25826,7 +27335,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
 
     }
 
-    if (Opp == 9 && ThiagEV >= 270) { 
+    if (Opp == 9 && ThiagEV >= 270 && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
       <p>Yiphee!</p>
       `)
@@ -25847,7 +27356,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 9 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) { 
+    if (Opp == 9 && ThiagEV < 270 && OppEV < 270 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>You Killed Orwell!</h2>
     <p>Yiphee!</p>
 
@@ -25869,7 +27378,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/rJS2jSh.png'})])
 
     }
-    if (Opp == 9 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) { 
+    if (Opp == 9 && ThiagEV < 270 && OppEV < 270 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>A Man Chooses</h2>
                   <p><p>It’s late. The #Pief-General is quiet. #Thiag-HQ is restless. They want to win, you want to win. You need to stop whatever this is, whatever he is.</p><p>Then you get an @everyone ping, the votes are in.  And, with the subtlety of a blunt rock through stained glass, it hits:</p><p><b>“GEORGE ORWELL WINS.”</b></p><p> You reread it.</p><p>Then again.</p><p>It doesn’t register, not as rage, not as shock, not even disappointment. Just a laugh. First from your nose, then out loud. It's <i>him</i>. That guy. The one who spent the entire campaign shitposting, posting gifs of Morgan Freeman saying true, and typing messages reminding people he’s running with that crook TerryJerry.</p><p> You had expectations. Plans. Strategy. There were weeks where it felt like you were the server’s backbone, guiding it, shaping it, holding it together while everyone else ran laps around nonsense. You were going to keep things stable.</p><p>But this?</p><p> <b>“Damn thank you for electing me. First order: I’m establishing a Ministry of Humor. Second order: The server theme is now the hit book, 1984. Third order: idk.</b></p><p>” He’s not even pretending to take it seriously. There’s no formal transition ceremony. Just roles updated, a cascade of post-irony memes, and Orwell streaming himself playing TF2.</p><p><b>And the thing is… it’s kind of beautiful.</b></p></p>
                   `)
@@ -25892,7 +27401,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
     }
 // ???
 // Third Parties
-    if (LARPer == 1 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV) { 
+    if (LARPer == 1 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>Femanonanon</h2>
 <p>You take a deep breath</p> <p>Results are coming in, <b>very slow</b>. You notice Libra acting rather unusually when asked about progress on the results, and you see Rocky acting in a similar way.</p><p>They know something we don't, Lawberg says in #thiaghq, and you find yourself in agreement. Something must be going on . . . perhaps it was a tie, you think to yourself.</p> <p>I mean what would get them acting so, <i> strange </i></p><p>Results are finally starting to come in, they're still slow. You’ve still got the lead, thank god, but Libra's going through the rounds, cutting of candidates one by one.</p><p>#pief-general gets more and more active as the race draws more attention, and #general goes quiet. Finally, you're at the third round, where Cup o' Joe sees a surprise surge, and a thought crosses your mind: "What if... Joe wins... what if he becomes the next pief of the Deep State."</p><p>No, that was a silly thought, he would never, right?</p> <p><b>What</b></p><p> Joe made it into the final round. No way, people can't be ranking Joe over me, over any serious candidate. I mean, he has more opps than can be counted on two hands. Back in #thiaghq, Gart says that he will leave the server if Joe wins, while others simply doom the prospect of a pief who doesn't engage with the LARP all that much, just a slave of the admins.</p> <p>Now the results come in. <b>WHAT THE HELL, NO, NO, NO</b> you spam in quick succession in #pief-general the gonks are calling it a crashout. Piefgen goes absolutely crazy and is locked down for 5 minutes. Gart leaves the server in the chaos, and as it's unlocked, the craziness continues in a slightly less barbaric fashion. Soon enough, Joe comes out of the woodwork after having not been seen all night and delivers his iconic line,</p><p><b>"Geniuses at work,"</b></p><p>responding to some nobodies spamming in caps lock. There’s no announcement of victory but honestly you don’t care. You can't be bothered with pief right now, not in this state, hopefully it will get better.</p><p><i>But you know it won’t</i><p>
       `)
@@ -25913,7 +27422,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/vbmFftR.png'})])
 
     }
-    if (LARPer == 6 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV) { 
+    if (LARPer == 6 && ThiagEV < 270 && OppEV < 270 && LARPEV > OppEV && LARPEV > ThiagEV && LARPEV > GonkEV && Thiag <= 0) { 
       e.pages.push(`<h2>Glizzy Overload</h2>
 <p>Election night is tense. #thiaghq is certain you will win, while the gonks in #pief-general are saying your defeat is certain. As minutes turn to an hour, the final round is clear. The opposition has faltered. It's you against LP, and he is up by a few votes.</p> <p>But there’s no way they’ll vote for him over you, right?</p><p>#its-da-news filled with Homer and LP allies, with Lawberg—the only patriot of the bunch trying to play down the pro-LP and 'victory is likely' rhetoric—eventually leads to him getting "fired" from #its-da-news, and the staff begrudgingly agreeing to remove his access for the rest of the night. You spend the remaining minutes of the night parading #its-da-news as 'Deep State FOX News, with the rhetoric seemingly working.</p> <p>Soon the results are in . . . NO . . . FUCK . . . Homer and all his propagandists were right. You get a ping in #annoucments. Tabbing over is painful but when you do it you read from the Mouth of the Devil themself <p></p><b><b>"WE DID IT BITCHES,"</b> <b>"THEY TRIED TO TAKE IT AWAY FROM US, BUT WE TOOK IT BACK! LARP IS ALIVE AND WE”LL BE DOING GREAT THINGS! GONNA GO SMOKE A BOWL RQ BUT BE BACK SOON!!!!!.</b></b></p><p>the rest of the night is filled with similar rhetoric and people LP-posting.</p> <p>LP doesn’t come back online after his comments in #annoucments. Probably too high.  People—just later in the night—start to doom about LP's longevity as pief, but it's dismissed by LPbros saying things such as "you can't impeach bro again." As the night goes on, #pief-general turns more and more inactive, eventually Juno, LP's own vice pief, comes into the chat and proceeds to say "DEAD??"</p><p> His coalition seems to be falling apart already, but your legacy will at least be preserved, and that's what matters, you think to yourself as you head to bed.</p>      `)
  if (used != true) {
@@ -25933,7 +27442,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/4AW7LRQ.png'})])
 
     }
-    if (Gonk == 1 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) { 
+    if (Gonk == 1 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV && Thiag <= 0) { 
       e.pages.push(`<h2>Kronk won somehow!</h2>
                   <p>Shit</p>
       `)
@@ -25954,8 +27463,8 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/O4bOg1E.png'})])
 
     }
-    if (Gonk == 2 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) { 
-      e.pages.push(`<h2>Baum Baum BAUM!</h2>
+    if (Gonk == 2 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV && Thiag <= 0) { 
+      e.pages.push(`<h2>He's Just Sittin There.</h2>
 <p>You told yourself it didn’t matter. You said it was fine if you lost, that it’d be healthy, even. No one should serve more than two terms. But when the numbers started tilting and it became clear <b>Someone</b> was actually going to win, you felt that twitch. That cold little knot of resentment. Not rage. Just… irritation.</p><p> Quiet and dull, like a splinter that’s been under the skin for weeks. They hadn’t done anything. No grand speeches, no deep lore. They just popped in one day, said “hi,” sent a few memes, called Pief “silly”, and somehow, that was enough.</p><p>It took you months to build relevance. You pulled levers, made alliances, drew up plans, navigated drama, threw yourself into it like it meant something. And now Someone, who barely even knows the rules, is about to have it handed to them like a participation trophy.</p><p> They post: <b>“oh i won? damn that’s crazy lol”</b></p><p> You stare at the message for a long time. It feels like hours and then you move to your dms. Oklahoman is going off in them. Frothing.</p><p><b>“THIS is what I get for giving newgens the right to vote and run in elections. I SHOULDVE NEVER LET THOSE KIDS IN. I mean fuck!</p><p> Army, Potato, hell even Darkstar, they were all godamn right.</p><p>Pief was BUILT on oldgen backs and now some CHILD is running the show. They don’t even know the lore. They don’t know our suffering. What we’ve built, what we’ve—”</p><p></b>You don’t respond. You had your moment. You were once the NewGen they hailed as the changing of the old guard. Guess Someone is that now, somehow.</p><p>You get another ping They’re calling the results officially in #election-commission. You close discord.</p><p>If doing nothing is enough to win then why do anything at all.</p>
       `)
  if (used != true) {
@@ -25975,7 +27484,7 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/esYqaaz.png'})])
 
     }
-    if (Gonk == 3 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) { 
+    if (Gonk == 3 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV && Thiag <= 0) { 
       e.pages.push(`<h2>Dyson won somehow!</h2>
                   <p>Shit</p>
       `)
@@ -25994,6 +27503,27 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
  }
       //e.image = ""
       e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/8tMpFPL.png'})])
+
+    }
+    if (Gonk == 8 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV && Thiag <= 0) { 
+      e.pages.push(`<h2>Woof Woof!</h2>
+                  <p>Woof</p>
+      `)
+ if (used != true) {
+      const playlist = new Playlist();
+       const song = new Song(
+         "Club Bizarre",
+         "U26",
+         "https://m.media-amazon.com/images/I/71v7n1ZgVOL._UF1000,1000_QL80_.jpg",
+         "https://audio.jukehost.co.uk/DEWorPx8SUZLMUleqZT4BxkxYvcgtedB"
+       );
+       playlist.addSong(song);
+     changePlaylist(playlist);
+     
+     used = true;
+ }
+      //e.image = ""
+      e.executable.push([0, (() => {e.image = e.image = 'https://i.imgur.com/OdDqYEU.png'})])
 
     }
     // Page 2
@@ -26111,6 +27641,14 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([1, (() => {e.image = 'https://i.imgur.com/6YV0qJF.png'})])
 
     }
+    if (Gonk == 8 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) {
+      e.pages.push(`<h2>Second piefdom of Dyson</h2>
+         <p>Does Dyson end Pief?</p>
+
+      `)
+      e.executable.push([1, (() => {e.image = 'https://i.imgur.com/6YV0qJF.png'})])
+
+    }
     if (VP == 1 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV && SecretEnding <= 0 ) {
       e.pages.push(`<h2>piefdom of Thiag</h2>
                 <p>4 More Wars?</p>
@@ -26177,7 +27715,9 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/COyLKCP.png'})])
     }
     if (Opp == 1 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV && SecretEnding <= 0) {
-      e.pages.push(`<h2>Hams Vs Thiag</h2>
+      e.pages.push(`<h2>Two Bad Neighbors</h2>
+           <br><br><center><img src='https://i.imgur.com/fy03EDt.png' width='100%'><br></center><br>
+
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
@@ -26200,27 +27740,34 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/AyEpcJr.png'})])
     }
     if (Opp == 3 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
-      e.pages.push(`<h2>Ohas vs Thiag</h2>
+      e.pages.push(`<h2>New World Ohas</h2>
+           <br><br><center><img src='https://i.imgur.com/qXX5Ww2.png' width='100%'><br></center><br>
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
     if (Opp == 4 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
-      e.pages.push(`<h2>Poopy vs Thiag</h2>
+      e.pages.push(`<h2>Poopynation</h2>
+                 <br><br><center><img src='https://i.imgur.com/VErx4k1.png' width='100%'><br></center><br>
+
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
         if (Opp == 5 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV){
-      e.pages.push(`<h2>Gonkefeller vs Thiag</h2>
+      e.pages.push(`<h2>Downward Spiral</h2>
+                 <br><br><center><img src='https://i.imgur.com/krnviHW.png' width='100%'><br></center><br>
+
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
     if (Opp == 6 && ThiagEV < OppEV && OppEV > LARPEV && OppEV > GonkEV) {
-      e.pages.push(`<h2>Orwell vs Thiag</h2>
+      e.pages.push(`<h2>1984</h2>
+                 <br><br><center><img src='https://i.imgur.com/Zj39tru.png' width='100%'><br></center><br>
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
     if (Opp == 1 && ThiagEV > OppEV && ThiagEV > LARPEV && ThiagEV > GonkEV) {
       e.pages.push(`<h2>Hams Vs Thiag</h2>
+
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
@@ -26275,6 +27822,11 @@ if (Opp == 2 && OppEV >= 270 && SecretEnding <= 0) {
       `)
       e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
     }
+    if (Gonk == 8 && ThiagEV < 270 && OppEV < 270 && GonkEV > OppEV && GonkEV > ThiagEV) {
+      e.pages.push(`<h2>Dyson Mod</h2>
+      `)
+      e.executable.push([3, (() => {e.image = 'https://i.imgur.com/U75f0hT.png'})])
+    }
 
     return construct(0);
   }
@@ -26302,7 +27854,7 @@ const nominees = {
       name: 'Kostas',
       imgURL: 'https://i.imgur.com/naZINNp.png',
       isActive: true,
-      bioText: '<h5>Former LARPmaster</h5><center><img src="https://i.imgur.com/naZINNp.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center><p>'
+      bioText: '<h5>Greek</h5><center><img src="https://i.imgur.com/naZINNp.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center><p>'
     },
     doh: {
       name: 'Homer',
@@ -26314,19 +27866,31 @@ const nominees = {
       name: 'Ohas',
       imgURL: 'https://i.imgur.com/iO446KR.png',
       isActive: true,
-      bioText: '<h5>Justice of The Supreme Court</h5><center><img src="https://i.imgur.com/iO446KR.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Luvs Law, Hates Pief</h5><center><img src="https://i.imgur.com/iO446KR.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     poopy: {
       name: 'Poopyfart',
       imgURL: 'https://i.imgur.com/NVSMgM7.png',
       isActive: true,
-      bioText: '<h5>Former LARPmaster</h5><center><img src="https://i.imgur.com/NVSMgM7.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Your Biggest Hater</h5><center><img src="https://i.imgur.com/NVSMgM7.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    orwell: {
+      name: 'George Orwell',
+      imgURL: 'https://i.imgur.com/O6mNrl6.png',
+      isActive: true,
+      bioText: '<h5>Literally 1984</h5><center><img src="https://i.imgur.com/O6mNrl6.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },
+    gonker: {
+      name: 'Mr. Gonkefeller',
+      imgURL: 'https://i.imgur.com/riBHLYF.png',
+      isActive: true,
+      bioText: '<h5>Perennial Cannidate</h5><center><img src="https://i.imgur.com/riBHLYF.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     femboy: {
       name: 'Cup"O"Joe',
       imgURL: 'https://i.imgur.com/PYUSu8h.png',
       isActive: true,
-      bioText: '<h5>Former Pen Pusher</h5><center><img src="https://i.imgur.com/PYUSu8h.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Femboy</h5><center><img src="https://i.imgur.com/PYUSu8h.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     lp: {
       name: 'LP',
@@ -26350,43 +27914,31 @@ const nominees = {
       name: 'MinuteMan',
       imgURL: 'https://i.imgur.com/vfUZo4t.png',
       isActive: true,
-      bioText: '<h5>Shitposters</h5><center><img src="https://i.imgur.com/vfUZo4t.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Brainrotted</h5><center><img src="https://i.imgur.com/vfUZo4t.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     rascism: {
       name: 'Darkstar',
       imgURL: 'https://i.imgur.com/uHVZJOX.png',
-      isActive: true,
-      bioText: '<h5>Extremeist</h5><center><img src="https://i.imgur.com/uHVZJOX.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
-    },
-    lameorwell: {
-      name: 'George Orwell',
-      imgURL: 'https://i.imgur.com/wOiSBb3.png',
-      isActive: true,
-      bioText: '<h5>LARPer</h5><center><img src="https://i.imgur.com/wOiSBb3.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      isActive: false,
+      bioText: '<h5>Literally a Nazi</h5><center><img src="https://i.imgur.com/uHVZJOX.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     gonk: {
       name: 'Someone',
       imgURL: 'https://i.imgur.com/9A2BNdn.png',
-      isActive: false,
+      isActive: true,
       bioText: '<h5>Who the Fuck is This</h5><center><img src="https://i.imgur.com/9A2BNdn.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     free: {
       name: 'Franko',
       imgURL: 'https://i.imgur.com/pA3mHq0.png',
       isActive: true,
-      bioText: '<h5>Exile</h5><center><img src="https://i.imgur.com/pA3mHq0.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Political Refugee</h5><center><img src="https://i.imgur.com/pA3mHq0.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     justice: {
       name: 'Glory4Rome',
       imgURL: 'https://i.imgur.com/YiY2X58.png',
       isActive: true,
       bioText: '<h5>Chief Justice of The Supreme Court</h5><center><img src="https://i.imgur.com/YiY2X58.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
-    },
-    lamegonker: {
-      name: 'Mr. Gonkefeller',
-      imgURL: 'https://i.imgur.com/eudSwgY.png',
-      isActive: true,
-      bioText: '<h5>Perennial Cannidate</h5><center><img src="https://i.imgur.com/eudSwgY.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     kronk: {
       name: 'Kronk',
@@ -26397,45 +27949,39 @@ const nominees = {
     ttnw: {
       name: 'Mack A. Rony',
       imgURL: 'https://i.imgur.com/i2g6YQj.png',
-      isActive: false,
-      bioText: '<h5>TTNW Fan</h5><center><img src="https://i.imgur.com/i2g6YQj.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      isActive: Mack,
+      bioText: '<h5>Number One Reddit Fan</h5><center><img src="https://i.imgur.com/i2g6YQj.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     pope: {
       name: 'Pope Kronk I',
       imgURL: 'https://itsastronomical.com/assets/1924/opp/davis.png',
-      isActive: false,
+      isActive: Kronkmentum,
       bioText: '<h5>The Pope of the Deepstate</h5><center><img src="https://itsastronomical.com/assets/1924/opp/davis.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     dyson: {
       name: 'Dyson',
       imgURL: 'https://i.imgur.com/VEnXMCm.png',
-      isActive: false,
-      bioText: '<h5>The Desytroyer</h5><center><img src="https://i.imgur.com/VEnXMCm.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      isActive: monday,
+      bioText: '<h5>The Destroyer</h5><center><img src="https://i.imgur.com/VEnXMCm.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     hams: {
       name: 'SteamedHams',
       imgURL: 'https://i.imgur.com/KHmc1Kh.png',
       isActive: false,
-      bioText: '<h5>Former Pope</h5><center><img src="https://i.imgur.com/KHmc1Kh.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+      bioText: '<h5>Holier than Thou</h5><center><img src="https://i.imgur.com/KHmc1Kh.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
     magagreek: {
       name: 'Kostas',
       imgURL: 'https://i.imgur.com/AVUq3lH.png',
-      isActive: false,
+      isActive: qanon,
       bioText: '<h5>A Pief Denied his Piefdom</h5><center><img src="https://i.imgur.com/AVUq3lH.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
     },
-    orwell: {
-      name: 'George Orwell',
-      imgURL: 'https://i.imgur.com/O6mNrl6.png',
-      isActive: false,
-      bioText: '<h5>Legitamize LARPer</h5><center><img src="https://i.imgur.com/O6mNrl6.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
-    },
-    gonker: {
-      name: 'Mr. Gonkefeller',
-      imgURL: 'https://i.imgur.com/riBHLYF.png',
-      isActive: false,
-      bioText: '<h5>Perennial Cannidate</h5><center><img src="https://i.imgur.com/riBHLYF.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
-    },       
+    bark: {
+      name: 'Senator Bark',
+      imgURL: 'https://i.imgur.com/DjtK6uu.png',
+      isActive: bark,
+      bioText: '<h5><i>Woof Woof Woof</i></h5><center><img src="https://i.imgur.com/riBHLYF.png" style="width: 75px; height: 75px; display: block; margin: 0px; cursor: pointer; border: 3px solid white; border-radius: 1px; object-fit: cover;"></center>'
+    },          
 };
 
 // Used for when the nominee is finalized
@@ -26832,6 +28378,9 @@ const electionObserver = new MutationObserver((mutations, electionObserverInstan
 
 
 electionObserver.observe(document.body, { childList: true, subtree: true });
+
+
+
 
 
 
