@@ -7,123 +7,168 @@ var can = 300;
 var storedCan = 0;
 campaignTrail_temp.achievements = {
         "Thiagmentum" : {
-    "image" : "https://i.imgur.com/JGBnALz.png",
+    "image" : "https://i.imgur.com/meXjE1L.png",
     "description" : "Win Reelection as Thiag.",
     "cannotBeCheated" : true
     },
         "Going to Brazil" : {
-    "image" : "https://i.imgur.com/LiVerj8.png",
-    "description" : "Loss Relection As Thiag.",
+    "image" : "https://i.imgur.com/jtkNNOy.png",
+    "description" : "Lose Relection As Thiag.",
     "cannotBeCheated" : true
     },
         "Four More Wars" : {
-    "image" : "https://i.imgur.com/oNtTN1v.png",
+    "image" : "https://i.imgur.com/9Wf8onN.png",
     "description" : "Win Reelection as Thiag with Lawberg.",
     "cannotBeCheated" : true
     },
+              "Let’s Go Gambling" : {
+    "image" : "https://i.imgur.com/5JvhdXb.png",
+    "description" : "Win as the Gambler.",
+    "cannotBeCheated" : true
+    },
+            "Pief that was Promised" : {
+    "image" : "https://i.imgur.com/yge3Lu2.png",
+    "description" : "Win as the Warmonger.",
+    "cannotBeCheated" : true
+    },
         "D'Oh" : {
-    "image" : "https://i.imgur.com/wSuiY9z.png",
+    "image" : "https://i.imgur.com/9FYIAne.png",
     "description" : "Beat Your Rival and His Thrall.",
     "cannotBeCheated" : true
     },
         "Goon Alert" : {
-    "image" : "https://i.imgur.com/sv3RJzn.png",
+    "image" : "https://i.imgur.com/FnRizdb.png",
     "description" : "Beat The Gooner and His Chain.",
     "cannotBeCheated" : true
     },
         "End Times" : {
-    "image" : "https://i.imgur.com/RrQzXmv.png",
+    "image" : "https://i.imgur.com/X63BM2m.png",
     "description" : "Beat The Destroyer and his Gonks.",
     "cannotBeCheated" : true
     },
         "Diddy with Fur" : {
-    "image" : "https://i.imgur.com/qPVffFI.png",
+    "image" : "https://i.imgur.com/sZDhOy3.png",
     "description" : "Beat Your Biggest Hater and His Shitposters.",
     "cannotBeCheated" : true
     },
         "Once More Into the Breach" : {
-    "image" : "https://i.imgur.com/Mk9RSaQ.png",
+    "image" : "https://i.imgur.com/W0KBvyL.png",
     "description" : "Beat The Perennial and his Savior.",
     "cannotBeCheated" : true
     },
         "Wrath and Folly" : {
-    "image" : "https://i.imgur.com/kQb2Yqb.png",
-    "description" : "Beat The Agent of Chaos and his Puppetmaster.",
+    "image" : "https://i.imgur.com/xQbyyFI.png",
+    "description" : "Beat The Agent of Chaos and his Mephistopheles.",
     "cannotBeCheated" : true
     },
-        "Return" : {
-    "image" : "https://i.imgur.com/geY7ioJ.png",
-    "description" : "Whoops Need to Kill This.",
+        "The NewGen Revolution" : {
+    "image" : "https://i.imgur.com/Nzv9IIC.png",
+    "description" : "Have the Nobody become Pief.",
     "cannotBeCheated" : true
     },
         "All Coming Together" : {
-    "image" : "https://i.imgur.com/RjSISrv.png",
+    "image" : "https://i.imgur.com/GhhrNOB.png",
     "description" : "Have The Pope become Pief.",
     "cannotBeCheated" : true
     },
-        "Me Espresso" : {
-    "image" : "https://i.imgur.com/LvYGwXm.png",
-    "description" : "Have The Biggest Sabrina Fan become Pief.",
+        "Ruined by the Pipeline" : {
+    "image" : "https://i.imgur.com/dhlLFQ5.png",
+    "description" : "Have The Femboy become Pief.",
     "cannotBeCheated" : true
     },
         "Monday’s" : {
-    "image" : "https://i.imgur.com/nnF6dI5.png",
+    "image" : "https://i.imgur.com/VWz5Wfz.png",
     "description" : "Have The Old Man become Pief.",
     "cannotBeCheated" : true
     },
        "Vs the World" : {
-    "image" : "https://i.imgur.com/fhLzrW5.png",
+    "image" : "https://i.imgur.com/OP7O12X.png",
     "description" : "Have The Ruiner of a Generation become Pief.",
     "cannotBeCheated" : true
     },
             "Conclave" : {
-    "image" : "https://i.imgur.com/QSO3OGd.png",
+    "image" : "https://i.imgur.com/RTfsrFn.png",
     "description" : "Have The Nuncio become Pope.",
     "cannotBeCheated" : true
     },
             "AntiPope" : {
-    "image" : "https://i.imgur.com/J9jokV7.png",
+    "image" : "https://i.imgur.com/qenNV63.png",
     "description" : "Have Your Rival become Pope.",
     "cannotBeCheated" : true
     },
             "LARPmaster" : {
-    "image" : "https://i.imgur.com/1YxS64X.png",
+    "image" : "https://i.imgur.com/mGzD6IV.png",
     "description" : "Have A LARPer become Pope.",
     "cannotBeCheated" : true
     },
             "What the Gonk Doin" : {
-    "image" : "https://i.imgur.com/Tf2t0hO.png",
+    "image" : "https://i.imgur.com/oLBjpNs.png",
     "description" : "Have The Perennial become Pope.",
     "cannotBeCheated" : true
     },
             "Second Coming" : {
-    "image" : "https://i.imgur.com/CpqXO04.png",
+    "image" : "https://i.imgur.com/5MDUalt.png",
     "description" : "Have the Hand of God become Pope.",
     "cannotBeCheated" : true
     },
             "Sounds Better with You" : {
-    "image" : "https://i.imgur.com/qrKwYL8.png",
-    "description" : "Have an Old Sport become Pope.",
+    "image" : "https://i.imgur.com/gyyhpys.png",
+    "description" : "Have The Old Sport become Pope.",
     "cannotBeCheated" : true
     },
-            "Do’hnut" : {
-    "image" : "https://i.imgur.com/Hq7kUAG.png",
+            "Peace with Homer" : {
+    "image" : "https://i.imgur.com/FxfPwJs.png",
     "description" : "Have your Rival join the Cabinet and have Him not Resign.",
     "cannotBeCheated" : true
     },
             "I Never Lose" : {
-    "image" : "https://i.imgur.com/0LFypaT.png",
+    "image" : "https://i.imgur.com/Jeqoovi.png",
     "description" : "Have your Hater join the Cabinet and not Resign.",
     "cannotBeCheated" : true
     },
             "Blackstar" : {
-    "image" : "https://i.imgur.com/0DENxoY.png",
+    "image" : "https://i.imgur.com/28isP4N.png",
     "description" : "Have a Chud join the Cabinet.",
     "cannotBeCheated" : true
     },
             "Aquarela do Brasil" : {
-    "image" : "https://i.imgur.com/FB1KNcW.png",
+    "image" : "https://i.imgur.com/LHphWjt.png",
     "description" : "Fall",
+    "cannotBeCheated" : true
+    },
+            "Truth Nuke" : {
+    "image" : "https://i.imgur.com/O0eZDVm.png",
+    "description" : "Activation Word Ronald McDonald.",
+    "cannotBeCheated" : true
+    },
+            "Those who D'oh" : {
+    "image" : "https://i.imgur.com/zEqAAS4.png",
+    "description" : "All Hail King Homer.",
+    "cannotBeCheated" : true
+    },
+            "RESIST" : {
+    "image" : "https://i.imgur.com/i5POc99.png",
+    "description" : "Have the Pief declare Martial Law.",
+    "cannotBeCheated" : true
+    },
+            "Poopyalert" : {
+    "image" : "https://i.imgur.com/BBfsjtr.png",
+    "description" : "THEY ARE TRYING TO KILL ME",
+    "cannotBeCheated" : true
+    },
+            "Failrp" : {
+    "image" : "https://i.imgur.com/jdHfXzR.png",
+    "description" : "Repeat the 7 Minute Crisis.",
+    "cannotBeCheated" : true
+    },
+            "By Gone Era" : {
+    "image" : "https://i.imgur.com/QZWDxZH.png",
+    "description" : "Have the Piefdom End.",
+    "cannotBeCheated" : true
+    },
+            "Desire" : {
+    "image" : "https://i.imgur.com/0sdBUuC.png",
+    "description" : "Find the Green Light Across the Bay.",
     "cannotBeCheated" : true
     },
 }
@@ -272,30 +317,46 @@ HistPVP=["100%","0%","0%","0%"];
     );
     
     const song2 = new Song(
-      "End of Line",
-      "Daft Punk",
-      "https://i1.sndcdn.com/artworks-000198687553-mno7iu-t500x500.jpg",
-      "https://audio.jukehost.co.uk/JsSUXm0tOUyHRJMuzjvpHJmbzZno4LV5"
+      "Neglect",
+      "Mr. Kitty",
+      "https://i.scdn.co/image/ab67616d0000b273b492477206075438e0751176",
+      "https://audio.jukehost.co.uk/Jziphb1zFJlnuu8MGWcn2rKUA34KOg1Q"
+    );
+
+        const song3 = new Song(
+      "Little Lies",
+      "Mareux ",
+      "https://i.scdn.co/image/ab67616d0000b2737cd3768fecefe743c5465b57",
+      "https://audio.jukehost.co.uk/VFb5qmVrTe8UKkbhlfiHisFr7v73cnGI"
     );
   
-    const song3 = new Song(
+    const song4 = new Song(
       "Phatom Pt II",
       "Justice",
       "https://www.horizonsmusic.co.uk/cdn/shop/products/JUSTICE-Cross_57f69c42-e5f2-4c9e-877b-3091e5dbe867.jpg?v=1631300937",
       "https://audio.jukehost.co.uk/arm8pANDBlz4SYOoSrriV41N2gvOhdHu"
     );
   
-    const song4 = new Song(
+    const song5 = new Song(
       "The Quiet Earth",
       "Thomas Barrandon",
       "https://i.scdn.co/image/ab67616d0000b27320638ff49bbeb53a7112a140",
       "https://audio.jukehost.co.uk/kTvDcqhpPOrTIm5IAdCGKbCfZK0rGc6z"
+    );
+
+        const song6 = new Song(
+      "GOTH",
+      "Sidewalks and Skeletons",
+      "https://pbs.twimg.com/profile_images/1755106471879311360/aysxI8SO_400x400.jpg",
+      "https://audio.jukehost.co.uk/99vEskB92sGyaalvuiYZ8RrNU9OYbLgn"
     );
   
     playlist.addSong(song1);
     playlist.addSong(song2);
     playlist.addSong(song3);
     playlist.addSong(song4);
+    playlist.addSong(song5);
+    playlist.addSong(song6);
     
     const playerContainer = document.createElement("div");
     playerContainer.id = "player";
