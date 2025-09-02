@@ -81,6 +81,11 @@ campaignTrail_temp.achievements = {
     "description" : "Have The Old Man become Pief.",
     "cannotBeCheated" : true
     },
+          "Release The Files!" : {
+    "image" : "https://i.imgur.com/gyyo4pO.png",
+    "description" : "Have A Duke become Pief.",
+    "cannotBeCheated" : true
+    },
        "Vs the World" : {
     "image" : "https://i.imgur.com/OP7O12X.png",
     "description" : "Have The Ruiner of a Generation become Pief.",
